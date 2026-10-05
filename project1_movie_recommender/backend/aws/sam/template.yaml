@@ -1,0 +1,28 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  RecommendationApi:
+    Type: AWS::Serverless::HttpApi
+  RecommendationFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../lambda/recommendation_api/
+      Handler: handler.handler
+      Runtime: python3.12
+      Timeout: 20
+      MemorySize: 512
+      Policies:
+        - Statement:
+            - Effect: Allow
+              Action: sagemaker:InvokeEndpoint
+              Resource: '*'
+      Environment:
+        Variables:
+          SAGEMAKER_ENDPOINT: replace-me
+      Events:
+        Recommendations:
+          Type: HttpApi
+          Properties:
+            ApiId: !Ref RecommendationApi
+            Path: /v1/recommendations
+            Method: POST

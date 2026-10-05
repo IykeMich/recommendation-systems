@@ -1,0 +1,17 @@
+{
+  "numeric": [
+    "previously_engaged",
+    "prior_product_events",
+    "category_affinity",
+    "product_popularity",
+    "income_headroom",
+    "existing_products"
+  ],
+  "categorical": [
+    "category",
+    "risk_level",
+    "risk_fit",
+    "employment_x_category",
+    "age_band"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "model_type": "logistic_regression_contextual_ranker",
+  "trained_at": "2026-10-05T15:19:00+00:00",
+  "label_rule": "positive = ['click', 'redeem']; 4 sampled non-engaged offers per positive, same context",
+  "num_interactions": 6961,
+  "num_training_rows": 15715,
+  "num_offers": 120,
+  "num_users": 1000,
+  "top_coefficients": [
+    {
+      "feature": "num__preferred_category_match",
+      "coefficient": 1.7092
+    },
+    {
+      "feature": "cat__category_x_daypart_Home Care|night",
+      "coefficient": -0.4565
+    },
+    {
+      "feature": "cat__category_Electronics",
+      "coefficient": -0.4431
+    },
+    {
+      "feature": "cat__category_x_device_Office & School|web",
+      "coefficient": 0.4152
+    },
+    {
+      "feature": "cat__channel_web",
+      "coefficient": -0.3735
+    },
+    {
+      "feature": "cat__device_type_web",
+      "coefficient": -0.3487
+    },
+    {
+      "feature": "cat__category_x_device_Toys & Games|web",
+      "coefficient": 0.3337
+    },
+    {
+      "feature": "cat__category_x_device_Appliances|mobile",
+      "coefficient": -0.3289
+    },
+    {
+      "feature": "cat__category_Food & Beverage",
+      "coefficient": -0.3221
+    },
+    {
+      "feature": "cat__category_x_device_Personal Care|web",
+      "coefficient": -0.3168
+    },
+    {
+      "feature": "cat__category_x_daypart_Home Care|evening",
+      "coefficient": 0.3154
+    },
+    {
+      "feature": "cat__category_x_daypart_Pet Care|morning",
+      "coefficient": 0.3067
+    }
+  ],
+  "evaluation": {
+    "protocol": "time-based holdout: train on the earliest 80% of events, rank the full catalog for each click/redeem in the last 20%",
+    "k": 10,
+    "cutoff": "2025-10-18T06:57:59+00:00",
+    "train_events": 5569,
+    "test_requests": 601,
+    "models": {
+      "contextual": {
+        "recall@10": 0.6356,
+        "ndcg@10": 0.3145,
+        "coverage": 0.925,
+        "diversity": 0.1704
+      },
+      "no_context": {
+        "recall@10": 0.6589,
+        "ndcg@10": 0.3249,
+        "coverage": 0.8833,
+        "diversity": 0.1647
+      },
+      "exposure_labels": {
+        "recall@10": 0.0649,
+        "ndcg@10": 0.027,
+        "coverage": 0.65,
+        "diversity": 0.2454
+      },
+      "popularity": {
+        "recall@10": 0.0948,
+        "ndcg@10": 0.0503,
+        "coverage": 0.1083,
+        "diversity": 0.4506
+      },
+      "contextual_max_3_per_category": {
+        "recall@10": 0.2596,
+        "ndcg@10": 0.1776,
+        "coverage": 0.55,
+        "diversity": 0.425
+      }
+    },
+    "by_segment": {
+      "daypart": {
+        "afternoon": {
+          "contextual": 0.6234,
+          "no_context": 0.6364,
+          "popularity": 0.0909,
+          "requests": 154
+        },
+        "evening": {
+          "contextual": 0.6429,
+          "no_context": 0.65,
+          "popularity": 0.1286,
+          "requests": 140
+        },
+        "morning": {
+          "contextual": 0.6818,
+          "no_context": 0.7143,
+          "popularity": 0.0844,
+          "requests": 154
+        },
+        "night": {
+          "contextual": 0.5948,
+          "no_context": 0.634,
+          "popularity": 0.0784,
+          "requests": 153
+        }
+      },
+      "device_type": {
+        "mobile": {
+          "contextual": 0.6058,
+          "no_context": 0.6298,
+          "popularity": 0.0865,
+          "requests": 208
+        },
+        "tablet": {
+          "contextual": 0.6188,
+          "no_context": 0.6502,
+          "popularity": 0.0807,
+          "requests": 223
+        },
+        "web": {
+          "contextual": 0.6941,
+          "no_context": 0.7059,
+          "popularity": 0.1235,
+          "requests": 170
+        }
+      }
+    }
+  }
+}

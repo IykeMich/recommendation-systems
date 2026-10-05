@@ -1,0 +1,121 @@
+offer_id,title,category,discount_pct,min_spend,channel,region,active,expires_at
+O00001,Bonus Audio Offer 1,Audio,15,0,web,Port Harcourt,True,2026-10-15
+O00002,Flash Fashion Offer 2,Fashion,15,250,both,Port Harcourt,True,2026-12-16
+O00003,Save Fitness Offer 3,Fitness,30,50,mobile,all,True,2026-12-28
+O00004,Save Phones Offer 4,Phones,25,100,web,all,True,2026-12-16
+O00005,Save Fashion Offer 5,Fashion,30,25,mobile,Abuja,True,2026-10-13
+O00006,Save Audio Offer 6,Audio,25,50,mobile,Abuja,True,2026-11-19
+O00007,Flash Home Offer 7,Home,20,0,web,Port Harcourt,True,2026-09-24
+O00008,Bundle Fashion Offer 8,Fashion,20,100,both,Abuja,True,2026-12-02
+O00009,Bundle Phones Offer 9,Phones,20,250,mobile,Abuja,True,2026-11-15
+O00010,Bonus Fashion Offer 10,Fashion,20,250,web,Lagos,True,2026-12-04
+O00011,Bundle Audio Offer 11,Audio,15,100,mobile,Port Harcourt,True,2026-12-07
+O00012,Save Fashion Offer 12,Fashion,20,0,mobile,all,True,2026-10-25
+O00013,Bonus Laptops Offer 13,Laptops,10,25,both,Lagos,True,2026-12-10
+O00014,Bonus Laptops Offer 14,Laptops,25,50,both,all,True,2026-12-14
+O00015,Bundle Fitness Offer 15,Fitness,15,25,web,Lagos,True,2026-12-24
+O00016,Flash Fashion Offer 16,Fashion,15,250,both,Lagos,True,2026-10-08
+O00017,Bonus Fitness Offer 17,Fitness,10,100,both,Port Harcourt,True,2026-09-25
+O00018,Bundle Fitness Offer 18,Fitness,25,25,mobile,all,True,2026-12-02
+O00019,Flash Audio Offer 19,Audio,20,0,both,all,True,2026-09-25
+O00020,Save Home Offer 20,Home,10,100,web,all,True,2026-11-27
+O00021,Bonus Fashion Offer 21,Fashion,10,250,web,Port Harcourt,True,2026-09-23
+O00022,Bonus Audio Offer 22,Audio,20,100,mobile,Lagos,True,2026-09-30
+O00023,Flash Audio Offer 23,Audio,20,25,mobile,Abuja,True,2026-12-29
+O00024,Bonus Laptops Offer 24,Laptops,15,50,mobile,Lagos,True,2026-11-28
+O00025,Save Laptops Offer 25,Laptops,25,250,web,Abuja,True,2026-10-05
+O00026,Bonus Phones Offer 26,Phones,5,100,mobile,Abuja,True,2026-12-31
+O00027,Bonus Fitness Offer 27,Fitness,25,0,both,all,True,2026-10-03
+O00028,Bonus Fashion Offer 28,Fashion,25,100,both,Lagos,True,2026-12-05
+O00029,Save Home Offer 29,Home,20,250,both,Lagos,True,2026-11-27
+O00030,Save Fashion Offer 30,Fashion,25,50,both,Abuja,True,2026-12-25
+O00031,Save Fitness Offer 31,Fitness,15,0,mobile,Port Harcourt,True,2026-12-21
+O00032,Flash Fitness Offer 32,Fitness,30,0,both,all,True,2026-11-04
+O00033,Bonus Phones Offer 33,Phones,30,250,web,all,True,2026-10-25
+O00034,Bundle Phones Offer 34,Phones,10,0,web,all,True,2026-10-23
+O00035,Save Fitness Offer 35,Fitness,25,50,web,Abuja,True,2026-11-26
+O00036,Save Home Offer 36,Home,25,50,mobile,Abuja,True,2026-10-25
+O00037,Bonus Fitness Offer 37,Fitness,20,25,both,Abuja,True,2026-12-24
+O00038,Flash Phones Offer 38,Phones,30,250,mobile,Abuja,True,2026-10-16
+O00039,Save Home Offer 39,Home,5,250,mobile,Port Harcourt,True,2026-11-24
+O00040,Save Fitness Offer 40,Fitness,25,0,both,Lagos,True,2026-10-22
+O00041,Bundle Phones Offer 41,Phones,30,25,both,Port Harcourt,True,2026-11-15
+O00042,Bundle Phones Offer 42,Phones,5,50,web,Lagos,True,2026-09-25
+O00043,Save Phones Offer 43,Phones,30,25,web,all,True,2026-10-21
+O00044,Flash Fashion Offer 44,Fashion,30,0,web,all,True,2026-10-29
+O00045,Flash Home Offer 45,Home,20,0,mobile,Lagos,True,2026-10-26
+O00046,Flash Audio Offer 46,Audio,20,25,web,Lagos,True,2026-10-19
+O00047,Bonus Fashion Offer 47,Fashion,20,50,mobile,Port Harcourt,True,2026-09-24
+O00048,Bonus Fashion Offer 48,Fashion,15,50,web,all,True,2026-10-10
+O00049,Bundle Home Offer 49,Home,20,50,mobile,Lagos,True,2026-12-13
+O00050,Flash Audio Offer 50,Audio,20,0,web,Port Harcourt,True,2026-12-10
+O00051,Bundle Home Offer 51,Home,15,25,mobile,all,True,2026-11-02
+O00052,Save Phones Offer 52,Phones,10,25,web,all,True,2026-12-27
+O00053,Flash Audio Offer 53,Audio,30,25,web,Abuja,True,2026-10-07
+O00054,Save Home Offer 54,Home,30,50,both,Abuja,True,2026-10-09
+O00055,Bundle Fitness Offer 55,Fitness,20,0,both,Port Harcourt,True,2026-10-23
+O00056,Bundle Home Offer 56,Home,5,25,mobile,Lagos,True,2026-12-09
+O00057,Bonus Fashion Offer 57,Fashion,25,25,both,Port Harcourt,True,2026-11-27
+O00058,Save Laptops Offer 58,Laptops,25,25,mobile,Port Harcourt,True,2026-10-12
+O00059,Bonus Laptops Offer 59,Laptops,20,0,web,all,True,2026-12-30
+O00060,Save Fitness Offer 60,Fitness,15,250,mobile,all,True,2026-09-27
+O00061,Flash Fashion Offer 61,Fashion,5,250,web,Lagos,True,2026-10-24
+O00062,Bonus Audio Offer 62,Audio,20,25,mobile,all,True,2026-11-19
+O00063,Flash Laptops Offer 63,Laptops,10,250,both,Abuja,True,2026-11-12
+O00064,Bundle Fitness Offer 64,Fitness,5,250,both,all,True,2026-11-05
+O00065,Flash Audio Offer 65,Audio,20,25,both,all,True,2026-12-18
+O00066,Bonus Laptops Offer 66,Laptops,10,50,web,Abuja,True,2026-12-11
+O00067,Save Audio Offer 67,Audio,25,50,mobile,Lagos,True,2026-11-26
+O00068,Save Fitness Offer 68,Fitness,25,50,mobile,Lagos,True,2026-10-03
+O00069,Bonus Fashion Offer 69,Fashion,15,50,both,Lagos,True,2026-10-03
+O00070,Flash Phones Offer 70,Phones,10,50,web,Abuja,True,2026-12-22
+O00071,Flash Audio Offer 71,Audio,20,0,web,Abuja,True,2026-12-16
+O00072,Flash Laptops Offer 72,Laptops,10,100,mobile,Lagos,True,2026-10-21
+O00073,Bonus Phones Offer 73,Phones,5,50,both,Port Harcourt,True,2026-11-18
+O00074,Flash Fashion Offer 74,Fashion,10,100,web,Lagos,True,2026-12-20
+O00075,Save Home Offer 75,Home,5,250,web,Port Harcourt,True,2026-10-30
+O00076,Bonus Phones Offer 76,Phones,25,50,both,Port Harcourt,True,2026-10-12
+O00077,Bonus Audio Offer 77,Audio,20,250,mobile,Lagos,True,2026-12-17
+O00078,Bundle Fitness Offer 78,Fitness,30,250,mobile,Port Harcourt,True,2026-12-17
+O00079,Save Audio Offer 79,Audio,10,100,both,Port Harcourt,True,2026-10-06
+O00080,Bonus Home Offer 80,Home,5,0,both,Abuja,True,2026-11-13
+O00081,Bonus Home Offer 81,Home,20,250,both,Port Harcourt,True,2026-11-11
+O00082,Bundle Fashion Offer 82,Fashion,30,25,web,all,True,2026-10-14
+O00083,Save Fashion Offer 83,Fashion,25,25,both,Port Harcourt,True,2026-11-14
+O00084,Flash Laptops Offer 84,Laptops,30,50,mobile,Abuja,True,2026-12-15
+O00085,Save Fitness Offer 85,Fitness,10,100,web,Abuja,True,2026-10-06
+O00086,Bonus Phones Offer 86,Phones,5,250,web,Lagos,True,2026-11-26
+O00087,Bundle Audio Offer 87,Audio,5,25,both,Lagos,True,2026-11-21
+O00088,Flash Laptops Offer 88,Laptops,15,0,both,Lagos,True,2026-11-17
+O00089,Flash Fashion Offer 89,Fashion,15,250,web,all,True,2026-11-08
+O00090,Save Fashion Offer 90,Fashion,15,250,both,Abuja,True,2026-11-18
+O00091,Bundle Audio Offer 91,Audio,25,100,web,all,True,2026-10-29
+O00092,Bundle Phones Offer 92,Phones,15,250,mobile,Lagos,True,2026-11-14
+O00093,Bonus Home Offer 93,Home,30,100,web,Port Harcourt,True,2026-12-20
+O00094,Save Fashion Offer 94,Fashion,25,50,both,Port Harcourt,True,2026-10-31
+O00095,Bonus Home Offer 95,Home,10,50,mobile,Port Harcourt,True,2026-10-11
+O00096,Bundle Audio Offer 96,Audio,10,250,mobile,Lagos,True,2026-12-13
+O00097,Bundle Home Offer 97,Home,10,250,both,Lagos,True,2026-11-02
+O00098,Flash Fashion Offer 98,Fashion,10,250,both,Abuja,True,2026-12-13
+O00099,Save Laptops Offer 99,Laptops,15,100,both,Abuja,True,2026-10-21
+O00100,Flash Audio Offer 100,Audio,30,100,web,all,True,2026-10-04
+O00101,Flash Home Offer 101,Home,30,0,both,all,True,2026-12-18
+O00102,Bonus Laptops Offer 102,Laptops,10,0,mobile,Port Harcourt,True,2026-11-10
+O00103,Flash Home Offer 103,Home,20,250,both,Lagos,True,2026-10-30
+O00104,Bonus Phones Offer 104,Phones,30,25,both,Port Harcourt,True,2026-12-18
+O00105,Flash Phones Offer 105,Phones,20,0,web,Abuja,True,2026-09-23
+O00106,Flash Laptops Offer 106,Laptops,5,0,both,Abuja,True,2026-10-14
+O00107,Save Fitness Offer 107,Fitness,10,0,both,Abuja,True,2026-11-13
+O00108,Bonus Fashion Offer 108,Fashion,15,50,web,all,True,2026-12-27
+O00109,Bonus Fashion Offer 109,Fashion,25,50,web,Lagos,True,2026-10-08
+O00110,Flash Home Offer 110,Home,10,25,web,all,True,2026-10-06
+O00111,Save Phones Offer 111,Phones,10,50,web,all,True,2026-12-10
+O00112,Save Laptops Offer 112,Laptops,30,0,mobile,Abuja,True,2026-10-19
+O00113,Bonus Fitness Offer 113,Fitness,10,25,mobile,Abuja,True,2026-12-09
+O00114,Bundle Laptops Offer 114,Laptops,15,250,mobile,all,True,2026-11-07
+O00115,Flash Audio Offer 115,Audio,20,25,web,all,True,2026-12-23
+O00116,Bonus Fitness Offer 116,Fitness,10,250,mobile,Port Harcourt,True,2026-11-18
+O00117,Flash Laptops Offer 117,Laptops,5,25,mobile,Lagos,True,2026-10-11
+O00118,Bonus Audio Offer 118,Audio,10,50,both,Port Harcourt,True,2026-10-15
+O00119,Save Fitness Offer 119,Fitness,20,50,both,Lagos,True,2026-10-22
+O00120,Save Home Offer 120,Home,20,25,mobile,all,True,2026-11-18

@@ -1,0 +1,1001 @@
+user_id,segment,age_band,preferred_category,device_type,region
+R00001,fitness,55+,Fashion,tablet,Abuja
+R00002,creator,25-34,Fashion,mobile,Port Harcourt
+R00003,professional,45-54,Laptops,web,Lagos
+R00004,professional,18-24,Phones,web,Ibadan
+R00005,business,35-44,Phones,mobile,Abuja
+R00006,fitness,18-24,Fitness,mobile,Enugu
+R00007,business,35-44,Phones,web,Enugu
+R00008,family,25-34,Laptops,tablet,Ibadan
+R00009,family,25-34,Fitness,tablet,Enugu
+R00010,family,25-34,Fashion,web,Port Harcourt
+R00011,business,35-44,Phones,tablet,Abuja
+R00012,creator,25-34,Laptops,mobile,Port Harcourt
+R00013,creator,35-44,Fashion,web,Port Harcourt
+R00014,student,35-44,Fitness,mobile,Ibadan
+R00015,fitness,35-44,Fitness,mobile,Lagos
+R00016,fitness,25-34,Audio,web,Enugu
+R00017,student,25-34,Phones,tablet,Lagos
+R00018,professional,55+,Fashion,web,Ibadan
+R00019,student,25-34,Home,mobile,Ibadan
+R00020,student,55+,Audio,mobile,Abuja
+R00021,professional,18-24,Fashion,web,Abuja
+R00022,creator,45-54,Fitness,mobile,Lagos
+R00023,professional,35-44,Fitness,mobile,Lagos
+R00024,family,35-44,Laptops,web,Enugu
+R00025,student,45-54,Phones,web,Abuja
+R00026,fitness,55+,Audio,tablet,Port Harcourt
+R00027,creator,18-24,Phones,web,Ibadan
+R00028,business,55+,Fashion,tablet,Abuja
+R00029,family,35-44,Audio,mobile,Ibadan
+R00030,student,55+,Home,tablet,Enugu
+R00031,professional,18-24,Fashion,tablet,Lagos
+R00032,student,55+,Laptops,web,Ibadan
+R00033,business,45-54,Phones,mobile,Abuja
+R00034,student,45-54,Laptops,tablet,Enugu
+R00035,student,45-54,Laptops,web,Lagos
+R00036,business,55+,Home,web,Enugu
+R00037,student,25-34,Phones,mobile,Port Harcourt
+R00038,creator,35-44,Laptops,mobile,Lagos
+R00039,student,25-34,Laptops,web,Port Harcourt
+R00040,business,35-44,Home,tablet,Enugu
+R00041,student,55+,Home,tablet,Enugu
+R00042,fitness,18-24,Home,tablet,Abuja
+R00043,creator,35-44,Home,mobile,Enugu
+R00044,student,18-24,Home,tablet,Lagos
+R00045,professional,25-34,Home,tablet,Abuja
+R00046,professional,35-44,Fashion,mobile,Port Harcourt
+R00047,creator,45-54,Phones,tablet,Port Harcourt
+R00048,professional,55+,Fitness,mobile,Port Harcourt
+R00049,professional,55+,Phones,mobile,Lagos
+R00050,fitness,18-24,Laptops,web,Port Harcourt
+R00051,student,25-34,Home,tablet,Lagos
+R00052,business,25-34,Audio,mobile,Abuja
+R00053,student,18-24,Audio,tablet,Enugu
+R00054,business,18-24,Audio,web,Enugu
+R00055,creator,35-44,Home,mobile,Abuja
+R00056,business,25-34,Home,web,Port Harcourt
+R00057,professional,18-24,Fashion,tablet,Abuja
+R00058,business,55+,Home,tablet,Abuja
+R00059,family,25-34,Home,tablet,Port Harcourt
+R00060,creator,25-34,Fashion,web,Port Harcourt
+R00061,fitness,45-54,Fashion,web,Lagos
+R00062,family,45-54,Laptops,tablet,Port Harcourt
+R00063,fitness,18-24,Fitness,web,Enugu
+R00064,student,35-44,Home,tablet,Ibadan
+R00065,student,45-54,Fitness,web,Ibadan
+R00066,business,55+,Fitness,tablet,Enugu
+R00067,creator,18-24,Home,mobile,Ibadan
+R00068,family,55+,Fitness,mobile,Lagos
+R00069,family,45-54,Home,web,Ibadan
+R00070,creator,18-24,Laptops,tablet,Lagos
+R00071,fitness,55+,Fashion,mobile,Lagos
+R00072,fitness,45-54,Laptops,web,Ibadan
+R00073,family,25-34,Laptops,web,Lagos
+R00074,creator,35-44,Fashion,web,Abuja
+R00075,business,25-34,Audio,tablet,Lagos
+R00076,professional,18-24,Home,mobile,Enugu
+R00077,creator,35-44,Audio,tablet,Enugu
+R00078,professional,18-24,Fitness,tablet,Port Harcourt
+R00079,family,45-54,Audio,web,Lagos
+R00080,family,18-24,Laptops,mobile,Ibadan
+R00081,fitness,18-24,Fashion,tablet,Ibadan
+R00082,student,35-44,Laptops,mobile,Port Harcourt
+R00083,fitness,25-34,Audio,tablet,Lagos
+R00084,family,45-54,Phones,web,Enugu
+R00085,fitness,35-44,Phones,web,Port Harcourt
+R00086,fitness,55+,Audio,web,Ibadan
+R00087,professional,18-24,Phones,tablet,Abuja
+R00088,professional,45-54,Laptops,web,Port Harcourt
+R00089,creator,25-34,Phones,mobile,Port Harcourt
+R00090,business,25-34,Fashion,web,Lagos
+R00091,creator,55+,Laptops,mobile,Lagos
+R00092,creator,18-24,Laptops,mobile,Abuja
+R00093,professional,35-44,Phones,web,Enugu
+R00094,creator,25-34,Fashion,web,Abuja
+R00095,fitness,55+,Home,tablet,Lagos
+R00096,family,55+,Audio,mobile,Abuja
+R00097,creator,35-44,Audio,web,Abuja
+R00098,professional,45-54,Home,tablet,Abuja
+R00099,business,25-34,Home,web,Port Harcourt
+R00100,creator,45-54,Phones,web,Lagos
+R00101,professional,55+,Home,mobile,Lagos
+R00102,professional,55+,Laptops,tablet,Lagos
+R00103,business,55+,Home,mobile,Lagos
+R00104,creator,45-54,Audio,mobile,Port Harcourt
+R00105,creator,45-54,Audio,web,Ibadan
+R00106,creator,18-24,Laptops,mobile,Ibadan
+R00107,student,18-24,Laptops,web,Lagos
+R00108,creator,55+,Home,mobile,Enugu
+R00109,family,55+,Fashion,web,Port Harcourt
+R00110,professional,18-24,Laptops,mobile,Ibadan
+R00111,student,35-44,Phones,tablet,Enugu
+R00112,fitness,35-44,Fitness,web,Ibadan
+R00113,creator,35-44,Home,mobile,Port Harcourt
+R00114,student,45-54,Laptops,tablet,Port Harcourt
+R00115,creator,25-34,Laptops,web,Abuja
+R00116,creator,35-44,Home,mobile,Port Harcourt
+R00117,creator,25-34,Audio,mobile,Ibadan
+R00118,professional,18-24,Laptops,mobile,Abuja
+R00119,student,55+,Home,tablet,Ibadan
+R00120,fitness,45-54,Audio,mobile,Port Harcourt
+R00121,creator,18-24,Home,web,Lagos
+R00122,family,35-44,Audio,web,Lagos
+R00123,student,55+,Fitness,mobile,Lagos
+R00124,professional,25-34,Fitness,mobile,Abuja
+R00125,family,45-54,Audio,mobile,Ibadan
+R00126,business,45-54,Fashion,tablet,Port Harcourt
+R00127,student,45-54,Home,web,Ibadan
+R00128,business,55+,Fitness,mobile,Lagos
+R00129,professional,55+,Fitness,web,Lagos
+R00130,creator,25-34,Fitness,tablet,Ibadan
+R00131,business,35-44,Fashion,web,Lagos
+R00132,creator,35-44,Laptops,mobile,Abuja
+R00133,professional,25-34,Home,tablet,Abuja
+R00134,student,25-34,Phones,web,Ibadan
+R00135,fitness,35-44,Audio,tablet,Enugu
+R00136,student,25-34,Fitness,web,Enugu
+R00137,student,25-34,Home,mobile,Ibadan
+R00138,professional,18-24,Fitness,web,Enugu
+R00139,professional,25-34,Fashion,web,Abuja
+R00140,business,45-54,Audio,mobile,Lagos
+R00141,family,25-34,Laptops,tablet,Abuja
+R00142,business,18-24,Home,web,Lagos
+R00143,fitness,55+,Phones,web,Port Harcourt
+R00144,fitness,25-34,Audio,tablet,Port Harcourt
+R00145,family,35-44,Fashion,web,Ibadan
+R00146,professional,45-54,Home,mobile,Enugu
+R00147,fitness,45-54,Home,tablet,Port Harcourt
+R00148,professional,45-54,Laptops,mobile,Port Harcourt
+R00149,family,45-54,Phones,mobile,Port Harcourt
+R00150,family,18-24,Fitness,web,Lagos
+R00151,business,35-44,Fashion,web,Lagos
+R00152,student,18-24,Fashion,tablet,Abuja
+R00153,business,55+,Fashion,mobile,Ibadan
+R00154,fitness,35-44,Fashion,mobile,Lagos
+R00155,professional,25-34,Phones,mobile,Lagos
+R00156,business,18-24,Fitness,mobile,Enugu
+R00157,fitness,18-24,Fashion,mobile,Enugu
+R00158,business,35-44,Fashion,mobile,Lagos
+R00159,student,55+,Laptops,web,Enugu
+R00160,professional,45-54,Phones,tablet,Port Harcourt
+R00161,professional,35-44,Home,web,Lagos
+R00162,student,18-24,Audio,tablet,Port Harcourt
+R00163,fitness,45-54,Fashion,tablet,Ibadan
+R00164,professional,18-24,Home,web,Lagos
+R00165,creator,35-44,Audio,web,Abuja
+R00166,creator,35-44,Phones,mobile,Port Harcourt
+R00167,family,35-44,Fitness,mobile,Port Harcourt
+R00168,professional,35-44,Laptops,mobile,Enugu
+R00169,fitness,18-24,Laptops,tablet,Abuja
+R00170,fitness,18-24,Laptops,mobile,Ibadan
+R00171,family,45-54,Phones,mobile,Port Harcourt
+R00172,creator,18-24,Laptops,tablet,Port Harcourt
+R00173,family,45-54,Fitness,tablet,Ibadan
+R00174,fitness,18-24,Laptops,web,Enugu
+R00175,family,35-44,Phones,tablet,Lagos
+R00176,business,45-54,Audio,web,Lagos
+R00177,student,18-24,Audio,tablet,Ibadan
+R00178,student,55+,Fitness,mobile,Enugu
+R00179,student,35-44,Audio,web,Abuja
+R00180,student,55+,Audio,mobile,Port Harcourt
+R00181,creator,25-34,Phones,mobile,Ibadan
+R00182,fitness,55+,Fashion,tablet,Lagos
+R00183,fitness,35-44,Phones,mobile,Port Harcourt
+R00184,business,55+,Phones,tablet,Lagos
+R00185,family,55+,Laptops,mobile,Ibadan
+R00186,creator,55+,Phones,web,Port Harcourt
+R00187,creator,18-24,Fitness,web,Port Harcourt
+R00188,student,35-44,Fitness,tablet,Port Harcourt
+R00189,fitness,45-54,Fitness,tablet,Ibadan
+R00190,family,35-44,Audio,mobile,Ibadan
+R00191,creator,35-44,Phones,tablet,Ibadan
+R00192,professional,18-24,Phones,mobile,Ibadan
+R00193,professional,35-44,Fitness,mobile,Enugu
+R00194,creator,35-44,Phones,tablet,Abuja
+R00195,business,45-54,Fitness,tablet,Port Harcourt
+R00196,creator,45-54,Home,tablet,Ibadan
+R00197,creator,25-34,Home,tablet,Ibadan
+R00198,family,35-44,Home,mobile,Port Harcourt
+R00199,professional,25-34,Fashion,web,Lagos
+R00200,creator,18-24,Audio,mobile,Enugu
+R00201,creator,55+,Audio,mobile,Ibadan
+R00202,business,45-54,Phones,tablet,Ibadan
+R00203,business,35-44,Laptops,web,Abuja
+R00204,fitness,18-24,Fashion,web,Abuja
+R00205,professional,55+,Audio,mobile,Lagos
+R00206,business,25-34,Audio,web,Ibadan
+R00207,family,18-24,Home,tablet,Lagos
+R00208,family,55+,Fashion,mobile,Abuja
+R00209,student,35-44,Phones,mobile,Abuja
+R00210,student,18-24,Laptops,web,Abuja
+R00211,fitness,55+,Fashion,mobile,Abuja
+R00212,fitness,45-54,Laptops,mobile,Abuja
+R00213,professional,18-24,Fitness,tablet,Abuja
+R00214,creator,35-44,Fitness,tablet,Port Harcourt
+R00215,family,45-54,Fitness,mobile,Enugu
+R00216,professional,35-44,Home,tablet,Enugu
+R00217,family,18-24,Laptops,web,Enugu
+R00218,creator,55+,Phones,web,Lagos
+R00219,professional,55+,Fitness,mobile,Port Harcourt
+R00220,professional,18-24,Laptops,web,Enugu
+R00221,student,35-44,Fitness,web,Ibadan
+R00222,student,45-54,Audio,tablet,Ibadan
+R00223,fitness,18-24,Audio,web,Abuja
+R00224,fitness,25-34,Audio,mobile,Ibadan
+R00225,creator,25-34,Phones,mobile,Enugu
+R00226,creator,35-44,Fitness,mobile,Ibadan
+R00227,business,25-34,Fashion,web,Ibadan
+R00228,creator,55+,Fashion,tablet,Enugu
+R00229,business,18-24,Fashion,mobile,Abuja
+R00230,creator,18-24,Audio,mobile,Enugu
+R00231,creator,18-24,Audio,tablet,Abuja
+R00232,fitness,55+,Fashion,web,Lagos
+R00233,student,35-44,Home,web,Ibadan
+R00234,family,18-24,Phones,mobile,Port Harcourt
+R00235,creator,35-44,Home,mobile,Ibadan
+R00236,fitness,18-24,Laptops,tablet,Enugu
+R00237,business,45-54,Fitness,tablet,Enugu
+R00238,creator,45-54,Audio,mobile,Enugu
+R00239,creator,35-44,Laptops,mobile,Abuja
+R00240,student,25-34,Fitness,web,Ibadan
+R00241,fitness,18-24,Fitness,web,Ibadan
+R00242,family,45-54,Home,web,Lagos
+R00243,family,18-24,Home,tablet,Enugu
+R00244,business,55+,Audio,web,Port Harcourt
+R00245,fitness,55+,Laptops,tablet,Ibadan
+R00246,student,45-54,Laptops,mobile,Abuja
+R00247,professional,35-44,Laptops,tablet,Lagos
+R00248,student,55+,Audio,tablet,Abuja
+R00249,creator,25-34,Laptops,tablet,Abuja
+R00250,fitness,25-34,Fitness,mobile,Port Harcourt
+R00251,student,55+,Audio,web,Port Harcourt
+R00252,fitness,35-44,Laptops,web,Abuja
+R00253,professional,18-24,Laptops,tablet,Abuja
+R00254,business,25-34,Laptops,web,Port Harcourt
+R00255,professional,35-44,Fitness,tablet,Ibadan
+R00256,family,55+,Phones,tablet,Port Harcourt
+R00257,fitness,18-24,Laptops,tablet,Lagos
+R00258,business,45-54,Fitness,mobile,Abuja
+R00259,family,18-24,Laptops,mobile,Abuja
+R00260,fitness,25-34,Home,web,Port Harcourt
+R00261,family,55+,Fitness,tablet,Port Harcourt
+R00262,family,35-44,Laptops,mobile,Lagos
+R00263,creator,25-34,Fitness,mobile,Port Harcourt
+R00264,family,45-54,Fashion,tablet,Abuja
+R00265,business,45-54,Phones,web,Port Harcourt
+R00266,student,18-24,Audio,web,Port Harcourt
+R00267,professional,45-54,Home,mobile,Lagos
+R00268,family,45-54,Fitness,mobile,Port Harcourt
+R00269,family,55+,Fitness,web,Port Harcourt
+R00270,student,55+,Fitness,mobile,Enugu
+R00271,family,55+,Home,web,Port Harcourt
+R00272,fitness,18-24,Fashion,tablet,Abuja
+R00273,creator,18-24,Fashion,mobile,Ibadan
+R00274,fitness,25-34,Home,tablet,Port Harcourt
+R00275,business,45-54,Phones,web,Lagos
+R00276,professional,45-54,Fitness,mobile,Enugu
+R00277,creator,45-54,Laptops,web,Abuja
+R00278,professional,55+,Fashion,tablet,Port Harcourt
+R00279,business,18-24,Audio,web,Port Harcourt
+R00280,creator,35-44,Audio,web,Enugu
+R00281,creator,25-34,Fashion,tablet,Port Harcourt
+R00282,creator,35-44,Fashion,mobile,Ibadan
+R00283,student,25-34,Phones,tablet,Ibadan
+R00284,business,55+,Phones,tablet,Ibadan
+R00285,student,18-24,Phones,tablet,Port Harcourt
+R00286,student,35-44,Phones,tablet,Port Harcourt
+R00287,professional,55+,Laptops,web,Ibadan
+R00288,family,18-24,Laptops,web,Port Harcourt
+R00289,student,45-54,Laptops,mobile,Abuja
+R00290,professional,35-44,Fitness,mobile,Enugu
+R00291,family,35-44,Fitness,web,Ibadan
+R00292,business,18-24,Fashion,mobile,Abuja
+R00293,professional,18-24,Audio,web,Abuja
+R00294,family,18-24,Fitness,mobile,Port Harcourt
+R00295,student,18-24,Phones,web,Abuja
+R00296,business,35-44,Fashion,web,Enugu
+R00297,family,18-24,Fitness,mobile,Lagos
+R00298,creator,18-24,Fitness,web,Ibadan
+R00299,professional,25-34,Home,mobile,Lagos
+R00300,family,55+,Phones,tablet,Enugu
+R00301,business,45-54,Fitness,tablet,Port Harcourt
+R00302,fitness,35-44,Phones,web,Abuja
+R00303,business,45-54,Laptops,tablet,Ibadan
+R00304,student,35-44,Phones,web,Port Harcourt
+R00305,student,18-24,Home,mobile,Abuja
+R00306,student,55+,Phones,tablet,Lagos
+R00307,creator,25-34,Fitness,mobile,Ibadan
+R00308,family,55+,Phones,mobile,Port Harcourt
+R00309,fitness,45-54,Home,mobile,Lagos
+R00310,professional,25-34,Laptops,tablet,Abuja
+R00311,business,35-44,Phones,mobile,Ibadan
+R00312,student,35-44,Laptops,web,Enugu
+R00313,creator,18-24,Home,tablet,Lagos
+R00314,fitness,55+,Fitness,tablet,Abuja
+R00315,student,35-44,Audio,web,Lagos
+R00316,creator,25-34,Fashion,mobile,Ibadan
+R00317,professional,45-54,Phones,mobile,Enugu
+R00318,fitness,18-24,Audio,web,Abuja
+R00319,fitness,25-34,Phones,mobile,Abuja
+R00320,fitness,55+,Audio,web,Lagos
+R00321,business,18-24,Home,mobile,Port Harcourt
+R00322,professional,45-54,Audio,mobile,Port Harcourt
+R00323,professional,45-54,Audio,web,Port Harcourt
+R00324,fitness,35-44,Fashion,tablet,Enugu
+R00325,fitness,55+,Audio,web,Ibadan
+R00326,creator,25-34,Laptops,web,Ibadan
+R00327,student,18-24,Audio,web,Ibadan
+R00328,student,18-24,Phones,web,Port Harcourt
+R00329,professional,35-44,Phones,tablet,Lagos
+R00330,fitness,55+,Audio,tablet,Lagos
+R00331,creator,35-44,Phones,web,Enugu
+R00332,family,35-44,Home,mobile,Port Harcourt
+R00333,family,18-24,Audio,tablet,Port Harcourt
+R00334,family,55+,Fitness,tablet,Ibadan
+R00335,professional,35-44,Fitness,tablet,Ibadan
+R00336,business,35-44,Laptops,tablet,Port Harcourt
+R00337,student,18-24,Audio,tablet,Lagos
+R00338,professional,55+,Fashion,mobile,Port Harcourt
+R00339,family,18-24,Home,tablet,Enugu
+R00340,fitness,18-24,Fashion,mobile,Enugu
+R00341,business,45-54,Audio,tablet,Port Harcourt
+R00342,family,45-54,Audio,mobile,Ibadan
+R00343,creator,45-54,Fitness,tablet,Abuja
+R00344,business,25-34,Audio,tablet,Abuja
+R00345,student,25-34,Fashion,web,Enugu
+R00346,student,45-54,Fitness,tablet,Abuja
+R00347,professional,18-24,Fitness,mobile,Ibadan
+R00348,student,55+,Fashion,tablet,Abuja
+R00349,fitness,45-54,Fashion,mobile,Ibadan
+R00350,creator,18-24,Phones,mobile,Abuja
+R00351,fitness,18-24,Fitness,tablet,Abuja
+R00352,fitness,45-54,Phones,tablet,Lagos
+R00353,family,45-54,Audio,web,Port Harcourt
+R00354,family,45-54,Laptops,web,Lagos
+R00355,fitness,25-34,Laptops,tablet,Enugu
+R00356,professional,25-34,Home,tablet,Ibadan
+R00357,fitness,35-44,Laptops,tablet,Port Harcourt
+R00358,professional,25-34,Phones,web,Ibadan
+R00359,family,25-34,Fitness,web,Lagos
+R00360,family,45-54,Fitness,web,Ibadan
+R00361,professional,18-24,Laptops,tablet,Enugu
+R00362,family,55+,Phones,mobile,Lagos
+R00363,business,25-34,Phones,tablet,Enugu
+R00364,student,25-34,Phones,tablet,Ibadan
+R00365,student,55+,Fashion,web,Port Harcourt
+R00366,business,45-54,Fitness,mobile,Port Harcourt
+R00367,professional,35-44,Phones,mobile,Abuja
+R00368,student,55+,Fashion,tablet,Port Harcourt
+R00369,student,35-44,Fitness,mobile,Enugu
+R00370,business,25-34,Home,mobile,Lagos
+R00371,student,18-24,Home,tablet,Port Harcourt
+R00372,business,18-24,Phones,mobile,Port Harcourt
+R00373,business,35-44,Phones,tablet,Abuja
+R00374,creator,18-24,Audio,mobile,Port Harcourt
+R00375,creator,35-44,Home,mobile,Enugu
+R00376,creator,45-54,Fitness,tablet,Ibadan
+R00377,fitness,55+,Audio,tablet,Lagos
+R00378,professional,45-54,Laptops,mobile,Abuja
+R00379,family,45-54,Laptops,web,Lagos
+R00380,student,35-44,Audio,mobile,Ibadan
+R00381,business,18-24,Fashion,web,Abuja
+R00382,creator,45-54,Fashion,tablet,Enugu
+R00383,student,18-24,Fashion,mobile,Port Harcourt
+R00384,business,45-54,Fitness,tablet,Enugu
+R00385,student,35-44,Laptops,tablet,Lagos
+R00386,family,25-34,Phones,mobile,Port Harcourt
+R00387,family,18-24,Phones,mobile,Abuja
+R00388,fitness,45-54,Laptops,web,Abuja
+R00389,business,45-54,Fashion,web,Port Harcourt
+R00390,student,35-44,Fashion,web,Enugu
+R00391,family,18-24,Fitness,mobile,Ibadan
+R00392,business,35-44,Fitness,mobile,Lagos
+R00393,student,45-54,Home,tablet,Enugu
+R00394,student,35-44,Laptops,tablet,Ibadan
+R00395,fitness,45-54,Laptops,tablet,Lagos
+R00396,business,35-44,Audio,mobile,Enugu
+R00397,family,45-54,Fashion,web,Enugu
+R00398,creator,55+,Phones,mobile,Port Harcourt
+R00399,family,25-34,Fashion,web,Lagos
+R00400,student,25-34,Fashion,tablet,Ibadan
+R00401,creator,55+,Fashion,mobile,Ibadan
+R00402,fitness,18-24,Laptops,web,Ibadan
+R00403,professional,35-44,Fitness,tablet,Abuja
+R00404,creator,55+,Phones,mobile,Ibadan
+R00405,family,35-44,Phones,tablet,Enugu
+R00406,student,45-54,Phones,mobile,Abuja
+R00407,professional,35-44,Home,tablet,Lagos
+R00408,business,55+,Fitness,mobile,Ibadan
+R00409,student,35-44,Fitness,tablet,Port Harcourt
+R00410,family,55+,Fitness,tablet,Lagos
+R00411,fitness,45-54,Audio,mobile,Enugu
+R00412,business,18-24,Phones,tablet,Lagos
+R00413,creator,45-54,Fashion,tablet,Enugu
+R00414,professional,18-24,Laptops,tablet,Port Harcourt
+R00415,creator,45-54,Phones,web,Enugu
+R00416,family,45-54,Laptops,mobile,Lagos
+R00417,business,18-24,Audio,mobile,Port Harcourt
+R00418,family,18-24,Fitness,mobile,Ibadan
+R00419,fitness,18-24,Laptops,web,Ibadan
+R00420,business,55+,Home,mobile,Lagos
+R00421,business,45-54,Home,tablet,Abuja
+R00422,creator,25-34,Laptops,web,Lagos
+R00423,creator,25-34,Audio,mobile,Abuja
+R00424,creator,35-44,Laptops,tablet,Lagos
+R00425,family,18-24,Fitness,web,Ibadan
+R00426,professional,35-44,Fashion,web,Ibadan
+R00427,student,18-24,Audio,web,Lagos
+R00428,fitness,35-44,Fitness,mobile,Ibadan
+R00429,business,45-54,Fashion,mobile,Abuja
+R00430,professional,18-24,Laptops,mobile,Lagos
+R00431,professional,18-24,Laptops,web,Enugu
+R00432,creator,35-44,Home,tablet,Enugu
+R00433,fitness,45-54,Laptops,web,Abuja
+R00434,fitness,18-24,Phones,tablet,Lagos
+R00435,family,18-24,Phones,tablet,Ibadan
+R00436,fitness,45-54,Phones,mobile,Lagos
+R00437,creator,25-34,Home,mobile,Port Harcourt
+R00438,student,25-34,Fitness,web,Port Harcourt
+R00439,student,55+,Laptops,tablet,Enugu
+R00440,fitness,18-24,Laptops,tablet,Enugu
+R00441,student,18-24,Audio,tablet,Ibadan
+R00442,professional,35-44,Audio,tablet,Lagos
+R00443,creator,18-24,Phones,mobile,Enugu
+R00444,fitness,45-54,Phones,mobile,Ibadan
+R00445,fitness,18-24,Fashion,web,Port Harcourt
+R00446,fitness,45-54,Home,web,Lagos
+R00447,student,25-34,Phones,web,Port Harcourt
+R00448,fitness,18-24,Fitness,mobile,Lagos
+R00449,creator,45-54,Laptops,web,Enugu
+R00450,fitness,45-54,Laptops,web,Enugu
+R00451,creator,35-44,Audio,mobile,Ibadan
+R00452,creator,55+,Phones,web,Enugu
+R00453,professional,55+,Phones,tablet,Ibadan
+R00454,student,35-44,Audio,tablet,Enugu
+R00455,professional,55+,Home,mobile,Abuja
+R00456,creator,18-24,Fashion,mobile,Enugu
+R00457,fitness,18-24,Laptops,web,Enugu
+R00458,creator,35-44,Phones,mobile,Enugu
+R00459,professional,18-24,Laptops,tablet,Enugu
+R00460,fitness,25-34,Home,web,Port Harcourt
+R00461,creator,55+,Fitness,mobile,Enugu
+R00462,family,45-54,Fashion,tablet,Abuja
+R00463,creator,35-44,Laptops,mobile,Enugu
+R00464,student,25-34,Fashion,tablet,Abuja
+R00465,fitness,25-34,Home,tablet,Enugu
+R00466,family,45-54,Phones,web,Port Harcourt
+R00467,student,18-24,Audio,web,Port Harcourt
+R00468,business,18-24,Home,mobile,Ibadan
+R00469,student,55+,Home,mobile,Port Harcourt
+R00470,student,45-54,Laptops,tablet,Abuja
+R00471,family,55+,Fashion,web,Abuja
+R00472,family,55+,Audio,tablet,Ibadan
+R00473,business,45-54,Home,mobile,Lagos
+R00474,student,55+,Fitness,web,Abuja
+R00475,business,55+,Laptops,mobile,Ibadan
+R00476,professional,45-54,Fitness,tablet,Lagos
+R00477,family,45-54,Fitness,web,Ibadan
+R00478,business,35-44,Audio,web,Enugu
+R00479,professional,35-44,Fashion,mobile,Abuja
+R00480,family,55+,Fashion,tablet,Ibadan
+R00481,professional,35-44,Audio,tablet,Port Harcourt
+R00482,professional,18-24,Fitness,mobile,Abuja
+R00483,fitness,25-34,Audio,tablet,Abuja
+R00484,creator,25-34,Fitness,mobile,Abuja
+R00485,family,18-24,Laptops,web,Lagos
+R00486,creator,35-44,Phones,mobile,Abuja
+R00487,creator,25-34,Home,tablet,Lagos
+R00488,family,35-44,Fitness,mobile,Ibadan
+R00489,creator,35-44,Fitness,mobile,Enugu
+R00490,fitness,35-44,Laptops,tablet,Ibadan
+R00491,fitness,45-54,Audio,web,Abuja
+R00492,business,18-24,Home,web,Enugu
+R00493,fitness,45-54,Fitness,mobile,Lagos
+R00494,creator,55+,Laptops,mobile,Port Harcourt
+R00495,creator,35-44,Phones,tablet,Ibadan
+R00496,student,25-34,Phones,tablet,Abuja
+R00497,creator,25-34,Fitness,tablet,Enugu
+R00498,family,45-54,Laptops,web,Port Harcourt
+R00499,fitness,55+,Fitness,web,Ibadan
+R00500,business,45-54,Laptops,tablet,Lagos
+R00501,business,25-34,Audio,tablet,Port Harcourt
+R00502,student,55+,Fitness,mobile,Ibadan
+R00503,student,45-54,Phones,tablet,Lagos
+R00504,professional,18-24,Home,mobile,Ibadan
+R00505,fitness,35-44,Fashion,web,Lagos
+R00506,professional,18-24,Fashion,tablet,Port Harcourt
+R00507,business,55+,Fashion,tablet,Abuja
+R00508,professional,35-44,Fitness,tablet,Ibadan
+R00509,family,55+,Audio,web,Abuja
+R00510,professional,55+,Home,web,Enugu
+R00511,business,18-24,Audio,web,Ibadan
+R00512,fitness,55+,Phones,tablet,Abuja
+R00513,professional,18-24,Laptops,mobile,Ibadan
+R00514,fitness,25-34,Laptops,mobile,Enugu
+R00515,professional,55+,Fashion,tablet,Abuja
+R00516,creator,55+,Laptops,mobile,Ibadan
+R00517,creator,25-34,Fitness,tablet,Abuja
+R00518,fitness,45-54,Laptops,mobile,Port Harcourt
+R00519,family,18-24,Phones,web,Abuja
+R00520,fitness,35-44,Laptops,tablet,Port Harcourt
+R00521,student,18-24,Audio,mobile,Ibadan
+R00522,creator,18-24,Home,web,Enugu
+R00523,professional,25-34,Home,web,Ibadan
+R00524,family,55+,Home,tablet,Ibadan
+R00525,creator,18-24,Audio,web,Enugu
+R00526,creator,18-24,Audio,web,Port Harcourt
+R00527,fitness,18-24,Phones,mobile,Ibadan
+R00528,family,18-24,Audio,web,Abuja
+R00529,professional,35-44,Laptops,tablet,Abuja
+R00530,family,25-34,Fitness,mobile,Port Harcourt
+R00531,student,45-54,Audio,web,Port Harcourt
+R00532,student,55+,Fitness,mobile,Enugu
+R00533,family,18-24,Phones,tablet,Enugu
+R00534,fitness,18-24,Fitness,mobile,Lagos
+R00535,fitness,55+,Fitness,tablet,Lagos
+R00536,creator,55+,Laptops,web,Port Harcourt
+R00537,creator,18-24,Home,tablet,Lagos
+R00538,professional,55+,Fitness,tablet,Port Harcourt
+R00539,fitness,35-44,Laptops,tablet,Ibadan
+R00540,student,35-44,Laptops,mobile,Enugu
+R00541,student,45-54,Fashion,web,Abuja
+R00542,student,18-24,Phones,tablet,Lagos
+R00543,business,25-34,Phones,tablet,Lagos
+R00544,family,45-54,Home,mobile,Enugu
+R00545,business,18-24,Fashion,mobile,Port Harcourt
+R00546,creator,35-44,Laptops,web,Ibadan
+R00547,professional,25-34,Fashion,tablet,Abuja
+R00548,creator,55+,Phones,mobile,Lagos
+R00549,student,35-44,Fashion,mobile,Enugu
+R00550,family,45-54,Laptops,web,Abuja
+R00551,student,18-24,Audio,mobile,Port Harcourt
+R00552,fitness,55+,Audio,web,Enugu
+R00553,professional,45-54,Audio,mobile,Abuja
+R00554,family,25-34,Laptops,web,Port Harcourt
+R00555,business,45-54,Home,tablet,Port Harcourt
+R00556,family,45-54,Home,mobile,Enugu
+R00557,family,45-54,Laptops,tablet,Lagos
+R00558,student,45-54,Fashion,tablet,Lagos
+R00559,creator,55+,Home,tablet,Ibadan
+R00560,student,35-44,Phones,tablet,Port Harcourt
+R00561,student,18-24,Phones,mobile,Enugu
+R00562,professional,18-24,Home,tablet,Ibadan
+R00563,professional,45-54,Audio,tablet,Ibadan
+R00564,student,55+,Phones,web,Abuja
+R00565,fitness,25-34,Audio,web,Abuja
+R00566,family,18-24,Phones,web,Port Harcourt
+R00567,professional,55+,Fashion,web,Lagos
+R00568,student,18-24,Fitness,mobile,Ibadan
+R00569,business,45-54,Phones,tablet,Port Harcourt
+R00570,student,35-44,Audio,web,Enugu
+R00571,business,55+,Phones,mobile,Ibadan
+R00572,professional,45-54,Laptops,web,Abuja
+R00573,business,25-34,Audio,mobile,Enugu
+R00574,creator,35-44,Home,web,Enugu
+R00575,family,35-44,Home,web,Abuja
+R00576,business,45-54,Fashion,web,Lagos
+R00577,creator,18-24,Fashion,web,Enugu
+R00578,business,45-54,Fashion,tablet,Port Harcourt
+R00579,family,25-34,Phones,tablet,Enugu
+R00580,fitness,25-34,Phones,web,Port Harcourt
+R00581,creator,55+,Laptops,tablet,Port Harcourt
+R00582,fitness,18-24,Laptops,web,Port Harcourt
+R00583,professional,45-54,Fitness,mobile,Ibadan
+R00584,family,25-34,Fitness,tablet,Enugu
+R00585,professional,18-24,Audio,web,Port Harcourt
+R00586,professional,45-54,Phones,mobile,Port Harcourt
+R00587,business,55+,Fashion,tablet,Lagos
+R00588,student,55+,Fitness,web,Port Harcourt
+R00589,family,45-54,Audio,tablet,Abuja
+R00590,creator,18-24,Audio,tablet,Enugu
+R00591,professional,25-34,Fashion,mobile,Enugu
+R00592,business,35-44,Audio,web,Port Harcourt
+R00593,creator,18-24,Fashion,web,Abuja
+R00594,creator,35-44,Laptops,tablet,Lagos
+R00595,creator,35-44,Home,tablet,Enugu
+R00596,fitness,25-34,Phones,mobile,Enugu
+R00597,business,35-44,Audio,mobile,Port Harcourt
+R00598,business,45-54,Home,tablet,Port Harcourt
+R00599,student,18-24,Laptops,mobile,Lagos
+R00600,student,45-54,Fitness,tablet,Enugu
+R00601,business,18-24,Phones,tablet,Abuja
+R00602,student,55+,Laptops,mobile,Lagos
+R00603,professional,18-24,Home,web,Ibadan
+R00604,fitness,25-34,Home,mobile,Abuja
+R00605,family,18-24,Home,mobile,Port Harcourt
+R00606,creator,55+,Fitness,tablet,Abuja
+R00607,fitness,25-34,Fitness,mobile,Ibadan
+R00608,creator,18-24,Home,mobile,Lagos
+R00609,professional,55+,Home,tablet,Lagos
+R00610,student,35-44,Fitness,web,Port Harcourt
+R00611,family,35-44,Audio,web,Port Harcourt
+R00612,creator,35-44,Phones,tablet,Lagos
+R00613,creator,18-24,Phones,mobile,Ibadan
+R00614,business,25-34,Home,mobile,Abuja
+R00615,student,35-44,Phones,tablet,Ibadan
+R00616,creator,55+,Phones,tablet,Port Harcourt
+R00617,family,55+,Fitness,web,Abuja
+R00618,student,18-24,Home,mobile,Port Harcourt
+R00619,student,55+,Fitness,web,Abuja
+R00620,fitness,35-44,Laptops,web,Abuja
+R00621,fitness,35-44,Fitness,tablet,Ibadan
+R00622,creator,25-34,Laptops,mobile,Abuja
+R00623,professional,18-24,Fashion,web,Port Harcourt
+R00624,business,25-34,Fashion,web,Enugu
+R00625,fitness,55+,Fitness,mobile,Lagos
+R00626,business,18-24,Fitness,mobile,Abuja
+R00627,business,45-54,Fashion,mobile,Port Harcourt
+R00628,student,25-34,Home,mobile,Lagos
+R00629,business,55+,Fashion,tablet,Lagos
+R00630,student,25-34,Fitness,tablet,Lagos
+R00631,professional,55+,Phones,web,Abuja
+R00632,student,25-34,Home,web,Lagos
+R00633,family,35-44,Audio,mobile,Ibadan
+R00634,creator,18-24,Audio,mobile,Enugu
+R00635,creator,18-24,Phones,web,Ibadan
+R00636,business,18-24,Fitness,tablet,Enugu
+R00637,creator,25-34,Phones,tablet,Port Harcourt
+R00638,professional,45-54,Audio,tablet,Port Harcourt
+R00639,family,55+,Laptops,mobile,Ibadan
+R00640,creator,25-34,Fashion,mobile,Port Harcourt
+R00641,creator,55+,Audio,web,Port Harcourt
+R00642,creator,25-34,Fitness,tablet,Lagos
+R00643,fitness,25-34,Audio,web,Enugu
+R00644,family,55+,Phones,web,Abuja
+R00645,fitness,45-54,Laptops,mobile,Enugu
+R00646,fitness,18-24,Audio,mobile,Enugu
+R00647,creator,25-34,Fashion,web,Ibadan
+R00648,business,35-44,Fitness,web,Abuja
+R00649,professional,18-24,Phones,tablet,Lagos
+R00650,student,35-44,Audio,tablet,Lagos
+R00651,creator,25-34,Phones,tablet,Port Harcourt
+R00652,business,25-34,Home,web,Ibadan
+R00653,student,45-54,Audio,web,Abuja
+R00654,creator,55+,Laptops,mobile,Port Harcourt
+R00655,creator,18-24,Laptops,tablet,Enugu
+R00656,business,35-44,Audio,tablet,Ibadan
+R00657,fitness,45-54,Home,mobile,Enugu
+R00658,creator,18-24,Phones,tablet,Ibadan
+R00659,family,55+,Home,tablet,Abuja
+R00660,fitness,25-34,Fashion,tablet,Enugu
+R00661,student,55+,Fashion,tablet,Abuja
+R00662,fitness,25-34,Fashion,mobile,Lagos
+R00663,family,35-44,Fitness,tablet,Enugu
+R00664,family,18-24,Laptops,web,Ibadan
+R00665,creator,45-54,Phones,tablet,Port Harcourt
+R00666,fitness,55+,Fashion,web,Abuja
+R00667,student,55+,Laptops,web,Abuja
+R00668,creator,35-44,Fitness,mobile,Lagos
+R00669,professional,35-44,Home,web,Lagos
+R00670,family,45-54,Home,web,Lagos
+R00671,student,45-54,Phones,tablet,Enugu
+R00672,creator,25-34,Laptops,mobile,Enugu
+R00673,student,45-54,Home,tablet,Lagos
+R00674,student,45-54,Fashion,tablet,Port Harcourt
+R00675,fitness,25-34,Audio,web,Ibadan
+R00676,creator,18-24,Fitness,web,Port Harcourt
+R00677,professional,35-44,Home,mobile,Lagos
+R00678,professional,35-44,Fashion,tablet,Abuja
+R00679,creator,35-44,Home,mobile,Enugu
+R00680,professional,25-34,Fashion,tablet,Enugu
+R00681,family,25-34,Audio,mobile,Enugu
+R00682,family,55+,Phones,mobile,Abuja
+R00683,family,55+,Fitness,tablet,Enugu
+R00684,creator,35-44,Fitness,web,Port Harcourt
+R00685,student,18-24,Fitness,mobile,Abuja
+R00686,family,45-54,Fitness,web,Ibadan
+R00687,creator,45-54,Fitness,web,Ibadan
+R00688,fitness,25-34,Phones,web,Enugu
+R00689,business,18-24,Fashion,mobile,Abuja
+R00690,business,35-44,Fashion,web,Enugu
+R00691,creator,25-34,Laptops,mobile,Enugu
+R00692,business,45-54,Home,tablet,Enugu
+R00693,student,18-24,Fashion,tablet,Ibadan
+R00694,family,35-44,Home,tablet,Lagos
+R00695,creator,45-54,Phones,mobile,Abuja
+R00696,business,45-54,Fitness,mobile,Abuja
+R00697,student,45-54,Home,tablet,Abuja
+R00698,professional,18-24,Home,mobile,Abuja
+R00699,fitness,55+,Fashion,tablet,Port Harcourt
+R00700,family,25-34,Laptops,mobile,Ibadan
+R00701,business,45-54,Fitness,mobile,Ibadan
+R00702,student,55+,Audio,web,Enugu
+R00703,fitness,35-44,Audio,mobile,Ibadan
+R00704,business,55+,Home,tablet,Enugu
+R00705,fitness,25-34,Laptops,tablet,Abuja
+R00706,business,45-54,Fashion,web,Lagos
+R00707,professional,18-24,Phones,mobile,Lagos
+R00708,fitness,35-44,Phones,web,Abuja
+R00709,fitness,45-54,Fashion,tablet,Ibadan
+R00710,family,55+,Fashion,mobile,Ibadan
+R00711,student,35-44,Audio,tablet,Port Harcourt
+R00712,business,45-54,Fashion,web,Enugu
+R00713,creator,18-24,Fitness,web,Lagos
+R00714,student,18-24,Fashion,web,Enugu
+R00715,business,45-54,Home,tablet,Abuja
+R00716,fitness,35-44,Fitness,mobile,Port Harcourt
+R00717,professional,55+,Home,tablet,Enugu
+R00718,student,55+,Fashion,mobile,Abuja
+R00719,creator,25-34,Fashion,web,Port Harcourt
+R00720,family,25-34,Audio,tablet,Ibadan
+R00721,student,25-34,Audio,mobile,Enugu
+R00722,professional,45-54,Home,tablet,Ibadan
+R00723,student,25-34,Fitness,mobile,Ibadan
+R00724,business,55+,Home,mobile,Ibadan
+R00725,student,25-34,Fashion,web,Enugu
+R00726,fitness,25-34,Home,tablet,Lagos
+R00727,creator,55+,Audio,tablet,Port Harcourt
+R00728,creator,45-54,Audio,mobile,Abuja
+R00729,student,25-34,Home,web,Ibadan
+R00730,creator,35-44,Laptops,mobile,Port Harcourt
+R00731,family,25-34,Home,mobile,Lagos
+R00732,creator,18-24,Home,mobile,Ibadan
+R00733,student,45-54,Phones,mobile,Abuja
+R00734,family,35-44,Fitness,web,Ibadan
+R00735,family,25-34,Fitness,mobile,Lagos
+R00736,business,25-34,Laptops,web,Abuja
+R00737,creator,55+,Laptops,mobile,Enugu
+R00738,family,55+,Audio,tablet,Ibadan
+R00739,fitness,35-44,Laptops,mobile,Abuja
+R00740,creator,35-44,Fashion,tablet,Enugu
+R00741,student,35-44,Home,tablet,Lagos
+R00742,fitness,35-44,Phones,web,Lagos
+R00743,creator,55+,Home,tablet,Enugu
+R00744,family,25-34,Fitness,mobile,Port Harcourt
+R00745,creator,35-44,Laptops,tablet,Abuja
+R00746,professional,35-44,Phones,tablet,Port Harcourt
+R00747,student,35-44,Phones,mobile,Lagos
+R00748,creator,25-34,Phones,web,Enugu
+R00749,professional,25-34,Audio,mobile,Lagos
+R00750,professional,55+,Laptops,web,Lagos
+R00751,business,45-54,Fitness,web,Enugu
+R00752,professional,25-34,Home,tablet,Port Harcourt
+R00753,professional,18-24,Fitness,tablet,Ibadan
+R00754,family,18-24,Home,web,Ibadan
+R00755,professional,55+,Laptops,mobile,Abuja
+R00756,creator,25-34,Audio,mobile,Lagos
+R00757,family,55+,Fitness,tablet,Ibadan
+R00758,student,45-54,Phones,tablet,Enugu
+R00759,family,35-44,Fitness,mobile,Lagos
+R00760,family,18-24,Audio,web,Abuja
+R00761,student,55+,Audio,mobile,Lagos
+R00762,student,55+,Fitness,tablet,Abuja
+R00763,creator,18-24,Home,mobile,Abuja
+R00764,fitness,18-24,Laptops,web,Port Harcourt
+R00765,professional,55+,Audio,web,Lagos
+R00766,creator,35-44,Laptops,web,Ibadan
+R00767,professional,18-24,Fashion,tablet,Enugu
+R00768,student,55+,Fitness,web,Ibadan
+R00769,business,35-44,Laptops,mobile,Lagos
+R00770,family,45-54,Fitness,web,Enugu
+R00771,fitness,55+,Audio,mobile,Ibadan
+R00772,business,45-54,Fashion,mobile,Lagos
+R00773,family,45-54,Home,mobile,Lagos
+R00774,fitness,18-24,Home,web,Ibadan
+R00775,professional,35-44,Laptops,mobile,Enugu
+R00776,student,55+,Fashion,web,Ibadan
+R00777,business,55+,Fitness,tablet,Lagos
+R00778,family,18-24,Laptops,web,Port Harcourt
+R00779,family,45-54,Phones,tablet,Abuja
+R00780,fitness,18-24,Phones,tablet,Ibadan
+R00781,professional,18-24,Phones,web,Port Harcourt
+R00782,family,18-24,Laptops,mobile,Lagos
+R00783,creator,18-24,Fashion,tablet,Lagos
+R00784,family,45-54,Laptops,tablet,Port Harcourt
+R00785,business,35-44,Fitness,tablet,Port Harcourt
+R00786,fitness,35-44,Home,mobile,Abuja
+R00787,student,35-44,Fitness,web,Ibadan
+R00788,business,45-54,Fitness,web,Ibadan
+R00789,creator,18-24,Home,mobile,Abuja
+R00790,creator,35-44,Home,mobile,Lagos
+R00791,business,35-44,Fashion,web,Ibadan
+R00792,fitness,35-44,Laptops,mobile,Lagos
+R00793,creator,55+,Phones,mobile,Lagos
+R00794,fitness,35-44,Phones,tablet,Ibadan
+R00795,family,18-24,Fitness,tablet,Port Harcourt
+R00796,creator,18-24,Fitness,mobile,Abuja
+R00797,creator,35-44,Laptops,tablet,Enugu
+R00798,creator,35-44,Laptops,tablet,Lagos
+R00799,creator,55+,Laptops,mobile,Enugu
+R00800,family,25-34,Home,mobile,Abuja
+R00801,family,45-54,Phones,mobile,Port Harcourt
+R00802,family,25-34,Phones,web,Port Harcourt
+R00803,professional,35-44,Fashion,tablet,Lagos
+R00804,family,25-34,Home,mobile,Lagos
+R00805,creator,25-34,Fitness,mobile,Abuja
+R00806,business,18-24,Phones,mobile,Port Harcourt
+R00807,professional,18-24,Audio,web,Port Harcourt
+R00808,business,35-44,Home,web,Abuja
+R00809,student,45-54,Laptops,mobile,Lagos
+R00810,student,45-54,Phones,tablet,Lagos
+R00811,family,25-34,Phones,tablet,Enugu
+R00812,student,25-34,Phones,mobile,Abuja
+R00813,student,55+,Home,mobile,Enugu
+R00814,professional,55+,Audio,tablet,Port Harcourt
+R00815,student,45-54,Audio,mobile,Enugu
+R00816,professional,35-44,Laptops,mobile,Enugu
+R00817,student,25-34,Home,mobile,Abuja
+R00818,student,35-44,Home,tablet,Ibadan
+R00819,family,55+,Fashion,mobile,Enugu
+R00820,business,55+,Fitness,mobile,Ibadan
+R00821,business,25-34,Home,mobile,Lagos
+R00822,business,35-44,Home,mobile,Abuja
+R00823,fitness,35-44,Fitness,web,Abuja
+R00824,student,45-54,Laptops,tablet,Ibadan
+R00825,creator,45-54,Audio,tablet,Lagos
+R00826,student,45-54,Laptops,mobile,Abuja
+R00827,business,18-24,Laptops,web,Abuja
+R00828,professional,55+,Audio,mobile,Ibadan
+R00829,creator,45-54,Home,mobile,Ibadan
+R00830,fitness,35-44,Home,mobile,Ibadan
+R00831,professional,55+,Phones,mobile,Port Harcourt
+R00832,creator,55+,Phones,web,Ibadan
+R00833,student,55+,Audio,mobile,Port Harcourt
+R00834,business,35-44,Home,mobile,Ibadan
+R00835,professional,35-44,Laptops,mobile,Abuja
+R00836,student,18-24,Fashion,web,Port Harcourt
+R00837,fitness,25-34,Home,tablet,Port Harcourt
+R00838,student,55+,Fitness,tablet,Lagos
+R00839,family,55+,Audio,web,Lagos
+R00840,business,18-24,Home,web,Abuja
+R00841,creator,45-54,Fashion,mobile,Ibadan
+R00842,student,25-34,Fashion,web,Lagos
+R00843,family,25-34,Fashion,web,Enugu
+R00844,business,18-24,Phones,tablet,Port Harcourt
+R00845,professional,25-34,Fashion,tablet,Enugu
+R00846,business,25-34,Fashion,tablet,Lagos
+R00847,family,55+,Fashion,tablet,Port Harcourt
+R00848,creator,18-24,Home,web,Ibadan
+R00849,fitness,18-24,Audio,web,Ibadan
+R00850,business,55+,Home,mobile,Enugu
+R00851,professional,45-54,Phones,web,Port Harcourt
+R00852,creator,25-34,Home,tablet,Lagos
+R00853,professional,35-44,Fashion,tablet,Enugu
+R00854,business,45-54,Fitness,tablet,Lagos
+R00855,professional,45-54,Laptops,mobile,Lagos
+R00856,fitness,18-24,Fitness,mobile,Enugu
+R00857,business,25-34,Fashion,web,Lagos
+R00858,business,45-54,Laptops,tablet,Lagos
+R00859,creator,35-44,Laptops,web,Abuja
+R00860,creator,25-34,Phones,tablet,Lagos
+R00861,creator,35-44,Laptops,mobile,Lagos
+R00862,fitness,25-34,Fitness,web,Lagos
+R00863,fitness,18-24,Laptops,tablet,Ibadan
+R00864,student,18-24,Fashion,web,Abuja
+R00865,business,18-24,Phones,tablet,Abuja
+R00866,creator,55+,Home,tablet,Ibadan
+R00867,fitness,35-44,Phones,tablet,Lagos
+R00868,family,45-54,Laptops,mobile,Lagos
+R00869,student,55+,Home,tablet,Abuja
+R00870,professional,25-34,Audio,mobile,Lagos
+R00871,professional,18-24,Phones,mobile,Ibadan
+R00872,family,45-54,Phones,tablet,Ibadan
+R00873,business,45-54,Fashion,web,Abuja
+R00874,creator,35-44,Audio,mobile,Port Harcourt
+R00875,family,45-54,Phones,mobile,Port Harcourt
+R00876,creator,25-34,Phones,tablet,Lagos
+R00877,professional,35-44,Laptops,mobile,Abuja
+R00878,fitness,18-24,Audio,web,Enugu
+R00879,professional,35-44,Fashion,web,Ibadan
+R00880,business,25-34,Home,tablet,Ibadan
+R00881,creator,45-54,Home,web,Lagos
+R00882,family,18-24,Fitness,web,Port Harcourt
+R00883,professional,55+,Fashion,web,Ibadan
+R00884,business,25-34,Fashion,tablet,Port Harcourt
+R00885,student,25-34,Fashion,tablet,Lagos
+R00886,student,25-34,Audio,web,Abuja
+R00887,creator,45-54,Phones,mobile,Port Harcourt
+R00888,family,25-34,Fitness,tablet,Abuja
+R00889,family,35-44,Home,tablet,Abuja
+R00890,business,25-34,Fitness,mobile,Enugu
+R00891,fitness,18-24,Audio,tablet,Enugu
+R00892,professional,35-44,Laptops,tablet,Abuja
+R00893,creator,45-54,Audio,mobile,Enugu
+R00894,student,35-44,Audio,mobile,Abuja
+R00895,fitness,35-44,Audio,mobile,Port Harcourt
+R00896,student,55+,Fashion,web,Abuja
+R00897,professional,18-24,Audio,tablet,Port Harcourt
+R00898,business,18-24,Home,web,Port Harcourt
+R00899,creator,25-34,Home,mobile,Abuja
+R00900,creator,25-34,Laptops,web,Lagos
+R00901,family,18-24,Audio,mobile,Port Harcourt
+R00902,fitness,18-24,Fashion,web,Ibadan
+R00903,business,55+,Phones,mobile,Ibadan
+R00904,fitness,55+,Fitness,web,Lagos
+R00905,business,18-24,Fashion,web,Lagos
+R00906,student,45-54,Laptops,mobile,Port Harcourt
+R00907,student,45-54,Phones,mobile,Enugu
+R00908,business,55+,Fashion,mobile,Ibadan
+R00909,creator,35-44,Phones,web,Abuja
+R00910,professional,35-44,Audio,mobile,Enugu
+R00911,professional,25-34,Fitness,mobile,Lagos
+R00912,creator,55+,Phones,mobile,Enugu
+R00913,student,25-34,Fitness,mobile,Port Harcourt
+R00914,business,45-54,Home,tablet,Port Harcourt
+R00915,family,55+,Fashion,mobile,Abuja
+R00916,student,55+,Laptops,mobile,Lagos
+R00917,fitness,25-34,Fitness,mobile,Lagos
+R00918,professional,45-54,Phones,mobile,Port Harcourt
+R00919,professional,45-54,Phones,tablet,Port Harcourt
+R00920,creator,25-34,Laptops,web,Abuja
+R00921,creator,18-24,Home,web,Ibadan
+R00922,creator,25-34,Phones,web,Lagos
+R00923,creator,55+,Audio,mobile,Port Harcourt
+R00924,family,18-24,Laptops,mobile,Lagos
+R00925,creator,35-44,Laptops,mobile,Abuja
+R00926,creator,55+,Home,mobile,Abuja
+R00927,business,35-44,Fitness,mobile,Enugu
+R00928,student,55+,Fashion,tablet,Ibadan
+R00929,professional,45-54,Phones,tablet,Ibadan
+R00930,professional,25-34,Phones,mobile,Port Harcourt
+R00931,professional,45-54,Phones,web,Lagos
+R00932,family,45-54,Audio,tablet,Port Harcourt
+R00933,family,18-24,Laptops,web,Lagos
+R00934,business,25-34,Home,mobile,Lagos
+R00935,fitness,55+,Fitness,mobile,Abuja
+R00936,creator,25-34,Phones,mobile,Abuja
+R00937,creator,25-34,Fitness,mobile,Enugu
+R00938,creator,25-34,Fashion,tablet,Enugu
+R00939,creator,35-44,Phones,web,Enugu
+R00940,fitness,45-54,Phones,tablet,Port Harcourt
+R00941,student,18-24,Laptops,web,Lagos
+R00942,fitness,55+,Fashion,tablet,Lagos
+R00943,fitness,25-34,Home,tablet,Abuja
+R00944,student,25-34,Fitness,mobile,Lagos
+R00945,student,55+,Audio,mobile,Abuja
+R00946,creator,35-44,Home,web,Enugu
+R00947,student,18-24,Fashion,web,Ibadan
+R00948,professional,55+,Fashion,mobile,Lagos
+R00949,fitness,55+,Home,mobile,Enugu
+R00950,fitness,45-54,Home,tablet,Port Harcourt
+R00951,creator,18-24,Fitness,web,Lagos
+R00952,family,45-54,Phones,web,Enugu
+R00953,fitness,55+,Fitness,web,Lagos
+R00954,professional,18-24,Laptops,web,Lagos
+R00955,professional,35-44,Fashion,tablet,Abuja
+R00956,creator,25-34,Fashion,tablet,Port Harcourt
+R00957,creator,18-24,Laptops,web,Lagos
+R00958,business,25-34,Phones,web,Lagos
+R00959,student,18-24,Fitness,tablet,Enugu
+R00960,professional,45-54,Fashion,web,Enugu
+R00961,student,45-54,Phones,web,Enugu
+R00962,student,45-54,Fitness,web,Enugu
+R00963,creator,35-44,Audio,web,Enugu
+R00964,creator,55+,Fashion,tablet,Abuja
+R00965,business,18-24,Phones,tablet,Enugu
+R00966,family,35-44,Home,tablet,Abuja
+R00967,business,45-54,Fitness,tablet,Enugu
+R00968,professional,45-54,Phones,mobile,Ibadan
+R00969,student,45-54,Laptops,mobile,Port Harcourt
+R00970,fitness,45-54,Home,web,Port Harcourt
+R00971,family,25-34,Home,mobile,Abuja
+R00972,family,35-44,Fashion,tablet,Abuja
+R00973,fitness,25-34,Home,mobile,Port Harcourt
+R00974,family,25-34,Phones,web,Abuja
+R00975,professional,18-24,Phones,tablet,Port Harcourt
+R00976,creator,45-54,Laptops,mobile,Enugu
+R00977,creator,35-44,Fashion,mobile,Lagos
+R00978,business,18-24,Audio,tablet,Lagos
+R00979,professional,45-54,Home,mobile,Ibadan
+R00980,professional,25-34,Fashion,tablet,Ibadan
+R00981,business,35-44,Fashion,tablet,Ibadan
+R00982,fitness,25-34,Laptops,tablet,Lagos
+R00983,creator,18-24,Phones,mobile,Lagos
+R00984,business,55+,Laptops,web,Lagos
+R00985,fitness,35-44,Home,tablet,Lagos
+R00986,professional,35-44,Laptops,web,Ibadan
+R00987,creator,18-24,Fashion,web,Enugu
+R00988,business,18-24,Fashion,mobile,Lagos
+R00989,fitness,45-54,Fitness,tablet,Lagos
+R00990,business,35-44,Fashion,web,Abuja
+R00991,family,35-44,Laptops,tablet,Abuja
+R00992,creator,55+,Phones,web,Ibadan
+R00993,business,55+,Fashion,web,Abuja
+R00994,business,35-44,Phones,tablet,Port Harcourt
+R00995,creator,55+,Fashion,tablet,Abuja
+R00996,business,25-34,Fashion,web,Port Harcourt
+R00997,fitness,25-34,Phones,tablet,Abuja
+R00998,student,55+,Home,web,Abuja
+R00999,business,45-54,Audio,tablet,Lagos
+R01000,creator,55+,Phones,mobile,Ibadan

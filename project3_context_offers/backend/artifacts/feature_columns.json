@@ -1,0 +1,28 @@
+{
+  "numeric": [
+    "interaction_count",
+    "positive_count",
+    "positive_rate",
+    "category_affinity",
+    "preferred_category_match",
+    "offer_popularity",
+    "discount_pct",
+    "min_spend",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "is_weekend",
+    "region_match",
+    "channel_match"
+  ],
+  "categorical": [
+    "segment",
+    "category",
+    "channel",
+    "device_type",
+    "region",
+    "category_x_daypart",
+    "category_x_device"
+  ]
+}

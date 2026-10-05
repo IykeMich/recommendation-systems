@@ -1,0 +1,87 @@
+{
+  "protocol": "time-based holdout: train on the earliest 80% of events, rank the full catalog for each click/redeem in the last 20%",
+  "k": 10,
+  "cutoff": "2025-10-16T18:25:42.200000+00:00",
+  "train_events": 5638,
+  "test_requests": 625,
+  "models": {
+    "contextual": {
+      "recall@10": 0.4144,
+      "ndcg@10": 0.191,
+      "coverage": 0.6167,
+      "diversity": 0.1
+    },
+    "no_context": {
+      "recall@10": 0.4224,
+      "ndcg@10": 0.1938,
+      "coverage": 0.5583,
+      "diversity": 0.1
+    },
+    "exposure_labels": {
+      "recall@10": 0.0352,
+      "ndcg@10": 0.0156,
+      "coverage": 0.6583,
+      "diversity": 0.175
+    },
+    "popularity": {
+      "recall@10": 0.1152,
+      "ndcg@10": 0.0532,
+      "coverage": 0.1167,
+      "diversity": 0.4
+    },
+    "contextual_max_3_per_category": {
+      "recall@10": 0.1424,
+      "ndcg@10": 0.0991,
+      "coverage": 0.2583,
+      "diversity": 0.4
+    }
+  },
+  "by_segment": {
+    "daypart": {
+      "afternoon": {
+        "contextual": 0.3691,
+        "no_context": 0.3758,
+        "popularity": 0.1074,
+        "requests": 149
+      },
+      "evening": {
+        "contextual": 0.3944,
+        "no_context": 0.3944,
+        "popularity": 0.1222,
+        "requests": 180
+      },
+      "morning": {
+        "contextual": 0.4571,
+        "no_context": 0.4714,
+        "popularity": 0.1429,
+        "requests": 140
+      },
+      "night": {
+        "contextual": 0.4423,
+        "no_context": 0.4551,
+        "popularity": 0.0897,
+        "requests": 156
+      }
+    },
+    "device_type": {
+      "mobile": {
+        "contextual": 0.4254,
+        "no_context": 0.4561,
+        "popularity": 0.1404,
+        "requests": 228
+      },
+      "tablet": {
+        "contextual": 0.3578,
+        "no_context": 0.3529,
+        "popularity": 0.0784,
+        "requests": 204
+      },
+      "web": {
+        "contextual": 0.4611,
+        "no_context": 0.456,
+        "popularity": 0.1244,
+        "requests": 193
+      }
+    }
+  }
+}

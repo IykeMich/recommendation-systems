@@ -1,0 +1,54 @@
+{
+  "protocol": "temporal holdout: train on the earliest 80% of events, rank the full catalog for each application in the last 20%",
+  "k": 5,
+  "cutoff": "2025-10-14T13:21:19.800000+00:00",
+  "train_events": 6868,
+  "test_requests": 174,
+  "applied_products_that_were_ineligible": 0,
+  "mean_eligible_products_per_request": 18.48,
+  "strategies": {
+    "random_eligible": {
+      "recall@5": 0.2701,
+      "ndcg@5": 0.1372,
+      "coverage": 1.0,
+      "eligibility_violation_rate": 0.0,
+      "requests_with_violation": 0.0,
+      "empty_recommendation_rate": 0.0
+    },
+    "popularity_eligible": {
+      "recall@5": 0.2644,
+      "ndcg@5": 0.1448,
+      "coverage": 0.45,
+      "eligibility_violation_rate": 0.0,
+      "requests_with_violation": 0.0,
+      "empty_recommendation_rate": 0.0
+    },
+    "ranker_without_eligibility": {
+      "recall@5": 0.2644,
+      "ndcg@5": 0.1502,
+      "coverage": 1.0,
+      "eligibility_violation_rate": 0.054,
+      "requests_with_violation": 0.2299,
+      "empty_recommendation_rate": 0.0
+    },
+    "eligibility_then_ranking": {
+      "recall@5": 0.2701,
+      "ndcg@5": 0.1526,
+      "coverage": 1.0,
+      "eligibility_violation_rate": 0.0,
+      "requests_with_violation": 0.0,
+      "empty_recommendation_rate": 0.0
+    }
+  },
+  "eligibility_rate_by_risk_profile": {
+    "high": 0.9639,
+    "low": 0.8306,
+    "medium": 0.961
+  },
+  "eligibility_rate_by_income_quartile": {
+    "Q1 (lowest)": 0.8598,
+    "Q2": 0.9233,
+    "Q3": 0.945,
+    "Q4 (highest)": 0.953
+  }
+}

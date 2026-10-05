@@ -1,0 +1,5 @@
+{
+  "review_threshold": 0.55,
+  "block_threshold": 0.85,
+  "version": "policy-v1"
+}

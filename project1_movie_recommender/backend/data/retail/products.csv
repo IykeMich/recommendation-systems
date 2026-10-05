@@ -1,0 +1,599 @@
+item_id,name,category,subcategory,brand,price,description,stock
+P00001,Milo Chocolate Malt Drink - Small Pack,Food & Beverage,Hot Chocolate & Malt Drinks,Nestlé,3.5,Chocolate malt drink commonly served hot or cold. Variant: small pack.,427
+P00002,Milo Chocolate Malt Drink - Value Pack,Food & Beverage,Hot Chocolate & Malt Drinks,Nestlé,4.73,Chocolate malt drink commonly served hot or cold. Variant: value pack.,244
+P00003,Nescafé Classic - Small Pack,Food & Beverage,Coffee,Nestlé,5.5,Instant coffee with a familiar roasted coffee profile. Variant: small pack.,391
+P00004,Nescafé Classic - Value Pack,Food & Beverage,Coffee,Nestlé,7.43,Instant coffee with a familiar roasted coffee profile. Variant: value pack.,79
+P00005,Nescafé Gold - Small Pack,Food & Beverage,Coffee,Nestlé,8.0,Premium instant coffee blend. Variant: small pack.,447
+P00006,Nescafé Gold - Value Pack,Food & Beverage,Coffee,Nestlé,10.8,Premium instant coffee blend. Variant: value pack.,161
+P00007,Nido FortiGrow - Small Pack,Food & Beverage,Milk Powder,Nestlé,9.5,Powdered milk formulated for growing families. Variant: small pack.,66
+P00008,Nido FortiGrow - Value Pack,Food & Beverage,Milk Powder,Nestlé,12.83,Powdered milk formulated for growing families. Variant: value pack.,280
+P00009,Maggi Chicken Cube - Small Pack,Food & Beverage,Seasoning,Nestlé,2.5,Chicken-flavoured seasoning cubes for cooking. Variant: small pack.,287
+P00010,Maggi Chicken Cube - Value Pack,Food & Beverage,Seasoning,Nestlé,3.38,Chicken-flavoured seasoning cubes for cooking. Variant: value pack.,337
+P00011,Golden Morn - Small Pack,Food & Beverage,Cereal,Nestlé,4.5,Maize-based breakfast cereal. Variant: small pack.,393
+P00012,Golden Morn - Value Pack,Food & Beverage,Cereal,Nestlé,6.08,Maize-based breakfast cereal. Variant: value pack.,201
+P00013,KitKat - Small Pack,Food & Beverage,Chocolate & Confectionery,Nestlé,1.8,Chocolate-covered wafer bar. Variant: small pack.,99
+P00014,KitKat - Value Pack,Food & Beverage,Chocolate & Confectionery,Nestlé,2.43,Chocolate-covered wafer bar. Variant: value pack.,220
+P00015,Cerelac Wheat - Small Pack,Food & Beverage,Baby Food,Nestlé,6.5,Wheat-based infant cereal. Variant: small pack.,328
+P00016,Cerelac Wheat - Value Pack,Food & Beverage,Baby Food,Nestlé,8.78,Wheat-based infant cereal. Variant: value pack.,476
+P00017,Omo Detergent - Small Pack,Home Care,Laundry Detergent,Unilever,5.0,Laundry detergent designed for everyday clothes washing. Variant: small pack.,455
+P00018,Omo Detergent - Value Pack,Home Care,Laundry Detergent,Unilever,6.75,Laundry detergent designed for everyday clothes washing. Variant: value pack.,42
+P00019,Sunlight Dishwashing Liquid - Small Pack,Home Care,Dishwashing,Unilever,3.0,Dishwashing liquid for removing grease and food residue. Variant: small pack.,332
+P00020,Sunlight Dishwashing Liquid - Value Pack,Home Care,Dishwashing,Unilever,4.05,Dishwashing liquid for removing grease and food residue. Variant: value pack.,371
+P00021,Dove Beauty Bar - Small Pack,Personal Care,Bath & Body,Unilever,2.5,Moisturizing cleansing bar. Variant: small pack.,386
+P00022,Dove Beauty Bar - Value Pack,Personal Care,Bath & Body,Unilever,3.38,Moisturizing cleansing bar. Variant: value pack.,165
+P00023,Dove Body Wash - Small Pack,Personal Care,Bath & Body,Unilever,6.0,Creamy body wash for daily bathing. Variant: small pack.,305
+P00024,Dove Body Wash - Value Pack,Personal Care,Bath & Body,Unilever,8.1,Creamy body wash for daily bathing. Variant: value pack.,245
+P00025,Vaseline Petroleum Jelly - Small Pack,Personal Care,Skin Care,Unilever,3.5,Petroleum jelly for skin protection and moisture. Variant: small pack.,172
+P00026,Vaseline Petroleum Jelly - Value Pack,Personal Care,Skin Care,Unilever,4.73,Petroleum jelly for skin protection and moisture. Variant: value pack.,146
+P00027,Closeup Toothpaste - Small Pack,Personal Care,Oral Care,Unilever,2.5,"Fluoride toothpaste with a fresh, cooling profile. Variant: small pack.",366
+P00028,Closeup Toothpaste - Value Pack,Personal Care,Oral Care,Unilever,3.38,"Fluoride toothpaste with a fresh, cooling profile. Variant: value pack.",240
+P00029,Knorr Chicken Stock Cubes - Small Pack,Food & Beverage,Seasoning,Unilever,2.5,Stock cubes for adding savoury flavour to meals. Variant: small pack.,319
+P00030,Knorr Chicken Stock Cubes - Value Pack,Food & Beverage,Seasoning,Unilever,3.38,Stock cubes for adding savoury flavour to meals. Variant: value pack.,204
+P00031,Lifebuoy Hand Wash - Small Pack,Personal Care,Hand Care,Unilever,3.5,Liquid hand wash for everyday cleansing. Variant: small pack.,268
+P00032,Lifebuoy Hand Wash - Value Pack,Personal Care,Hand Care,Unilever,4.73,Liquid hand wash for everyday cleansing. Variant: value pack.,367
+P00033,Rexona Deodorant - Small Pack,Personal Care,Deodorant,Unilever,4.5,Antiperspirant/deodorant for daily freshness. Variant: small pack.,44
+P00034,Rexona Deodorant - Value Pack,Personal Care,Deodorant,Unilever,6.08,Antiperspirant/deodorant for daily freshness. Variant: value pack.,494
+P00035,LUX Body Wash - Small Pack,Personal Care,Bath & Body,Unilever,5.0,Fragranced body wash. Variant: small pack.,401
+P00036,LUX Body Wash - Value Pack,Personal Care,Bath & Body,Unilever,6.75,Fragranced body wash. Variant: value pack.,402
+P00037,Sunsilk Shampoo - Small Pack,Personal Care,Hair Care,Unilever,4.5,Everyday shampoo for hair cleansing. Variant: small pack.,131
+P00038,Sunsilk Shampoo - Value Pack,Personal Care,Hair Care,Unilever,6.08,Everyday shampoo for hair cleansing. Variant: value pack.,352
+P00039,TRESemmé Shampoo - Small Pack,Personal Care,Hair Care,Unilever,7.0,Salon-inspired shampoo for regular hair care. Variant: small pack.,161
+P00040,TRESemmé Shampoo - Value Pack,Personal Care,Hair Care,Unilever,9.45,Salon-inspired shampoo for regular hair care. Variant: value pack.,66
+P00041,Cif Cream Cleaner - Small Pack,Home Care,Surface Cleaner,Unilever,4.0,Cream cleaner for kitchen and bathroom surfaces. Variant: small pack.,33
+P00042,Cif Cream Cleaner - Value Pack,Home Care,Surface Cleaner,Unilever,5.4,Cream cleaner for kitchen and bathroom surfaces. Variant: value pack.,160
+P00043,Domestos Toilet Cleaner - Small Pack,Home Care,Bathroom Cleaner,Unilever,4.0,Toilet cleaner for household bathroom cleaning. Variant: small pack.,145
+P00044,Domestos Toilet Cleaner - Value Pack,Home Care,Bathroom Cleaner,Unilever,5.4,Toilet cleaner for household bathroom cleaning. Variant: value pack.,92
+P00045,Hellmann's Mayonnaise - Small Pack,Food & Beverage,Condiments,Unilever,5.0,Creamy mayonnaise for sandwiches and meals. Variant: small pack.,397
+P00046,Hellmann's Mayonnaise - Value Pack,Food & Beverage,Condiments,Unilever,6.75,Creamy mayonnaise for sandwiches and meals. Variant: value pack.,188
+P00047,Surf Laundry Detergent - Small Pack,Home Care,Laundry Detergent,Unilever,4.5,Laundry detergent for everyday washing. Variant: small pack.,303
+P00048,Surf Laundry Detergent - Value Pack,Home Care,Laundry Detergent,Unilever,6.08,Laundry detergent for everyday washing. Variant: value pack.,114
+P00049,Comfort Fabric Softener - Small Pack,Home Care,Fabric Care,Unilever,4.5,Fabric conditioner that adds softness and fragrance. Variant: small pack.,445
+P00050,Comfort Fabric Softener - Value Pack,Home Care,Fabric Care,Unilever,6.08,Fabric conditioner that adds softness and fragrance. Variant: value pack.,232
+P00051,Ariel Laundry Detergent - Small Pack,Home Care,Laundry Detergent,Procter & Gamble,6.0,Laundry detergent for everyday stain removal. Variant: small pack.,207
+P00052,Ariel Laundry Detergent - Value Pack,Home Care,Laundry Detergent,Procter & Gamble,8.1,Laundry detergent for everyday stain removal. Variant: value pack.,62
+P00053,Tide Laundry Detergent - Small Pack,Home Care,Laundry Detergent,Procter & Gamble,7.0,Laundry detergent for deep cleaning clothes. Variant: small pack.,474
+P00054,Tide Laundry Detergent - Value Pack,Home Care,Laundry Detergent,Procter & Gamble,9.45,Laundry detergent for deep cleaning clothes. Variant: value pack.,247
+P00055,Pampers Baby Diapers - Small Pack,Baby Care,Diapers,Procter & Gamble,12.0,Disposable diapers for babies. Variant: small pack.,295
+P00056,Pampers Baby Diapers - Value Pack,Baby Care,Diapers,Procter & Gamble,16.2,Disposable diapers for babies. Variant: value pack.,493
+P00057,Gillette Mach3 Razor - Small Pack,Personal Care,Shaving,Procter & Gamble,10.0,Multi-blade men's razor system. Variant: small pack.,203
+P00058,Gillette Mach3 Razor - Value Pack,Personal Care,Shaving,Procter & Gamble,13.5,Multi-blade men's razor system. Variant: value pack.,261
+P00059,Oral-B Pro-Health Toothpaste - Small Pack,Personal Care,Oral Care,Procter & Gamble,4.0,Fluoride toothpaste for everyday oral care. Variant: small pack.,144
+P00060,Oral-B Pro-Health Toothpaste - Value Pack,Personal Care,Oral Care,Procter & Gamble,5.4,Fluoride toothpaste for everyday oral care. Variant: value pack.,39
+P00061,Oral-B Electric Toothbrush - Small Pack,Personal Care,Oral Care,Procter & Gamble,35.0,Rechargeable electric toothbrush. Variant: small pack.,38
+P00062,Oral-B Electric Toothbrush - Value Pack,Personal Care,Oral Care,Procter & Gamble,47.25,Rechargeable electric toothbrush. Variant: value pack.,130
+P00063,Head & Shoulders Shampoo - Small Pack,Personal Care,Hair Care,Procter & Gamble,6.5,Anti-dandruff shampoo for scalp care. Variant: small pack.,79
+P00064,Head & Shoulders Shampoo - Value Pack,Personal Care,Hair Care,Procter & Gamble,8.78,Anti-dandruff shampoo for scalp care. Variant: value pack.,184
+P00065,Pantene Pro-V Shampoo - Small Pack,Personal Care,Hair Care,Procter & Gamble,6.0,Shampoo for cleansing and hair care. Variant: small pack.,160
+P00066,Pantene Pro-V Shampoo - Value Pack,Personal Care,Hair Care,Procter & Gamble,8.1,Shampoo for cleansing and hair care. Variant: value pack.,199
+P00067,Always Ultra Pads - Small Pack,Personal Care,Feminine Care,Procter & Gamble,5.5,Absorbent menstrual pads for everyday use. Variant: small pack.,263
+P00068,Always Ultra Pads - Value Pack,Personal Care,Feminine Care,Procter & Gamble,7.43,Absorbent menstrual pads for everyday use. Variant: value pack.,64
+P00069,Coca-Cola - Small Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,1.5,Classic carbonated cola drink. Variant: small pack.,41
+P00070,Coca-Cola - Value Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,2.03,Classic carbonated cola drink. Variant: value pack.,473
+P00071,Coca-Cola Zero Sugar - Small Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,1.5,Zero-sugar cola soft drink. Variant: small pack.,179
+P00072,Coca-Cola Zero Sugar - Value Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,2.03,Zero-sugar cola soft drink. Variant: value pack.,303
+P00073,Fanta Orange - Small Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,1.5,Orange-flavoured carbonated soft drink. Variant: small pack.,445
+P00074,Fanta Orange - Value Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,2.03,Orange-flavoured carbonated soft drink. Variant: value pack.,363
+P00075,Sprite - Small Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,1.5,Lemon-lime carbonated soft drink. Variant: small pack.,182
+P00076,Sprite - Value Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,2.03,Lemon-lime carbonated soft drink. Variant: value pack.,471
+P00077,Schweppes Tonic Water - Small Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,1.8,Carbonated tonic water. Variant: small pack.,284
+P00078,Schweppes Tonic Water - Value Pack,Food & Beverage,Soft Drinks,The Coca-Cola Company,2.43,Carbonated tonic water. Variant: value pack.,394
+P00079,Powerade - Small Pack,Food & Beverage,Sports Drinks,The Coca-Cola Company,2.0,Sports drink designed for hydration. Variant: small pack.,326
+P00080,Powerade - Value Pack,Food & Beverage,Sports Drinks,The Coca-Cola Company,2.7,Sports drink designed for hydration. Variant: value pack.,99
+P00081,Fuze Tea - Small Pack,Food & Beverage,Ready-to-Drink Tea,The Coca-Cola Company,2.0,Ready-to-drink iced tea beverage. Variant: small pack.,398
+P00082,Fuze Tea - Value Pack,Food & Beverage,Ready-to-Drink Tea,The Coca-Cola Company,2.7,Ready-to-drink iced tea beverage. Variant: value pack.,223
+P00083,Pepsi - Small Pack,Food & Beverage,Soft Drinks,PepsiCo,1.5,Classic cola soft drink. Variant: small pack.,190
+P00084,Pepsi - Value Pack,Food & Beverage,Soft Drinks,PepsiCo,2.03,Classic cola soft drink. Variant: value pack.,118
+P00085,Diet Pepsi - Small Pack,Food & Beverage,Soft Drinks,PepsiCo,1.5,Reduced-calorie cola soft drink. Variant: small pack.,315
+P00086,Diet Pepsi - Value Pack,Food & Beverage,Soft Drinks,PepsiCo,2.03,Reduced-calorie cola soft drink. Variant: value pack.,84
+P00087,Mountain Dew - Small Pack,Food & Beverage,Soft Drinks,PepsiCo,1.7,Citrus-flavoured carbonated soft drink. Variant: small pack.,72
+P00088,Mountain Dew - Value Pack,Food & Beverage,Soft Drinks,PepsiCo,2.29,Citrus-flavoured carbonated soft drink. Variant: value pack.,390
+P00089,Aquafina - Small Pack,Food & Beverage,Bottled Water,PepsiCo,1.2,Packaged drinking water. Variant: small pack.,78
+P00090,Aquafina - Value Pack,Food & Beverage,Bottled Water,PepsiCo,1.62,Packaged drinking water. Variant: value pack.,301
+P00091,Lay's Classic Potato Chips - Small Pack,Food & Beverage,Snacks,PepsiCo,2.0,Classic salted potato chips. Variant: small pack.,25
+P00092,Lay's Classic Potato Chips - Value Pack,Food & Beverage,Snacks,PepsiCo,2.7,Classic salted potato chips. Variant: value pack.,378
+P00093,Doritos Nacho Cheese - Small Pack,Food & Beverage,Snacks,PepsiCo,2.5,Corn chips with nacho cheese flavour. Variant: small pack.,116
+P00094,Doritos Nacho Cheese - Value Pack,Food & Beverage,Snacks,PepsiCo,3.38,Corn chips with nacho cheese flavour. Variant: value pack.,495
+P00095,Quaker Oats - Small Pack,Food & Beverage,Breakfast,PepsiCo,5.0,Rolled oats for breakfast and baking. Variant: small pack.,436
+P00096,Quaker Oats - Value Pack,Food & Beverage,Breakfast,PepsiCo,6.75,Rolled oats for breakfast and baking. Variant: value pack.,151
+P00097,Gatorade - Small Pack,Food & Beverage,Sports Drinks,PepsiCo,2.0,Sports drink for hydration during activity. Variant: small pack.,393
+P00098,Gatorade - Value Pack,Food & Beverage,Sports Drinks,PepsiCo,2.7,Sports drink for hydration during activity. Variant: value pack.,285
+P00099,7UP - Small Pack,Food & Beverage,Soft Drinks,PepsiCo,1.5,Lemon-lime carbonated soft drink. Variant: small pack.,259
+P00100,7UP - Value Pack,Food & Beverage,Soft Drinks,PepsiCo,2.03,Lemon-lime carbonated soft drink. Variant: value pack.,186
+P00101,Indomie Instant Noodles - Small Pack,Food & Beverage,Instant Noodles,Dufil Prima Foods,1.0,Quick-cooking instant noodles. Variant: small pack.,334
+P00102,Indomie Instant Noodles - Value Pack,Food & Beverage,Instant Noodles,Dufil Prima Foods,1.35,Quick-cooking instant noodles. Variant: value pack.,451
+P00103,Peak Milk Powder - Small Pack,Food & Beverage,Milk Powder,FrieslandCampina,6.0,Powdered milk for drinks and cooking. Variant: small pack.,141
+P00104,Peak Milk Powder - Value Pack,Food & Beverage,Milk Powder,FrieslandCampina,8.1,Powdered milk for drinks and cooking. Variant: value pack.,382
+P00105,Peak Evaporated Milk - Small Pack,Food & Beverage,Dairy,FrieslandCampina,1.5,Evaporated milk for beverages and meals. Variant: small pack.,154
+P00106,Peak Evaporated Milk - Value Pack,Food & Beverage,Dairy,FrieslandCampina,2.03,Evaporated milk for beverages and meals. Variant: value pack.,89
+P00107,Maltina - Small Pack,Food & Beverage,Malt Drinks,Nigerian Breweries,1.8,Malt-based non-alcoholic beverage. Variant: small pack.,158
+P00108,Maltina - Value Pack,Food & Beverage,Malt Drinks,Nigerian Breweries,2.43,Malt-based non-alcoholic beverage. Variant: value pack.,272
+P00109,Golden Penny Spaghetti - Small Pack,Food & Beverage,Pasta,Flour Mills of Nigeria,2.5,Dry spaghetti pasta. Variant: small pack.,174
+P00110,Golden Penny Spaghetti - Value Pack,Food & Beverage,Pasta,Flour Mills of Nigeria,3.38,Dry spaghetti pasta. Variant: value pack.,178
+P00111,Gino Tomato Paste - Small Pack,Food & Beverage,Cooking Ingredients,GB Foods,1.5,Tomato paste for sauces and stews. Variant: small pack.,488
+P00112,Gino Tomato Paste - Value Pack,Food & Beverage,Cooking Ingredients,GB Foods,2.03,Tomato paste for sauces and stews. Variant: value pack.,102
+P00113,Mr Chef Salt - Small Pack,Food & Beverage,Cooking Ingredients,Tolaram,1.0,Table salt for cooking and seasoning. Variant: small pack.,410
+P00114,Mr Chef Salt - Value Pack,Food & Beverage,Cooking Ingredients,Tolaram,1.35,Table salt for cooking and seasoning. Variant: value pack.,118
+P00115,Eva Bottled Water - Small Pack,Food & Beverage,Bottled Water,Coca-Cola,1.0,Packaged drinking water. Variant: small pack.,115
+P00116,Eva Bottled Water - Value Pack,Food & Beverage,Bottled Water,Coca-Cola,1.35,Packaged drinking water. Variant: value pack.,483
+P00117,Fearless Energy Drink - Small Pack,Food & Beverage,Energy Drinks,Rite Foods,1.5,Carbonated energy drink. Variant: small pack.,117
+P00118,Fearless Energy Drink - Value Pack,Food & Beverage,Energy Drinks,Rite Foods,2.03,Carbonated energy drink. Variant: value pack.,52
+P00119,Chivita 100% Fruit Juice - Small Pack,Food & Beverage,Juice,Chi Limited,2.5,Fruit juice beverage. Variant: small pack.,279
+P00120,Chivita 100% Fruit Juice - Value Pack,Food & Beverage,Juice,Chi Limited,3.38,Fruit juice beverage. Variant: value pack.,20
+P00121,Nigerian Milo Ready-to-Drink - Small Pack,Food & Beverage,Malt Drinks,Nestlé,2.0,Ready-to-drink chocolate malt beverage. Variant: small pack.,156
+P00122,Nigerian Milo Ready-to-Drink - Value Pack,Food & Beverage,Malt Drinks,Nestlé,2.7,Ready-to-drink chocolate malt beverage. Variant: value pack.,156
+P00123,Apple iPhone 15 - Base Configuration,Electronics,Smartphones,Apple,799.0,Apple smartphone with a modern camera system and USB-C. Variant: base configuration.,429
+P00124,Apple iPhone 15 - Higher Storage,Electronics,Smartphones,Apple,1078.65,Apple smartphone with a modern camera system and USB-C. Variant: higher storage.,429
+P00125,Apple iPhone 15 Pro - Base Configuration,Electronics,Smartphones,Apple,999.0,Pro smartphone with advanced cameras and premium materials. Variant: base configuration.,154
+P00126,Apple iPhone 15 Pro - Higher Storage,Electronics,Smartphones,Apple,1348.65,Pro smartphone with advanced cameras and premium materials. Variant: higher storage.,154
+P00127,Apple iPhone 16 - Base Configuration,Electronics,Smartphones,Apple,899.0,Current-generation iPhone with updated performance and cameras. Variant: base configuration.,97
+P00128,Apple iPhone 16 - Higher Storage,Electronics,Smartphones,Apple,1213.65,Current-generation iPhone with updated performance and cameras. Variant: higher storage.,97
+P00129,Apple iPhone 16 Pro - Base Configuration,Electronics,Smartphones,Apple,1099.0,Premium iPhone with advanced camera and display features. Variant: base configuration.,383
+P00130,Apple iPhone 16 Pro - Higher Storage,Electronics,Smartphones,Apple,1483.65,Premium iPhone with advanced camera and display features. Variant: higher storage.,383
+P00131,Apple MacBook Air - Base Configuration,Electronics,Laptops,Apple,999.0,Thin laptop designed for everyday work and study. Variant: base configuration.,447
+P00132,Apple MacBook Air - Higher Storage,Electronics,Laptops,Apple,1348.65,Thin laptop designed for everyday work and study. Variant: higher storage.,447
+P00133,Apple MacBook Pro - Base Configuration,Electronics,Laptops,Apple,1599.0,Professional laptop for demanding creative and development workloads. Variant: base configuration.,23
+P00134,Apple MacBook Pro - Higher Storage,Electronics,Laptops,Apple,2158.65,Professional laptop for demanding creative and development workloads. Variant: higher storage.,23
+P00135,Apple iPad - Base Configuration,Electronics,Tablets,Apple,349.0,"Tablet for browsing, entertainment and everyday productivity. Variant: base configuration.",148
+P00136,Apple iPad - Higher Storage,Electronics,Tablets,Apple,471.15,"Tablet for browsing, entertainment and everyday productivity. Variant: higher storage.",148
+P00137,Apple iPad Air - Base Configuration,Electronics,Tablets,Apple,599.0,Lightweight tablet aimed at higher-performance everyday use. Variant: base configuration.,341
+P00138,Apple iPad Air - Higher Storage,Electronics,Tablets,Apple,808.65,Lightweight tablet aimed at higher-performance everyday use. Variant: higher storage.,341
+P00139,Apple Watch Series 10 - Standard,Electronics,Wearables,Apple,399.0,"Smartwatch for fitness, notifications and daily activity. Variant: standard.",151
+P00140,Apple Watch Series 10 - Bundle,Electronics,Wearables,Apple,538.65,"Smartwatch for fitness, notifications and daily activity. Variant: bundle.",151
+P00141,AirPods Pro - Standard,Electronics,Audio,Apple,249.0,Wireless earbuds with active noise cancellation. Variant: standard.,52
+P00142,AirPods Pro - Bundle,Electronics,Audio,Apple,336.15,Wireless earbuds with active noise cancellation. Variant: bundle.,52
+P00143,AirPods - Standard,Electronics,Audio,Apple,129.0,Wireless earbuds for everyday listening. Variant: standard.,184
+P00144,AirPods - Bundle,Electronics,Audio,Apple,174.15,Wireless earbuds for everyday listening. Variant: bundle.,184
+P00145,Samsung Galaxy S24 - Base Configuration,Electronics,Smartphones,Samsung,799.0,Android flagship smartphone with a versatile camera system. Variant: base configuration.,305
+P00146,Samsung Galaxy S24 - Higher Storage,Electronics,Smartphones,Samsung,1078.65,Android flagship smartphone with a versatile camera system. Variant: higher storage.,305
+P00147,Samsung Galaxy S24 Ultra - Base Configuration,Electronics,Smartphones,Samsung,1299.0,Premium Galaxy smartphone with advanced cameras and S Pen support. Variant: base configuration.,315
+P00148,Samsung Galaxy S24 Ultra - Higher Storage,Electronics,Smartphones,Samsung,1753.65,Premium Galaxy smartphone with advanced cameras and S Pen support. Variant: higher storage.,315
+P00149,Samsung Galaxy A55 - Base Configuration,Electronics,Smartphones,Samsung,449.0,Mid-range Galaxy smartphone. Variant: base configuration.,259
+P00150,Samsung Galaxy A55 - Higher Storage,Electronics,Smartphones,Samsung,606.15,Mid-range Galaxy smartphone. Variant: higher storage.,259
+P00151,Samsung Galaxy Z Fold6 - Base Configuration,Electronics,Smartphones,Samsung,1799.0,Foldable smartphone with a large inner display. Variant: base configuration.,474
+P00152,Samsung Galaxy Z Fold6 - Higher Storage,Electronics,Smartphones,Samsung,2428.65,Foldable smartphone with a large inner display. Variant: higher storage.,474
+P00153,Samsung Galaxy Tab S9 - Base Configuration,Electronics,Tablets,Samsung,699.0,Android tablet for entertainment and productivity. Variant: base configuration.,370
+P00154,Samsung Galaxy Tab S9 - Higher Storage,Electronics,Tablets,Samsung,943.65,Android tablet for entertainment and productivity. Variant: higher storage.,370
+P00155,Samsung Galaxy Watch7 - Standard,Electronics,Wearables,Samsung,299.0,Smartwatch for fitness and notifications. Variant: standard.,276
+P00156,Samsung Galaxy Watch7 - Bundle,Electronics,Wearables,Samsung,403.65,Smartwatch for fitness and notifications. Variant: bundle.,276
+P00157,Samsung Galaxy Buds3 Pro - Standard,Electronics,Audio,Samsung,249.0,Premium wireless earbuds. Variant: standard.,384
+P00158,Samsung Galaxy Buds3 Pro - Bundle,Electronics,Audio,Samsung,336.15,Premium wireless earbuds. Variant: bundle.,384
+P00159,Samsung 55-inch QLED TV - Standard Size,Electronics,Televisions,Samsung,899.0,Large smart television with QLED display technology. Variant: standard size.,50
+P00160,Samsung 55-inch QLED TV - Larger Size,Electronics,Televisions,Samsung,1213.65,Large smart television with QLED display technology. Variant: larger size.,50
+P00161,Samsung 65-inch Neo QLED TV - Standard Size,Electronics,Televisions,Samsung,1499.0,Premium large-format smart television. Variant: standard size.,250
+P00162,Samsung 65-inch Neo QLED TV - Larger Size,Electronics,Televisions,Samsung,2023.65,Premium large-format smart television. Variant: larger size.,250
+P00163,Sony WH-1000XM5 - Standard,Electronics,Audio,Sony,399.0,Wireless noise-cancelling over-ear headphones. Variant: standard.,74
+P00164,Sony WH-1000XM5 - Bundle,Electronics,Audio,Sony,538.65,Wireless noise-cancelling over-ear headphones. Variant: bundle.,74
+P00165,Sony PlayStation 5 - Standard,Electronics,Gaming,Sony,499.0,Current-generation home gaming console. Variant: standard.,127
+P00166,Sony PlayStation 5 - Bundle,Electronics,Gaming,Sony,673.65,Current-generation home gaming console. Variant: bundle.,127
+P00167,Sony PlayStation 5 Slim - Standard,Electronics,Gaming,Sony,449.0,Slimmer PlayStation 5 console. Variant: standard.,98
+P00168,Sony PlayStation 5 Slim - Bundle,Electronics,Gaming,Sony,606.15,Slimmer PlayStation 5 console. Variant: bundle.,98
+P00169,Sony DualSense Wireless Controller - Standard,Electronics,Gaming Accessories,Sony,74.0,Wireless controller for PlayStation 5. Variant: standard.,432
+P00170,Sony DualSense Wireless Controller - Bundle,Electronics,Gaming Accessories,Sony,99.9,Wireless controller for PlayStation 5. Variant: bundle.,432
+P00171,Sony Bravia 55-inch 4K TV - Standard Size,Electronics,Televisions,Sony,999.0,4K smart television for home entertainment. Variant: standard size.,154
+P00172,Sony Bravia 55-inch 4K TV - Larger Size,Electronics,Televisions,Sony,1348.65,4K smart television for home entertainment. Variant: larger size.,154
+P00173,Sony WF-1000XM5 - Standard,Electronics,Audio,Sony,299.0,Premium wireless noise-cancelling earbuds. Variant: standard.,421
+P00174,Sony WF-1000XM5 - Bundle,Electronics,Audio,Sony,403.65,Premium wireless noise-cancelling earbuds. Variant: bundle.,421
+P00175,LG 55-inch OLED TV - Standard Size,Electronics,Televisions,LG,1199.0,OLED smart television with high-contrast picture quality. Variant: standard size.,19
+P00176,LG 55-inch OLED TV - Larger Size,Electronics,Televisions,LG,1618.65,OLED smart television with high-contrast picture quality. Variant: larger size.,19
+P00177,LG 65-inch OLED TV - Standard Size,Electronics,Televisions,LG,1699.0,Large OLED smart television. Variant: standard size.,186
+P00178,LG 65-inch OLED TV - Larger Size,Electronics,Televisions,LG,2293.65,Large OLED smart television. Variant: larger size.,186
+P00179,LG InstaView Refrigerator - Standard,Appliances,Refrigerators,LG,1999.0,Large refrigerator with a modern door and smart features. Variant: standard.,358
+P00180,LG InstaView Refrigerator - Premium,Appliances,Refrigerators,LG,2698.65,Large refrigerator with a modern door and smart features. Variant: premium.,358
+P00181,LG Front Load Washer - Standard,Appliances,Washing Machines,LG,899.0,Front-loading washing machine for household laundry. Variant: standard.,327
+P00182,LG Front Load Washer - Premium,Appliances,Washing Machines,LG,1213.65,Front-loading washing machine for household laundry. Variant: premium.,327
+P00183,LG DualCool Air Conditioner - Standard,Appliances,Air Conditioners,LG,799.0,Split air conditioner for home cooling. Variant: standard.,369
+P00184,LG DualCool Air Conditioner - Premium,Appliances,Air Conditioners,LG,1078.65,Split air conditioner for home cooling. Variant: premium.,369
+P00185,Dell XPS 13 - Base Configuration,Electronics,Laptops,Dell,999.0,Premium compact Windows laptop. Variant: base configuration.,133
+P00186,Dell XPS 13 - Higher Storage,Electronics,Laptops,Dell,1348.65,Premium compact Windows laptop. Variant: higher storage.,133
+P00187,Dell XPS 15 - Base Configuration,Electronics,Laptops,Dell,1499.0,High-performance Windows laptop for demanding workloads. Variant: base configuration.,413
+P00188,Dell XPS 15 - Higher Storage,Electronics,Laptops,Dell,2023.65,High-performance Windows laptop for demanding workloads. Variant: higher storage.,413
+P00189,Dell Inspiron 15 - Base Configuration,Electronics,Laptops,Dell,649.0,"Mainstream laptop for school, work and home use. Variant: base configuration.",100
+P00190,Dell Inspiron 15 - Higher Storage,Electronics,Laptops,Dell,876.15,"Mainstream laptop for school, work and home use. Variant: higher storage.",100
+P00191,HP Spectre x360 - Base Configuration,Electronics,Laptops,HP,1299.0,Premium convertible Windows laptop. Variant: base configuration.,417
+P00192,HP Spectre x360 - Higher Storage,Electronics,Laptops,HP,1753.65,Premium convertible Windows laptop. Variant: higher storage.,417
+P00193,HP Pavilion 15 - Base Configuration,Electronics,Laptops,HP,649.0,Mainstream laptop for everyday computing. Variant: base configuration.,92
+P00194,HP Pavilion 15 - Higher Storage,Electronics,Laptops,HP,876.15,Mainstream laptop for everyday computing. Variant: higher storage.,92
+P00195,HP LaserJet Pro - Standard,Electronics,Printers,HP,249.0,Laser printer for home and small-office documents. Variant: standard.,118
+P00196,HP LaserJet Pro - Bundle,Electronics,Printers,HP,336.15,Laser printer for home and small-office documents. Variant: bundle.,118
+P00197,Lenovo ThinkPad X1 Carbon - Base Configuration,Electronics,Laptops,Lenovo,1399.0,Business-focused lightweight laptop. Variant: base configuration.,273
+P00198,Lenovo ThinkPad X1 Carbon - Higher Storage,Electronics,Laptops,Lenovo,1888.65,Business-focused lightweight laptop. Variant: higher storage.,273
+P00199,Lenovo IdeaPad Slim - Base Configuration,Electronics,Laptops,Lenovo,599.0,Slim everyday Windows laptop. Variant: base configuration.,259
+P00200,Lenovo IdeaPad Slim - Higher Storage,Electronics,Laptops,Lenovo,808.65,Slim everyday Windows laptop. Variant: higher storage.,259
+P00201,Lenovo Legion 5 - Standard,Electronics,Gaming Laptops,Lenovo,1099.0,Gaming laptop with dedicated graphics. Variant: standard.,453
+P00202,Lenovo Legion 5 - Bundle,Electronics,Gaming Laptops,Lenovo,1483.65,Gaming laptop with dedicated graphics. Variant: bundle.,453
+P00203,Google Pixel 9 - Base Configuration,Electronics,Smartphones,Google,799.0,Google smartphone with computational photography and Android software. Variant: base configuration.,153
+P00204,Google Pixel 9 - Higher Storage,Electronics,Smartphones,Google,1078.65,Google smartphone with computational photography and Android software. Variant: higher storage.,153
+P00205,Google Pixel 9 Pro - Base Configuration,Electronics,Smartphones,Google,999.0,Premium Pixel smartphone with advanced cameras. Variant: base configuration.,98
+P00206,Google Pixel 9 Pro - Higher Storage,Electronics,Smartphones,Google,1348.65,Premium Pixel smartphone with advanced cameras. Variant: higher storage.,98
+P00207,Google Pixel Watch 3 - Standard,Electronics,Wearables,Google,349.0,"Wearable designed for health, fitness and notifications. Variant: standard.",449
+P00208,Google Pixel Watch 3 - Bundle,Electronics,Wearables,Google,471.15,"Wearable designed for health, fitness and notifications. Variant: bundle.",449
+P00209,Amazon Kindle Paperwhite - Base Configuration,Electronics,E-readers,Amazon,149.0,Water-resistant e-reader with a high-resolution display. Variant: base configuration.,442
+P00210,Amazon Kindle Paperwhite - Higher Storage,Electronics,E-readers,Amazon,201.15,Water-resistant e-reader with a high-resolution display. Variant: higher storage.,442
+P00211,Amazon Echo Dot - Standard,Electronics,Smart Home,Amazon,49.0,Compact smart speaker with voice assistant features. Variant: standard.,60
+P00212,Amazon Echo Dot - Bundle,Electronics,Smart Home,Amazon,66.15,Compact smart speaker with voice assistant features. Variant: bundle.,60
+P00213,Amazon Fire TV Stick 4K - Standard,Electronics,Streaming Devices,Amazon,49.0,Streaming media device for 4K-compatible televisions. Variant: standard.,487
+P00214,Amazon Fire TV Stick 4K - Bundle,Electronics,Streaming Devices,Amazon,66.15,Streaming media device for 4K-compatible televisions. Variant: bundle.,487
+P00215,Nike Air Max 1 - Black,Apparel & Footwear,Sneakers,Nike,140.0,Lifestyle sneaker with Air cushioning. Variant: black.,364
+P00216,Nike Air Max 1 - White,Apparel & Footwear,Sneakers,Nike,189.0,Lifestyle sneaker with Air cushioning. Variant: white.,364
+P00217,Nike Air Force 1 - Black,Apparel & Footwear,Sneakers,Nike,115.0,Iconic lifestyle basketball-inspired sneaker. Variant: black.,295
+P00218,Nike Air Force 1 - White,Apparel & Footwear,Sneakers,Nike,155.25,Iconic lifestyle basketball-inspired sneaker. Variant: white.,295
+P00219,Nike Dunk Low - Black,Apparel & Footwear,Sneakers,Nike,120.0,Low-profile lifestyle sneaker. Variant: black.,307
+P00220,Nike Dunk Low - White,Apparel & Footwear,Sneakers,Nike,162.0,Low-profile lifestyle sneaker. Variant: white.,307
+P00221,Nike Air Jordan 1 - Black,Apparel & Footwear,Sneakers,Nike,180.0,Classic basketball-inspired sneaker. Variant: black.,119
+P00222,Nike Air Jordan 1 - White,Apparel & Footwear,Sneakers,Nike,243.0,Classic basketball-inspired sneaker. Variant: white.,119
+P00223,Nike Pegasus Running Shoe - Black,Apparel & Footwear,Running Shoes,Nike,140.0,Cushioned running shoe for daily training. Variant: black.,422
+P00224,Nike Pegasus Running Shoe - White,Apparel & Footwear,Running Shoes,Nike,189.0,Cushioned running shoe for daily training. Variant: white.,422
+P00225,Nike Dri-FIT T-Shirt - Black,Apparel & Footwear,Sportswear,Nike,35.0,Moisture-managing athletic T-shirt. Variant: black.,120
+P00226,Nike Dri-FIT T-Shirt - White,Apparel & Footwear,Sportswear,Nike,47.25,Moisture-managing athletic T-shirt. Variant: white.,120
+P00227,Nike Tech Fleece Hoodie - Black,Apparel & Footwear,Sportswear,Nike,110.0,Premium casual sportswear hoodie. Variant: black.,195
+P00228,Nike Tech Fleece Hoodie - White,Apparel & Footwear,Sportswear,Nike,148.5,Premium casual sportswear hoodie. Variant: white.,195
+P00229,Adidas Samba OG - Black,Apparel & Footwear,Sneakers,Adidas,100.0,Classic low-profile lifestyle sneaker. Variant: black.,364
+P00230,Adidas Samba OG - White,Apparel & Footwear,Sneakers,Adidas,135.0,Classic low-profile lifestyle sneaker. Variant: white.,364
+P00231,Adidas Superstar - Black,Apparel & Footwear,Sneakers,Adidas,90.0,Classic shell-toe lifestyle sneaker. Variant: black.,349
+P00232,Adidas Superstar - White,Apparel & Footwear,Sneakers,Adidas,121.5,Classic shell-toe lifestyle sneaker. Variant: white.,349
+P00233,Adidas Ultraboost - Black,Apparel & Footwear,Running Shoes,Adidas,180.0,Cushioned running shoe for road training. Variant: black.,194
+P00234,Adidas Ultraboost - White,Apparel & Footwear,Running Shoes,Adidas,243.0,Cushioned running shoe for road training. Variant: white.,194
+P00235,Adidas Stan Smith - Black,Apparel & Footwear,Sneakers,Adidas,100.0,Minimal leather lifestyle sneaker. Variant: black.,462
+P00236,Adidas Stan Smith - White,Apparel & Footwear,Sneakers,Adidas,135.0,Minimal leather lifestyle sneaker. Variant: white.,462
+P00237,Adidas Essentials Hoodie - Black,Apparel & Footwear,Sportswear,Adidas,60.0,Everyday casual hoodie. Variant: black.,402
+P00238,Adidas Essentials Hoodie - White,Apparel & Footwear,Sportswear,Adidas,81.0,Everyday casual hoodie. Variant: white.,402
+P00239,Puma Suede Classic - Black,Apparel & Footwear,Sneakers,Puma,80.0,Classic suede lifestyle sneaker. Variant: black.,63
+P00240,Puma Suede Classic - White,Apparel & Footwear,Sneakers,Puma,108.0,Classic suede lifestyle sneaker. Variant: white.,63
+P00241,Puma RS-X - Black,Apparel & Footwear,Sneakers,Puma,110.0,Chunky lifestyle sneaker with a bold silhouette. Variant: black.,455
+P00242,Puma RS-X - White,Apparel & Footwear,Sneakers,Puma,148.5,Chunky lifestyle sneaker with a bold silhouette. Variant: white.,455
+P00243,Puma Future Football Boots - Black,Apparel & Footwear,Football Boots,Puma,150.0,Football boots designed for speed and control. Variant: black.,435
+P00244,Puma Future Football Boots - White,Apparel & Footwear,Football Boots,Puma,202.5,Football boots designed for speed and control. Variant: white.,435
+P00245,New Balance 574 - Black,Apparel & Footwear,Sneakers,New Balance,90.0,Classic everyday lifestyle sneaker. Variant: black.,162
+P00246,New Balance 574 - White,Apparel & Footwear,Sneakers,New Balance,121.5,Classic everyday lifestyle sneaker. Variant: white.,162
+P00247,New Balance 990 - Black,Apparel & Footwear,Sneakers,New Balance,200.0,Premium heritage running-inspired sneaker. Variant: black.,218
+P00248,New Balance 990 - White,Apparel & Footwear,Sneakers,New Balance,270.0,Premium heritage running-inspired sneaker. Variant: white.,218
+P00249,New Balance Fresh Foam 1080 - Black,Apparel & Footwear,Running Shoes,New Balance,165.0,Cushioned running shoe for everyday training. Variant: black.,383
+P00250,New Balance Fresh Foam 1080 - White,Apparel & Footwear,Running Shoes,New Balance,222.75,Cushioned running shoe for everyday training. Variant: white.,383
+P00251,Converse Chuck Taylor All Star - Black,Apparel & Footwear,Sneakers,Converse,70.0,Iconic canvas sneaker. Variant: black.,362
+P00252,Converse Chuck Taylor All Star - White,Apparel & Footwear,Sneakers,Converse,94.5,Iconic canvas sneaker. Variant: white.,362
+P00253,Vans Old Skool - Black,Apparel & Footwear,Sneakers,Vans,75.0,Classic skate-inspired sneaker. Variant: black.,407
+P00254,Vans Old Skool - White,Apparel & Footwear,Sneakers,Vans,101.25,Classic skate-inspired sneaker. Variant: white.,407
+P00255,Levi's 501 Original Jeans - Black,Apparel & Footwear,Jeans,Levi's,80.0,Classic straight-leg denim jeans. Variant: black.,191
+P00256,Levi's 501 Original Jeans - White,Apparel & Footwear,Jeans,Levi's,108.0,Classic straight-leg denim jeans. Variant: white.,191
+P00257,Levi's 511 Slim Jeans - Black,Apparel & Footwear,Jeans,Levi's,80.0,Slim-fit everyday denim jeans. Variant: black.,50
+P00258,Levi's 511 Slim Jeans - White,Apparel & Footwear,Jeans,Levi's,108.0,Slim-fit everyday denim jeans. Variant: white.,50
+P00259,Uniqlo AIRism T-Shirt - Black,Apparel & Footwear,T-Shirts,Uniqlo,20.0,Lightweight casual T-shirt made for warm-weather comfort. Variant: black.,154
+P00260,Uniqlo AIRism T-Shirt - White,Apparel & Footwear,T-Shirts,Uniqlo,27.0,Lightweight casual T-shirt made for warm-weather comfort. Variant: white.,154
+P00261,Uniqlo Ultra Light Down Jacket - Black,Apparel & Footwear,Outerwear,Uniqlo,80.0,Lightweight packable down jacket. Variant: black.,60
+P00262,Uniqlo Ultra Light Down Jacket - White,Apparel & Footwear,Outerwear,Uniqlo,108.0,Lightweight packable down jacket. Variant: white.,60
+P00263,H&M Basic Hoodie - Black,Apparel & Footwear,Hoodies,H&M,35.0,Everyday casual pullover hoodie. Variant: black.,498
+P00264,H&M Basic Hoodie - White,Apparel & Footwear,Hoodies,H&M,47.25,Everyday casual pullover hoodie. Variant: white.,498
+P00265,Zara Basic Knit Sweater - Black,Apparel & Footwear,Sweaters,Zara,60.0,Casual knit sweater. Variant: black.,230
+P00266,Zara Basic Knit Sweater - White,Apparel & Footwear,Sweaters,Zara,81.0,Casual knit sweater. Variant: white.,230
+P00267,Zara Oversized Blazer - Black,Apparel & Footwear,Jackets,Zara,120.0,Structured oversized blazer. Variant: black.,167
+P00268,Zara Oversized Blazer - White,Apparel & Footwear,Jackets,Zara,162.0,Structured oversized blazer. Variant: white.,167
+P00269,Gucci Ace Sneaker - Black,Apparel & Footwear,Luxury Sneakers,Gucci,790.0,Luxury leather lifestyle sneaker. Variant: black.,185
+P00270,Gucci Ace Sneaker - White,Apparel & Footwear,Luxury Sneakers,Gucci,1066.5,Luxury leather lifestyle sneaker. Variant: white.,185
+P00271,Louis Vuitton Trainer Sneaker - Black,Apparel & Footwear,Luxury Sneakers,Louis Vuitton,1400.0,Luxury fashion sneaker. Variant: black.,172
+P00272,Louis Vuitton Trainer Sneaker - White,Apparel & Footwear,Luxury Sneakers,Louis Vuitton,1890.0,Luxury fashion sneaker. Variant: white.,172
+P00273,Ray-Ban Aviator - Classic,Apparel & Footwear,Sunglasses,Ray-Ban,170.0,Classic aviator sunglasses. Variant: classic.,447
+P00274,Ray-Ban Aviator - Premium,Apparel & Footwear,Sunglasses,Ray-Ban,229.5,Classic aviator sunglasses. Variant: premium.,447
+P00275,Ray-Ban Wayfarer - Classic,Apparel & Footwear,Sunglasses,Ray-Ban,160.0,Iconic wayfarer sunglasses. Variant: classic.,446
+P00276,Ray-Ban Wayfarer - Premium,Apparel & Footwear,Sunglasses,Ray-Ban,216.0,Iconic wayfarer sunglasses. Variant: premium.,446
+P00277,Casio G-Shock - Classic,Apparel & Footwear,Watches,Casio,120.0,Rugged digital watch designed for durability. Variant: classic.,149
+P00278,Casio G-Shock - Premium,Apparel & Footwear,Watches,Casio,162.0,Rugged digital watch designed for durability. Variant: premium.,149
+P00279,Tissot PRX - Classic,Apparel & Footwear,Watches,Tissot,650.0,Swiss-made sports-style wristwatch. Variant: classic.,303
+P00280,Tissot PRX - Premium,Apparel & Footwear,Watches,Tissot,877.5,Swiss-made sports-style wristwatch. Variant: premium.,303
+P00281,Seiko 5 Sports - Classic,Apparel & Footwear,Watches,Seiko,300.0,Automatic everyday sports watch. Variant: classic.,419
+P00282,Seiko 5 Sports - Premium,Apparel & Footwear,Watches,Seiko,405.0,Automatic everyday sports watch. Variant: premium.,419
+P00283,Nivea Creme - Small Pack,Personal Care,Skin Care,Beiersdorf,4.0,Classic moisturizing cream. Variant: small pack.,191
+P00284,Nivea Creme - Value Pack,Personal Care,Skin Care,Beiersdorf,5.4,Classic moisturizing cream. Variant: value pack.,332
+P00285,Nivea Men Deodorant - Small Pack,Personal Care,Deodorant,Beiersdorf,4.5,Men's deodorant for everyday freshness. Variant: small pack.,165
+P00286,Nivea Men Deodorant - Value Pack,Personal Care,Deodorant,Beiersdorf,6.08,Men's deodorant for everyday freshness. Variant: value pack.,89
+P00287,Nivea Sun SPF 50 - Small Pack,Personal Care,Sun Care,Beiersdorf,12.0,High-protection sunscreen. Variant: small pack.,98
+P00288,Nivea Sun SPF 50 - Value Pack,Personal Care,Sun Care,Beiersdorf,16.2,High-protection sunscreen. Variant: value pack.,46
+P00289,La Roche-Posay Anthelios SPF 50 - Small Pack,Personal Care,Sun Care,L'Oréal,25.0,High-protection facial sunscreen. Variant: small pack.,73
+P00290,La Roche-Posay Anthelios SPF 50 - Value Pack,Personal Care,Sun Care,L'Oréal,33.75,High-protection facial sunscreen. Variant: value pack.,57
+P00291,CeraVe Moisturizing Cream - Small Pack,Personal Care,Skin Care,L'Oréal,16.0,Moisturizing cream for dry skin. Variant: small pack.,32
+P00292,CeraVe Moisturizing Cream - Value Pack,Personal Care,Skin Care,L'Oréal,21.6,Moisturizing cream for dry skin. Variant: value pack.,211
+P00293,CeraVe Foaming Cleanser - Small Pack,Personal Care,Skin Care,L'Oréal,15.0,Foaming facial cleanser. Variant: small pack.,386
+P00294,CeraVe Foaming Cleanser - Value Pack,Personal Care,Skin Care,L'Oréal,20.25,Foaming facial cleanser. Variant: value pack.,483
+P00295,L'Oréal Revitalift Cream - Small Pack,Personal Care,Skin Care,L'Oréal,20.0,Anti-aging facial moisturizer. Variant: small pack.,154
+P00296,L'Oréal Revitalift Cream - Value Pack,Personal Care,Skin Care,L'Oréal,27.0,Anti-aging facial moisturizer. Variant: value pack.,349
+P00297,Maybelline Fit Me Foundation - Standard Size,Beauty,Makeup,L'Oréal,10.0,Liquid foundation for everyday makeup. Variant: standard size.,377
+P00298,Maybelline Fit Me Foundation - Large Size,Beauty,Makeup,L'Oréal,13.5,Liquid foundation for everyday makeup. Variant: large size.,377
+P00299,Maybelline Sky High Mascara - Standard Size,Beauty,Makeup,L'Oréal,12.0,Lengthening mascara. Variant: standard size.,290
+P00300,Maybelline Sky High Mascara - Large Size,Beauty,Makeup,L'Oréal,16.2,Lengthening mascara. Variant: large size.,290
+P00301,Garnier Micellar Water - Standard Size,Beauty,Skin Care,L'Oréal,9.0,Micellar cleanser for removing makeup and impurities. Variant: standard size.,488
+P00302,Garnier Micellar Water - Large Size,Beauty,Skin Care,L'Oréal,12.15,Micellar cleanser for removing makeup and impurities. Variant: large size.,488
+P00303,MAC Ruby Woo Lipstick - Standard Size,Beauty,Makeup,Estée Lauder,25.0,Classic matte red lipstick. Variant: standard size.,87
+P00304,MAC Ruby Woo Lipstick - Large Size,Beauty,Makeup,Estée Lauder,33.75,Classic matte red lipstick. Variant: large size.,87
+P00305,Clinique Moisture Surge - Standard Size,Beauty,Skin Care,Estée Lauder,45.0,Hydrating facial gel cream. Variant: standard size.,222
+P00306,Clinique Moisture Surge - Large Size,Beauty,Skin Care,Estée Lauder,60.75,Hydrating facial gel cream. Variant: large size.,222
+P00307,Estée Lauder Advanced Night Repair - Standard Size,Beauty,Skin Care,Estée Lauder,85.0,Facial serum for nighttime skincare. Variant: standard size.,17
+P00308,Estée Lauder Advanced Night Repair - Large Size,Beauty,Skin Care,Estée Lauder,114.75,Facial serum for nighttime skincare. Variant: large size.,17
+P00309,The Ordinary Niacinamide Serum - Standard Size,Beauty,Skin Care,The Estée Lauder Companies,8.0,Affordable facial serum featuring niacinamide. Variant: standard size.,475
+P00310,The Ordinary Niacinamide Serum - Large Size,Beauty,Skin Care,The Estée Lauder Companies,10.8,Affordable facial serum featuring niacinamide. Variant: large size.,475
+P00311,Dior Sauvage Eau de Toilette - Standard Size,Beauty,Fragrance,LVMH,95.0,Popular men's fragrance. Variant: standard size.,490
+P00312,Dior Sauvage Eau de Toilette - Large Size,Beauty,Fragrance,LVMH,128.25,Popular men's fragrance. Variant: large size.,490
+P00313,Chanel No. 5 - Standard Size,Beauty,Fragrance,Chanel,120.0,Classic floral fragrance. Variant: standard size.,122
+P00314,Chanel No. 5 - Large Size,Beauty,Fragrance,Chanel,162.0,Classic floral fragrance. Variant: large size.,122
+P00315,Chanel Bleu de Chanel - Standard Size,Beauty,Fragrance,Chanel,110.0,Men's aromatic woody fragrance. Variant: standard size.,240
+P00316,Chanel Bleu de Chanel - Large Size,Beauty,Fragrance,Chanel,148.5,Men's aromatic woody fragrance. Variant: large size.,240
+P00317,Yves Saint Laurent Libre - Standard Size,Beauty,Fragrance,L'Oréal,110.0,Women's floral fragrance. Variant: standard size.,236
+P00318,Yves Saint Laurent Libre - Large Size,Beauty,Fragrance,L'Oréal,148.5,Women's floral fragrance. Variant: large size.,236
+P00319,Hugo Boss Bottled - Standard Size,Beauty,Fragrance,Hugo Boss,85.0,Classic men's fragrance. Variant: standard size.,497
+P00320,Hugo Boss Bottled - Large Size,Beauty,Fragrance,Hugo Boss,114.75,Classic men's fragrance. Variant: large size.,497
+P00321,Adidas Ice Dive - Standard Size,Beauty,Fragrance,Adidas,25.0,Fresh everyday fragrance. Variant: standard size.,150
+P00322,Adidas Ice Dive - Large Size,Beauty,Fragrance,Adidas,33.75,Fresh everyday fragrance. Variant: large size.,150
+P00323,Colgate Total Toothpaste - Small Pack,Personal Care,Oral Care,Colgate-Palmolive,4.0,Everyday fluoride toothpaste. Variant: small pack.,32
+P00324,Colgate Total Toothpaste - Value Pack,Personal Care,Oral Care,Colgate-Palmolive,5.4,Everyday fluoride toothpaste. Variant: value pack.,361
+P00325,Colgate Optic White - Small Pack,Personal Care,Oral Care,Colgate-Palmolive,5.0,Whitening-focused toothpaste. Variant: small pack.,387
+P00326,Colgate Optic White - Value Pack,Personal Care,Oral Care,Colgate-Palmolive,6.75,Whitening-focused toothpaste. Variant: value pack.,93
+P00327,Palmolive Shower Gel - Small Pack,Personal Care,Bath & Body,Colgate-Palmolive,4.5,Body wash for daily cleansing. Variant: small pack.,393
+P00328,Palmolive Shower Gel - Value Pack,Personal Care,Bath & Body,Colgate-Palmolive,6.08,Body wash for daily cleansing. Variant: value pack.,33
+P00329,Ajax Multi-Surface Cleaner - Small Pack,Home Care,Surface Cleaner,Colgate-Palmolive,3.5,Multi-surface household cleaner. Variant: small pack.,246
+P00330,Ajax Multi-Surface Cleaner - Value Pack,Home Care,Surface Cleaner,Colgate-Palmolive,4.73,Multi-surface household cleaner. Variant: value pack.,22
+P00331,Persil Laundry Detergent - Small Pack,Home Care,Laundry Detergent,Henkel,7.0,Laundry detergent for everyday washing. Variant: small pack.,170
+P00332,Persil Laundry Detergent - Value Pack,Home Care,Laundry Detergent,Henkel,9.45,Laundry detergent for everyday washing. Variant: value pack.,125
+P00333,Schwarzkopf Shampoo - Small Pack,Personal Care,Hair Care,Henkel,6.0,Hair shampoo for regular cleansing. Variant: small pack.,226
+P00334,Schwarzkopf Shampoo - Value Pack,Personal Care,Hair Care,Henkel,8.1,Hair shampoo for regular cleansing. Variant: value pack.,165
+P00335,Dove Men+Care Body Wash - Small Pack,Personal Care,Bath & Body,Unilever,6.0,Men's body wash for daily cleansing. Variant: small pack.,465
+P00336,Dove Men+Care Body Wash - Value Pack,Personal Care,Bath & Body,Unilever,8.1,Men's body wash for daily cleansing. Variant: value pack.,490
+P00337,Axe Body Spray - Small Pack,Personal Care,Deodorant,Unilever,5.0,Fragranced body spray. Variant: small pack.,259
+P00338,Axe Body Spray - Value Pack,Personal Care,Deodorant,Unilever,6.75,Fragranced body spray. Variant: value pack.,167
+P00339,Pepsodent Toothpaste - Small Pack,Personal Care,Oral Care,Unilever,2.5,Fluoride toothpaste for everyday oral care. Variant: small pack.,402
+P00340,Pepsodent Toothpaste - Value Pack,Personal Care,Oral Care,Unilever,3.38,Fluoride toothpaste for everyday oral care. Variant: value pack.,293
+P00341,Lifebuoy Soap Bar - Small Pack,Personal Care,Bath & Body,Unilever,1.5,Antibacterial-oriented cleansing bar. Variant: small pack.,16
+P00342,Lifebuoy Soap Bar - Value Pack,Personal Care,Bath & Body,Unilever,2.03,Antibacterial-oriented cleansing bar. Variant: value pack.,454
+P00343,Lux Soap Bar - Small Pack,Personal Care,Bath & Body,Unilever,1.5,Fragranced bathing soap. Variant: small pack.,393
+P00344,Lux Soap Bar - Value Pack,Personal Care,Bath & Body,Unilever,2.03,Fragranced bathing soap. Variant: value pack.,206
+P00345,Surf Excel Detergent - Small Pack,Home Care,Laundry Detergent,Unilever,5.5,Laundry detergent for everyday stain removal. Variant: small pack.,259
+P00346,Surf Excel Detergent - Value Pack,Home Care,Laundry Detergent,Unilever,7.43,Laundry detergent for everyday stain removal. Variant: value pack.,492
+P00347,Domestos Bleach - Small Pack,Home Care,Bathroom Cleaner,Unilever,4.0,Household bleach and disinfecting cleaner. Variant: small pack.,237
+P00348,Domestos Bleach - Value Pack,Home Care,Bathroom Cleaner,Unilever,5.4,Household bleach and disinfecting cleaner. Variant: value pack.,284
+P00349,Sunlight Laundry Bar - Small Pack,Home Care,Laundry Detergent,Unilever,1.5,Laundry soap bar for hand washing clothes. Variant: small pack.,204
+P00350,Sunlight Laundry Bar - Value Pack,Home Care,Laundry Detergent,Unilever,2.03,Laundry soap bar for hand washing clothes. Variant: value pack.,180
+P00351,Knorr Vegetable Stock Cubes - Small Pack,Food & Beverage,Seasoning,Unilever,2.5,Vegetable stock cubes for cooking. Variant: small pack.,189
+P00352,Knorr Vegetable Stock Cubes - Value Pack,Food & Beverage,Seasoning,Unilever,3.38,Vegetable stock cubes for cooking. Variant: value pack.,435
+P00353,Hellmann's Ketchup - Small Pack,Food & Beverage,Condiments,Unilever,4.0,Tomato ketchup for meals and snacks. Variant: small pack.,208
+P00354,Hellmann's Ketchup - Value Pack,Food & Beverage,Condiments,Unilever,5.4,Tomato ketchup for meals and snacks. Variant: value pack.,116
+P00355,Heinz Tomato Ketchup - Small Pack,Food & Beverage,Condiments,The Kraft Heinz Company,4.0,Classic tomato ketchup. Variant: small pack.,375
+P00356,Heinz Tomato Ketchup - Value Pack,Food & Beverage,Condiments,The Kraft Heinz Company,5.4,Classic tomato ketchup. Variant: value pack.,226
+P00357,Heinz Baked Beans - Small Pack,Food & Beverage,Canned Foods,The Kraft Heinz Company,3.0,Canned baked beans in tomato sauce. Variant: small pack.,268
+P00358,Heinz Baked Beans - Value Pack,Food & Beverage,Canned Foods,The Kraft Heinz Company,4.05,Canned baked beans in tomato sauce. Variant: value pack.,424
+P00359,Philadelphia Cream Cheese - Small Pack,Food & Beverage,Dairy,The Kraft Heinz Company,5.0,Cream cheese spread. Variant: small pack.,332
+P00360,Philadelphia Cream Cheese - Value Pack,Food & Beverage,Dairy,The Kraft Heinz Company,6.75,Cream cheese spread. Variant: value pack.,224
+P00361,Kellogg's Corn Flakes - Small Pack,Food & Beverage,Cereal,Kellanova,5.0,Classic corn flake breakfast cereal. Variant: small pack.,446
+P00362,Kellogg's Corn Flakes - Value Pack,Food & Beverage,Cereal,Kellanova,6.75,Classic corn flake breakfast cereal. Variant: value pack.,424
+P00363,Pringles Original - Small Pack,Food & Beverage,Snacks,Kellanova,3.0,Stacked potato crisps. Variant: small pack.,247
+P00364,Pringles Original - Value Pack,Food & Beverage,Snacks,Kellanova,4.05,Stacked potato crisps. Variant: value pack.,445
+P00365,Pop-Tarts Strawberry - Small Pack,Food & Beverage,Breakfast,Kellanova,4.0,Toaster pastries with strawberry filling. Variant: small pack.,323
+P00366,Pop-Tarts Strawberry - Value Pack,Food & Beverage,Breakfast,Kellanova,5.4,Toaster pastries with strawberry filling. Variant: value pack.,167
+P00367,Nutella Hazelnut Spread - Small Pack,Food & Beverage,Spreads,Ferrero,5.0,Hazelnut cocoa spread. Variant: small pack.,50
+P00368,Nutella Hazelnut Spread - Value Pack,Food & Beverage,Spreads,Ferrero,6.75,Hazelnut cocoa spread. Variant: value pack.,363
+P00369,Kinder Bueno - Small Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,2.0,Chocolate-covered wafer with hazelnut filling. Variant: small pack.,185
+P00370,Kinder Bueno - Value Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,2.7,Chocolate-covered wafer with hazelnut filling. Variant: value pack.,273
+P00371,Ferrero Rocher - Small Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,8.0,Hazelnut chocolate confectionery. Variant: small pack.,101
+P00372,Ferrero Rocher - Value Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,10.8,Hazelnut chocolate confectionery. Variant: value pack.,448
+P00373,Kinder Joy - Small Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,2.0,Chocolate treat with a toy surprise. Variant: small pack.,400
+P00374,Kinder Joy - Value Pack,Food & Beverage,Chocolate & Confectionery,Ferrero,2.7,Chocolate treat with a toy surprise. Variant: value pack.,186
+P00375,Oreo Original - Small Pack,Food & Beverage,Biscuits & Cookies,Mondelēz International,2.5,Chocolate sandwich cookies with sweet cream filling. Variant: small pack.,303
+P00376,Oreo Original - Value Pack,Food & Beverage,Biscuits & Cookies,Mondelēz International,3.38,Chocolate sandwich cookies with sweet cream filling. Variant: value pack.,316
+P00377,Cadbury Dairy Milk - Small Pack,Food & Beverage,Chocolate & Confectionery,Mondelēz International,2.0,Classic milk chocolate bar. Variant: small pack.,80
+P00378,Cadbury Dairy Milk - Value Pack,Food & Beverage,Chocolate & Confectionery,Mondelēz International,2.7,Classic milk chocolate bar. Variant: value pack.,19
+P00379,Toblerone Milk Chocolate - Small Pack,Food & Beverage,Chocolate & Confectionery,Mondelēz International,4.0,Swiss-style milk chocolate with honey and almond nougat. Variant: small pack.,485
+P00380,Toblerone Milk Chocolate - Value Pack,Food & Beverage,Chocolate & Confectionery,Mondelēz International,5.4,Swiss-style milk chocolate with honey and almond nougat. Variant: value pack.,321
+P00381,Ritz Crackers - Small Pack,Food & Beverage,Biscuits & Crackers,Mondelēz International,3.0,Round buttery crackers. Variant: small pack.,389
+P00382,Ritz Crackers - Value Pack,Food & Beverage,Biscuits & Crackers,Mondelēz International,4.05,Round buttery crackers. Variant: value pack.,73
+P00383,BelVita Breakfast Biscuits - Small Pack,Food & Beverage,Breakfast,Mondelēz International,4.0,Breakfast biscuits designed for a convenient morning snack. Variant: small pack.,413
+P00384,BelVita Breakfast Biscuits - Value Pack,Food & Beverage,Breakfast,Mondelēz International,5.4,Breakfast biscuits designed for a convenient morning snack. Variant: value pack.,124
+P00385,Barilla Spaghetti - Small Pack,Food & Beverage,Pasta,Barilla,3.0,Durum wheat spaghetti pasta. Variant: small pack.,341
+P00386,Barilla Spaghetti - Value Pack,Food & Beverage,Pasta,Barilla,4.05,Durum wheat spaghetti pasta. Variant: value pack.,249
+P00387,Barilla Penne - Small Pack,Food & Beverage,Pasta,Barilla,3.0,Durum wheat penne pasta. Variant: small pack.,153
+P00388,Barilla Penne - Value Pack,Food & Beverage,Pasta,Barilla,4.05,Durum wheat penne pasta. Variant: value pack.,499
+P00389,Philadelphia Pasta Sauce - Small Pack,Food & Beverage,Cooking Ingredients,Barilla,4.0,Tomato-based pasta sauce. Variant: small pack.,279
+P00390,Philadelphia Pasta Sauce - Value Pack,Food & Beverage,Cooking Ingredients,Barilla,5.4,Tomato-based pasta sauce. Variant: value pack.,399
+P00391,Twinings English Breakfast Tea - Small Pack,Food & Beverage,Tea,Associated British Foods,5.0,Classic black tea blend. Variant: small pack.,191
+P00392,Twinings English Breakfast Tea - Value Pack,Food & Beverage,Tea,Associated British Foods,6.75,Classic black tea blend. Variant: value pack.,471
+P00393,Lipton Yellow Label Tea - Small Pack,Food & Beverage,Tea,Lipton,4.0,Black tea for everyday brewing. Variant: small pack.,165
+P00394,Lipton Yellow Label Tea - Value Pack,Food & Beverage,Tea,Lipton,5.4,Black tea for everyday brewing. Variant: value pack.,233
+P00395,Red Bull Energy Drink - Small Pack,Food & Beverage,Energy Drinks,Red Bull,2.5,Carbonated energy drink. Variant: small pack.,116
+P00396,Red Bull Energy Drink - Value Pack,Food & Beverage,Energy Drinks,Red Bull,3.38,Carbonated energy drink. Variant: value pack.,474
+P00397,Monster Energy - Small Pack,Food & Beverage,Energy Drinks,Monster Beverage,2.5,Carbonated energy drink. Variant: small pack.,450
+P00398,Monster Energy - Value Pack,Food & Beverage,Energy Drinks,Monster Beverage,3.38,Carbonated energy drink. Variant: value pack.,50
+P00399,Pringles Sour Cream & Onion - Small Pack,Food & Beverage,Snacks,Kellanova,3.0,Stacked potato crisps with sour cream and onion flavour. Variant: small pack.,281
+P00400,Pringles Sour Cream & Onion - Value Pack,Food & Beverage,Snacks,Kellanova,4.05,Stacked potato crisps with sour cream and onion flavour. Variant: value pack.,248
+P00401,Ben & Jerry's Chocolate Fudge Brownie - Small Pack,Food & Beverage,Ice Cream,Unilever,7.0,Chocolate ice cream with brownie pieces. Variant: small pack.,129
+P00402,Ben & Jerry's Chocolate Fudge Brownie - Value Pack,Food & Beverage,Ice Cream,Unilever,9.45,Chocolate ice cream with brownie pieces. Variant: value pack.,24
+P00403,Magnum Classic Ice Cream - Small Pack,Food & Beverage,Ice Cream,Unilever,4.0,Vanilla ice cream coated in chocolate. Variant: small pack.,387
+P00404,Magnum Classic Ice Cream - Value Pack,Food & Beverage,Ice Cream,Unilever,5.4,Vanilla ice cream coated in chocolate. Variant: value pack.,358
+P00405,Haagen-Dazs Vanilla - Small Pack,Food & Beverage,Ice Cream,General Mills,7.0,Premium vanilla ice cream. Variant: small pack.,34
+P00406,Haagen-Dazs Vanilla - Value Pack,Food & Beverage,Ice Cream,General Mills,9.45,Premium vanilla ice cream. Variant: value pack.,382
+P00407,Pillsbury Cookie Dough - Small Pack,Food & Beverage,Baking,General Mills,5.0,Ready-to-bake cookie dough. Variant: small pack.,44
+P00408,Pillsbury Cookie Dough - Value Pack,Food & Beverage,Baking,General Mills,6.75,Ready-to-bake cookie dough. Variant: value pack.,306
+P00409,Old El Paso Taco Kit - Small Pack,Food & Beverage,Meal Kits,General Mills,5.0,Taco meal kit with shells and seasoning. Variant: small pack.,316
+P00410,Old El Paso Taco Kit - Value Pack,Food & Beverage,Meal Kits,General Mills,6.75,Taco meal kit with shells and seasoning. Variant: value pack.,264
+P00411,Yoplait Yogurt - Small Pack,Food & Beverage,Dairy,General Mills,2.0,Fruit-flavoured yogurt. Variant: small pack.,189
+P00412,Yoplait Yogurt - Value Pack,Food & Beverage,Dairy,General Mills,2.7,Fruit-flavoured yogurt. Variant: value pack.,268
+P00413,Activia Yogurt - Small Pack,Food & Beverage,Dairy,Danone,2.5,Cultured yogurt product. Variant: small pack.,92
+P00414,Activia Yogurt - Value Pack,Food & Beverage,Dairy,Danone,3.38,Cultured yogurt product. Variant: value pack.,125
+P00415,Evian Water - Small Pack,Food & Beverage,Bottled Water,Danone,2.0,Packaged mineral water. Variant: small pack.,291
+P00416,Evian Water - Value Pack,Food & Beverage,Bottled Water,Danone,2.7,Packaged mineral water. Variant: value pack.,174
+P00417,Aptamil Infant Formula - Small Pack,Baby Care,Baby Formula,Danone,20.0,Infant formula product. Variant: small pack.,485
+P00418,Aptamil Infant Formula - Value Pack,Baby Care,Baby Formula,Danone,27.0,Infant formula product. Variant: value pack.,311
+P00419,Huggies Baby Diapers - Small Pack,Baby Care,Diapers,Kimberly-Clark,12.0,Disposable diapers for babies. Variant: small pack.,261
+P00420,Huggies Baby Diapers - Value Pack,Baby Care,Diapers,Kimberly-Clark,16.2,Disposable diapers for babies. Variant: value pack.,25
+P00421,Kleenex Facial Tissues - Small Pack,Home Care,Paper Products,Kimberly-Clark,4.0,Soft facial tissues. Variant: small pack.,497
+P00422,Kleenex Facial Tissues - Value Pack,Home Care,Paper Products,Kimberly-Clark,5.4,Soft facial tissues. Variant: value pack.,215
+P00423,Scott Toilet Paper - Small Pack,Home Care,Paper Products,Kimberly-Clark,8.0,Household toilet paper rolls. Variant: small pack.,380
+P00424,Scott Toilet Paper - Value Pack,Home Care,Paper Products,Kimberly-Clark,10.8,Household toilet paper rolls. Variant: value pack.,445
+P00425,Cottonelle Toilet Paper - Small Pack,Home Care,Paper Products,Kimberly-Clark,8.0,Soft toilet paper for household use. Variant: small pack.,468
+P00426,Cottonelle Toilet Paper - Value Pack,Home Care,Paper Products,Kimberly-Clark,10.8,Soft toilet paper for household use. Variant: value pack.,134
+P00427,Viva Paper Towels - Small Pack,Home Care,Paper Products,Kimberly-Clark,6.0,Absorbent paper towels for kitchens. Variant: small pack.,25
+P00428,Viva Paper Towels - Value Pack,Home Care,Paper Products,Kimberly-Clark,8.1,Absorbent paper towels for kitchens. Variant: value pack.,215
+P00429,Duracell AA Batteries - Standard,Electronics,Batteries,Duracell,10.0,Alkaline AA batteries. Variant: standard.,467
+P00430,Duracell AA Batteries - Bundle,Electronics,Batteries,Duracell,13.5,Alkaline AA batteries. Variant: bundle.,467
+P00431,Duracell AAA Batteries - Standard,Electronics,Batteries,Duracell,10.0,Alkaline AAA batteries. Variant: standard.,316
+P00432,Duracell AAA Batteries - Bundle,Electronics,Batteries,Duracell,13.5,Alkaline AAA batteries. Variant: bundle.,316
+P00433,Energizer AA Batteries - Standard,Electronics,Batteries,Energizer,9.0,Alkaline AA batteries. Variant: standard.,350
+P00434,Energizer AA Batteries - Bundle,Electronics,Batteries,Energizer,12.15,Alkaline AA batteries. Variant: bundle.,350
+P00435,Logitech MX Master 3S - Standard,Electronics,Computer Accessories,Logitech,99.0,Wireless productivity mouse. Variant: standard.,240
+P00436,Logitech MX Master 3S - Bundle,Electronics,Computer Accessories,Logitech,133.65,Wireless productivity mouse. Variant: bundle.,240
+P00437,Logitech K380 Keyboard - Standard,Electronics,Computer Accessories,Logitech,45.0,Compact Bluetooth keyboard. Variant: standard.,114
+P00438,Logitech K380 Keyboard - Bundle,Electronics,Computer Accessories,Logitech,60.75,Compact Bluetooth keyboard. Variant: bundle.,114
+P00439,Logitech C920 Webcam - Standard,Electronics,Computer Accessories,Logitech,70.0,Full HD webcam for calls and streaming. Variant: standard.,184
+P00440,Logitech C920 Webcam - Bundle,Electronics,Computer Accessories,Logitech,94.5,Full HD webcam for calls and streaming. Variant: bundle.,184
+P00441,JBL Flip 6 - Standard,Electronics,Speakers,JBL,129.0,Portable Bluetooth speaker. Variant: standard.,428
+P00442,JBL Flip 6 - Bundle,Electronics,Speakers,JBL,174.15,Portable Bluetooth speaker. Variant: bundle.,428
+P00443,JBL Charge 5 - Standard,Electronics,Speakers,JBL,179.0,Portable waterproof Bluetooth speaker. Variant: standard.,16
+P00444,JBL Charge 5 - Bundle,Electronics,Speakers,JBL,241.65,Portable waterproof Bluetooth speaker. Variant: bundle.,16
+P00445,Bose QuietComfort Headphones - Standard,Electronics,Audio,Bose,349.0,Wireless noise-cancelling headphones. Variant: standard.,412
+P00446,Bose QuietComfort Headphones - Bundle,Electronics,Audio,Bose,471.15,Wireless noise-cancelling headphones. Variant: bundle.,412
+P00447,Bose SoundLink Flex - Standard,Electronics,Speakers,Bose,149.0,Portable Bluetooth speaker. Variant: standard.,254
+P00448,Bose SoundLink Flex - Bundle,Electronics,Speakers,Bose,201.15,Portable Bluetooth speaker. Variant: bundle.,254
+P00449,GoPro HERO12 Black - Standard,Electronics,Cameras,GoPro,399.0,Action camera for outdoor and sports recording. Variant: standard.,375
+P00450,GoPro HERO12 Black - Bundle,Electronics,Cameras,GoPro,538.65,Action camera for outdoor and sports recording. Variant: bundle.,375
+P00451,DJI Mini 4 Pro - Standard,Electronics,Drones,DJI,759.0,Compact camera drone. Variant: standard.,339
+P00452,DJI Mini 4 Pro - Bundle,Electronics,Drones,DJI,1024.65,Compact camera drone. Variant: bundle.,339
+P00453,Canon EOS R50 - Standard,Electronics,Cameras,Canon,679.0,Compact mirrorless camera. Variant: standard.,371
+P00454,Canon EOS R50 - Bundle,Electronics,Cameras,Canon,916.65,Compact mirrorless camera. Variant: bundle.,371
+P00455,Nikon Z50 - Standard,Electronics,Cameras,Nikon,859.0,Mirrorless camera for photography and video. Variant: standard.,332
+P00456,Nikon Z50 - Bundle,Electronics,Cameras,Nikon,1159.65,Mirrorless camera for photography and video. Variant: bundle.,332
+P00457,Instant Pot Duo - Standard,Appliances,Small Kitchen Appliances,Instant Brands,99.0,Multi-function electric pressure cooker. Variant: standard.,164
+P00458,Instant Pot Duo - Premium,Appliances,Small Kitchen Appliances,Instant Brands,133.65,Multi-function electric pressure cooker. Variant: premium.,164
+P00459,Ninja Air Fryer - Standard,Appliances,Small Kitchen Appliances,SharkNinja,129.0,Countertop air fryer for crisp cooking. Variant: standard.,392
+P00460,Ninja Air Fryer - Premium,Appliances,Small Kitchen Appliances,SharkNinja,174.15,Countertop air fryer for crisp cooking. Variant: premium.,392
+P00461,Ninja Blender - Standard,Appliances,Small Kitchen Appliances,SharkNinja,149.0,High-speed countertop blender. Variant: standard.,188
+P00462,Ninja Blender - Premium,Appliances,Small Kitchen Appliances,SharkNinja,201.15,High-speed countertop blender. Variant: premium.,188
+P00463,Dyson V15 Detect - Standard,Appliances,Vacuum Cleaners,Dyson,749.0,Cordless vacuum with advanced dust detection. Variant: standard.,224
+P00464,Dyson V15 Detect - Premium,Appliances,Vacuum Cleaners,Dyson,1011.15,Cordless vacuum with advanced dust detection. Variant: premium.,224
+P00465,Dyson Airwrap - Standard Size,Beauty,Hair Styling,Dyson,599.0,Multi-styler for drying and shaping hair. Variant: standard size.,300
+P00466,Dyson Airwrap - Large Size,Beauty,Hair Styling,Dyson,808.65,Multi-styler for drying and shaping hair. Variant: large size.,300
+P00467,Philips Air Fryer - Standard,Appliances,Small Kitchen Appliances,Philips,129.0,Air fryer for countertop cooking. Variant: standard.,364
+P00468,Philips Air Fryer - Premium,Appliances,Small Kitchen Appliances,Philips,174.15,Air fryer for countertop cooking. Variant: premium.,364
+P00469,Philips Sonicare Toothbrush - Small Pack,Personal Care,Oral Care,Philips,89.0,Electric toothbrush with sonic cleaning technology. Variant: small pack.,157
+P00470,Philips Sonicare Toothbrush - Value Pack,Personal Care,Oral Care,Philips,120.15,Electric toothbrush with sonic cleaning technology. Variant: value pack.,195
+P00471,Nespresso Essenza Mini - Standard,Appliances,Coffee Machines,Nestlé,179.0,Compact capsule coffee machine. Variant: standard.,32
+P00472,Nespresso Essenza Mini - Premium,Appliances,Coffee Machines,Nestlé,241.65,Compact capsule coffee machine. Variant: premium.,32
+P00473,KitchenAid Stand Mixer - Standard,Appliances,Small Kitchen Appliances,Whirlpool,449.0,Stand mixer for baking and food preparation. Variant: standard.,480
+P00474,KitchenAid Stand Mixer - Premium,Appliances,Small Kitchen Appliances,Whirlpool,606.15,Stand mixer for baking and food preparation. Variant: premium.,480
+P00475,Breville Barista Express - Standard,Appliances,Coffee Machines,Breville,699.0,Home espresso machine with integrated grinder. Variant: standard.,480
+P00476,Breville Barista Express - Premium,Appliances,Coffee Machines,Breville,943.65,Home espresso machine with integrated grinder. Variant: premium.,480
+P00477,Cuisinart Food Processor - Standard,Appliances,Small Kitchen Appliances,Cuisinart,149.0,Food processor for chopping and preparation. Variant: standard.,488
+P00478,Cuisinart Food Processor - Premium,Appliances,Small Kitchen Appliances,Cuisinart,201.15,Food processor for chopping and preparation. Variant: premium.,488
+P00479,IKEA KALLAX Shelf - Neutral,Home & Furniture,Storage,IKEA,89.0,Modular cube storage shelf. Variant: neutral.,267
+P00480,IKEA KALLAX Shelf - Large,Home & Furniture,Storage,IKEA,120.15,Modular cube storage shelf. Variant: large.,267
+P00481,IKEA MALM Bed Frame - Neutral,Home & Furniture,Bedroom Furniture,IKEA,199.0,Simple modern bed frame. Variant: neutral.,334
+P00482,IKEA MALM Bed Frame - Large,Home & Furniture,Bedroom Furniture,IKEA,268.65,Simple modern bed frame. Variant: large.,334
+P00483,IKEA BILLY Bookcase - Neutral,Home & Furniture,Storage,IKEA,79.0,Classic adjustable bookcase. Variant: neutral.,399
+P00484,IKEA BILLY Bookcase - Large,Home & Furniture,Storage,IKEA,106.65,Classic adjustable bookcase. Variant: large.,399
+P00485,IKEA POÄNG Chair - Neutral,Home & Furniture,Living Room Furniture,IKEA,129.0,Curved wooden lounge chair. Variant: neutral.,432
+P00486,IKEA POÄNG Chair - Large,Home & Furniture,Living Room Furniture,IKEA,174.15,Curved wooden lounge chair. Variant: large.,432
+P00487,IKEA LACK Coffee Table - Neutral,Home & Furniture,Living Room Furniture,IKEA,35.0,Minimalist coffee table. Variant: neutral.,221
+P00488,IKEA LACK Coffee Table - Large,Home & Furniture,Living Room Furniture,IKEA,47.25,Minimalist coffee table. Variant: large.,221
+P00489,LEGO Classic Bricks - Standard,Toys & Games,Building Toys,LEGO,35.0,Classic construction bricks for open-ended building. Variant: standard.,221
+P00490,LEGO Classic Bricks - Deluxe,Toys & Games,Building Toys,LEGO,47.25,Classic construction bricks for open-ended building. Variant: deluxe.,221
+P00491,LEGO City Police Station - Standard,Toys & Games,Building Toys,LEGO,60.0,City-themed construction set. Variant: standard.,350
+P00492,LEGO City Police Station - Deluxe,Toys & Games,Building Toys,LEGO,81.0,City-themed construction set. Variant: deluxe.,350
+P00493,LEGO Technic Car - Standard,Toys & Games,Building Toys,LEGO,55.0,Technic construction vehicle set. Variant: standard.,223
+P00494,LEGO Technic Car - Deluxe,Toys & Games,Building Toys,LEGO,74.25,Technic construction vehicle set. Variant: deluxe.,223
+P00495,Barbie Dreamhouse - Standard,Toys & Games,Dolls & Accessories,Mattel,80.0,Large dollhouse playset. Variant: standard.,304
+P00496,Barbie Dreamhouse - Deluxe,Toys & Games,Dolls & Accessories,Mattel,108.0,Large dollhouse playset. Variant: deluxe.,304
+P00497,Hot Wheels Track Set - Standard,Toys & Games,Toy Cars,Mattel,30.0,Toy car track and play set. Variant: standard.,365
+P00498,Hot Wheels Track Set - Deluxe,Toys & Games,Toy Cars,Mattel,40.5,Toy car track and play set. Variant: deluxe.,365
+P00499,Monopoly Classic - Standard,Toys & Games,Board Games,Hasbro,25.0,Classic property trading board game. Variant: standard.,79
+P00500,Monopoly Classic - Deluxe,Toys & Games,Board Games,Hasbro,33.75,Classic property trading board game. Variant: deluxe.,79
+P00501,UNO Card Game - Standard,Toys & Games,Card Games,Mattel,10.0,Classic fast-paced matching card game. Variant: standard.,428
+P00502,UNO Card Game - Deluxe,Toys & Games,Card Games,Mattel,13.5,Classic fast-paced matching card game. Variant: deluxe.,428
+P00503,Play-Doh Modeling Compound - Standard,Toys & Games,Creative Play,Hasbro,12.0,Modeling compound for creative play. Variant: standard.,22
+P00504,Play-Doh Modeling Compound - Deluxe,Toys & Games,Creative Play,Hasbro,16.2,Modeling compound for creative play. Variant: deluxe.,22
+P00505,Nerf Elite Blaster - Standard,Toys & Games,Outdoor Toys,Hasbro,25.0,Foam-dart toy blaster. Variant: standard.,319
+P00506,Nerf Elite Blaster - Deluxe,Toys & Games,Outdoor Toys,Hasbro,33.75,Foam-dart toy blaster. Variant: deluxe.,319
+P00507,Fisher-Price Baby Gym - Small Pack,Baby Care,Baby Toys,Mattel,45.0,Activity gym designed for babies. Variant: small pack.,154
+P00508,Fisher-Price Baby Gym - Value Pack,Baby Care,Baby Toys,Mattel,60.75,Activity gym designed for babies. Variant: value pack.,495
+P00509,Purina ONE Cat Food - Small Pack,Pet Care,Cat Food,Nestlé Purina,20.0,Dry cat food formulated for adult cats. Variant: small pack.,325
+P00510,Purina ONE Cat Food - Value Pack,Pet Care,Cat Food,Nestlé Purina,27.0,Dry cat food formulated for adult cats. Variant: value pack.,438
+P00511,Purina Pro Plan Dog Food - Small Pack,Pet Care,Dog Food,Nestlé Purina,35.0,Dog food formulated for different life stages. Variant: small pack.,72
+P00512,Purina Pro Plan Dog Food - Value Pack,Pet Care,Dog Food,Nestlé Purina,47.25,Dog food formulated for different life stages. Variant: value pack.,214
+P00513,Pedigree Dog Food - Small Pack,Pet Care,Dog Food,Mars,18.0,Dry dog food for everyday feeding. Variant: small pack.,448
+P00514,Pedigree Dog Food - Value Pack,Pet Care,Dog Food,Mars,24.3,Dry dog food for everyday feeding. Variant: value pack.,305
+P00515,Whiskas Cat Food - Small Pack,Pet Care,Cat Food,Mars,15.0,Cat food for everyday feeding. Variant: small pack.,487
+P00516,Whiskas Cat Food - Value Pack,Pet Care,Cat Food,Mars,20.25,Cat food for everyday feeding. Variant: value pack.,437
+P00517,Royal Canin Medium Adult - Small Pack,Pet Care,Dog Food,Mars,40.0,Dog food designed for medium-sized adult dogs. Variant: small pack.,200
+P00518,Royal Canin Medium Adult - Value Pack,Pet Care,Dog Food,Mars,54.0,Dog food designed for medium-sized adult dogs. Variant: value pack.,18
+P00519,Greenies Dental Treats - Small Pack,Pet Care,Pet Treats,Mars,18.0,Dental treats for dogs. Variant: small pack.,80
+P00520,Greenies Dental Treats - Value Pack,Pet Care,Pet Treats,Mars,24.3,Dental treats for dogs. Variant: value pack.,257
+P00521,Nike Everyday Socks - Black,Apparel & Footwear,Socks,Nike,20.0,Everyday athletic socks. Variant: black.,61
+P00522,Nike Everyday Socks - White,Apparel & Footwear,Socks,Nike,27.0,Everyday athletic socks. Variant: white.,61
+P00523,Adidas Crew Socks - Black,Apparel & Footwear,Socks,Adidas,18.0,Everyday crew socks. Variant: black.,65
+P00524,Adidas Crew Socks - White,Apparel & Footwear,Socks,Adidas,24.3,Everyday crew socks. Variant: white.,65
+P00525,Under Armour Tech T-Shirt - Black,Apparel & Footwear,Sportswear,Under Armour,30.0,Lightweight athletic T-shirt. Variant: black.,42
+P00526,Under Armour Tech T-Shirt - White,Apparel & Footwear,Sportswear,Under Armour,40.5,Lightweight athletic T-shirt. Variant: white.,42
+P00527,Under Armour Curry Basketball Shoe - Black,Apparel & Footwear,Basketball Shoes,Under Armour,140.0,Performance basketball shoe. Variant: black.,357
+P00528,Under Armour Curry Basketball Shoe - White,Apparel & Footwear,Basketball Shoes,Under Armour,189.0,Performance basketball shoe. Variant: white.,357
+P00529,The North Face Nuptse Jacket - Black,Apparel & Footwear,Outerwear,The North Face,320.0,Insulated outdoor jacket. Variant: black.,491
+P00530,The North Face Nuptse Jacket - White,Apparel & Footwear,Outerwear,The North Face,432.0,Insulated outdoor jacket. Variant: white.,491
+P00531,Patagonia Better Sweater - Black,Apparel & Footwear,Outerwear,Patagonia,140.0,Fleece jacket for casual outdoor use. Variant: black.,438
+P00532,Patagonia Better Sweater - White,Apparel & Footwear,Outerwear,Patagonia,189.0,Fleece jacket for casual outdoor use. Variant: white.,438
+P00533,Columbia Watertight Jacket - Black,Apparel & Footwear,Outerwear,Columbia,100.0,Lightweight waterproof outdoor jacket. Variant: black.,498
+P00534,Columbia Watertight Jacket - White,Apparel & Footwear,Outerwear,Columbia,135.0,Lightweight waterproof outdoor jacket. Variant: white.,498
+P00535,Timberland 6-Inch Premium Boot - Black,Apparel & Footwear,Boots,Timberland,180.0,Classic waterproof leather boot. Variant: black.,483
+P00536,Timberland 6-Inch Premium Boot - White,Apparel & Footwear,Boots,Timberland,243.0,Classic waterproof leather boot. Variant: white.,483
+P00537,Crocs Classic Clog - Black,Apparel & Footwear,Casual Footwear,Crocs,55.0,Lightweight molded casual clog. Variant: black.,333
+P00538,Crocs Classic Clog - White,Apparel & Footwear,Casual Footwear,Crocs,74.25,Lightweight molded casual clog. Variant: white.,333
+P00539,Dr. Martens 1460 Boots - Black,Apparel & Footwear,Boots,Dr. Martens,180.0,Iconic leather lace-up boots. Variant: black.,421
+P00540,Dr. Martens 1460 Boots - White,Apparel & Footwear,Boots,Dr. Martens,243.0,Iconic leather lace-up boots. Variant: white.,421
+P00541,Herschel Classic Backpack - Black,Apparel & Footwear,Bags,Herschel,60.0,Everyday backpack for school or travel. Variant: black.,322
+P00542,Herschel Classic Backpack - White,Apparel & Footwear,Bags,Herschel,81.0,Everyday backpack for school or travel. Variant: white.,322
+P00543,Samsonite Carry-On Spinner - Black,Travel,Luggage,Samsonite,150.0,Compact wheeled carry-on suitcase. Variant: black.,213
+P00544,Samsonite Carry-On Spinner - Navy,Travel,Luggage,Samsonite,202.5,Compact wheeled carry-on suitcase. Variant: navy.,213
+P00545,Osprey Farpoint Backpack - Black,Travel,Backpacks,Osprey,185.0,Travel backpack designed for longer trips. Variant: black.,278
+P00546,Osprey Farpoint Backpack - Navy,Travel,Backpacks,Osprey,249.75,Travel backpack designed for longer trips. Variant: navy.,278
+P00547,Stanley Quencher Tumbler - Neutral,Home & Kitchen,Drinkware,Stanley,45.0,Reusable insulated tumbler. Variant: neutral.,362
+P00548,Stanley Quencher Tumbler - Large,Home & Kitchen,Drinkware,Stanley,60.75,Reusable insulated tumbler. Variant: large.,362
+P00549,Hydro Flask Water Bottle - Neutral,Home & Kitchen,Drinkware,Hydro Flask,40.0,Insulated reusable water bottle. Variant: neutral.,254
+P00550,Hydro Flask Water Bottle - Large,Home & Kitchen,Drinkware,Hydro Flask,54.0,Insulated reusable water bottle. Variant: large.,254
+P00551,Yeti Rambler Bottle - Neutral,Home & Kitchen,Drinkware,YETI,40.0,Durable insulated drink bottle. Variant: neutral.,402
+P00552,Yeti Rambler Bottle - Large,Home & Kitchen,Drinkware,YETI,54.0,Durable insulated drink bottle. Variant: large.,402
+P00553,Tefal Nonstick Frying Pan - Neutral,Home & Kitchen,Cookware,Tefal,45.0,Nonstick frying pan for everyday cooking. Variant: neutral.,196
+P00554,Tefal Nonstick Frying Pan - Large,Home & Kitchen,Cookware,Tefal,60.75,Nonstick frying pan for everyday cooking. Variant: large.,196
+P00555,Pyrex Glass Storage Set - Neutral,Home & Kitchen,Food Storage,Pyrex,35.0,Glass food storage containers. Variant: neutral.,61
+P00556,Pyrex Glass Storage Set - Large,Home & Kitchen,Food Storage,Pyrex,47.25,Glass food storage containers. Variant: large.,61
+P00557,Ziploc Storage Bags - Neutral,Home & Kitchen,Food Storage,SC Johnson,6.0,Resealable storage bags. Variant: neutral.,425
+P00558,Ziploc Storage Bags - Large,Home & Kitchen,Food Storage,SC Johnson,8.1,Resealable storage bags. Variant: large.,425
+P00559,Glade Air Freshener - Small Pack,Home Care,Air Fresheners,SC Johnson,4.0,Home fragrance spray. Variant: small pack.,258
+P00560,Glade Air Freshener - Value Pack,Home Care,Air Fresheners,SC Johnson,5.4,Home fragrance spray. Variant: value pack.,465
+P00561,Raid Insect Killer - Small Pack,Home Care,Pest Control,SC Johnson,6.0,Household insect control spray. Variant: small pack.,132
+P00562,Raid Insect Killer - Value Pack,Home Care,Pest Control,SC Johnson,8.1,Household insect control spray. Variant: value pack.,286
+P00563,Mr Muscle Kitchen Cleaner - Small Pack,Home Care,Surface Cleaner,SC Johnson,5.0,Kitchen surface cleaner. Variant: small pack.,23
+P00564,Mr Muscle Kitchen Cleaner - Value Pack,Home Care,Surface Cleaner,SC Johnson,6.75,Kitchen surface cleaner. Variant: value pack.,260
+P00565,Windex Glass Cleaner - Small Pack,Home Care,Glass Cleaner,SC Johnson,5.0,Glass and window cleaning spray. Variant: small pack.,435
+P00566,Windex Glass Cleaner - Value Pack,Home Care,Glass Cleaner,SC Johnson,6.75,Glass and window cleaning spray. Variant: value pack.,367
+P00567,Astonish Cream Cleaner - Small Pack,Home Care,Surface Cleaner,Astonish,4.0,Cream cleaner for household surfaces. Variant: small pack.,444
+P00568,Astonish Cream Cleaner - Value Pack,Home Care,Surface Cleaner,Astonish,5.4,Cream cleaner for household surfaces. Variant: value pack.,108
+P00569,Fairy Dishwashing Liquid - Small Pack,Home Care,Dishwashing,Procter & Gamble,4.0,Dishwashing liquid for grease and food residue. Variant: small pack.,334
+P00570,Fairy Dishwashing Liquid - Value Pack,Home Care,Dishwashing,Procter & Gamble,5.4,Dishwashing liquid for grease and food residue. Variant: value pack.,489
+P00571,Lenor Fabric Softener - Small Pack,Home Care,Fabric Care,Procter & Gamble,6.0,Fabric conditioner with fragrance. Variant: small pack.,39
+P00572,Lenor Fabric Softener - Value Pack,Home Care,Fabric Care,Procter & Gamble,8.1,Fabric conditioner with fragrance. Variant: value pack.,64
+P00573,Febreze Fabric Refresher - Small Pack,Home Care,Air Fresheners,Procter & Gamble,6.0,Fabric and room odour refresher. Variant: small pack.,220
+P00574,Febreze Fabric Refresher - Value Pack,Home Care,Air Fresheners,Procter & Gamble,8.1,Fabric and room odour refresher. Variant: value pack.,367
+P00575,Mr. Clean Multi-Surface Cleaner - Small Pack,Home Care,Surface Cleaner,Procter & Gamble,5.0,Multi-surface household cleaner. Variant: small pack.,385
+P00576,Mr. Clean Multi-Surface Cleaner - Value Pack,Home Care,Surface Cleaner,Procter & Gamble,6.75,Multi-surface household cleaner. Variant: value pack.,136
+P00577,Clorox Disinfecting Wipes - Small Pack,Home Care,Disinfecting,Clorox,7.0,Pre-moistened household disinfecting wipes. Variant: small pack.,225
+P00578,Clorox Disinfecting Wipes - Value Pack,Home Care,Disinfecting,Clorox,9.45,Pre-moistened household disinfecting wipes. Variant: value pack.,347
+P00579,Clorox Bleach - Small Pack,Home Care,Laundry & Cleaning,Clorox,5.0,Household bleach for cleaning and laundry. Variant: small pack.,368
+P00580,Clorox Bleach - Value Pack,Home Care,Laundry & Cleaning,Clorox,6.75,Household bleach for cleaning and laundry. Variant: value pack.,434
+P00581,Scotch-Brite Scrub Sponge - Small Pack,Home Care,Cleaning Tools,3M,3.0,Scrub sponge for kitchen cleaning. Variant: small pack.,298
+P00582,Scotch-Brite Scrub Sponge - Value Pack,Home Care,Cleaning Tools,3M,4.05,Scrub sponge for kitchen cleaning. Variant: value pack.,350
+P00583,Post-it Notes - Small Pack,Office & School,Stationery,3M,5.0,Adhesive notes for reminders and organization. Variant: small pack.,167
+P00584,Post-it Notes - Value Pack,Office & School,Stationery,3M,6.75,Adhesive notes for reminders and organization. Variant: value pack.,277
+P00585,Scotch Tape - Small Pack,Office & School,Stationery,3M,4.0,Clear adhesive tape for everyday use. Variant: small pack.,303
+P00586,Scotch Tape - Value Pack,Office & School,Stationery,3M,5.4,Clear adhesive tape for everyday use. Variant: value pack.,201
+P00587,Pilot G-2 Pen - Small Pack,Office & School,Writing Instruments,Pilot,2.0,Gel ink pen for smooth everyday writing. Variant: small pack.,214
+P00588,Pilot G-2 Pen - Value Pack,Office & School,Writing Instruments,Pilot,2.7,Gel ink pen for smooth everyday writing. Variant: value pack.,445
+P00589,Sharpie Permanent Marker - Small Pack,Office & School,Writing Instruments,Newell Brands,2.0,Permanent marker for bold writing. Variant: small pack.,86
+P00590,Sharpie Permanent Marker - Value Pack,Office & School,Writing Instruments,Newell Brands,2.7,Permanent marker for bold writing. Variant: value pack.,247
+P00591,BIC Cristal Ballpoint Pen - Small Pack,Office & School,Writing Instruments,BIC,1.0,Classic ballpoint pen for everyday writing. Variant: small pack.,302
+P00592,BIC Cristal Ballpoint Pen - Value Pack,Office & School,Writing Instruments,BIC,1.35,Classic ballpoint pen for everyday writing. Variant: value pack.,102
+P00593,Moleskine Classic Notebook - Small Pack,Office & School,Notebooks,Moleskine,20.0,Premium hardcover notebook. Variant: small pack.,473
+P00594,Moleskine Classic Notebook - Value Pack,Office & School,Notebooks,Moleskine,27.0,Premium hardcover notebook. Variant: value pack.,48
+P00595,HP 305 Ink Cartridge - Small Pack,Office & School,Printer Supplies,HP,20.0,Ink cartridge for compatible HP printers. Variant: small pack.,278
+P00596,HP 305 Ink Cartridge - Value Pack,Office & School,Printer Supplies,HP,27.0,Ink cartridge for compatible HP printers. Variant: value pack.,424
+P00597,Avery Shipping Labels - Small Pack,Office & School,Office Supplies,Avery,8.0,Self-adhesive labels for packages and organization. Variant: small pack.,218
+P00598,Avery Shipping Labels - Value Pack,Office & School,Office Supplies,Avery,10.8,Self-adhesive labels for packages and organization. Variant: value pack.,30

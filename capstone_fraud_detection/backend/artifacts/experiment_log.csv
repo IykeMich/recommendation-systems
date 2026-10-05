@@ -1,0 +1,17 @@
+experiment_id,model,features,threshold,pr_auc,precision,recall,notes
+E01,random_forest,baseline,0.55,0.6999,0.6923,0.8846,velocity ablation
+E01,random_forest,no_velocity,0.55,0.4551,0.4157,0.8846,velocity ablation
+E02,random_forest,baseline,0.55,0.6999,0.6923,0.8846,novelty ablation
+E02,random_forest,no_novelty,0.55,0.6811,0.6923,0.8846,novelty ablation
+E03,served,baseline,0.3,0.635,0.6954,0.8974,threshold change only
+E03,served,baseline,0.55,0.635,0.6944,0.8932,threshold change only
+E03,served,baseline,0.7,0.635,0.685,0.7436,threshold change only
+E03,served,baseline,0.75,0.635,0.6528,0.2009,threshold change only
+E04,random_forest,stratified_random,0.55,0.6999,0.6923,0.8846,split design
+E04,random_forest,transaction_id_order,0.55,0.7032,0.75,0.891,split design
+E04,random_forest,unseen_customers,0.55,0.6619,0.6667,0.9048,split design
+E05,random_forest,balanced,0.55,0.6999,0.6923,0.8846,class weighting
+E05,random_forest,unbalanced,0.55,0.6615,0.6875,0.8462,class weighting
+E06,logistic_regression,baseline,0.55,0.4403,0.3447,0.9103,model comparison
+E06,logistic_regression_hour_categorical,baseline,0.55,0.6574,0.422,0.9017,model comparison
+E06,random_forest,baseline,0.55,0.6999,0.6923,0.8846,model comparison

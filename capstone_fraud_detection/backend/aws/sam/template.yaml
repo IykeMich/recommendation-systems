@@ -1,0 +1,154 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Capstone fraud scoring: API Gateway + Kinesis → Lambda → SageMaker endpoint → policy,
+  with DynamoDB for idempotent decisions. Deploy the SageMaker endpoint first
+  (aws/sagemaker/package.sh), then: sam build && sam deploy --guided.
+  Tear everything down after the lab (README → AWS teardown).
+
+# Values supplied at deploy time (sam deploy --guided). Thresholds are strings because they are
+# passed straight through as Lambda environment variables.
+Parameters:
+  # Name of the already-deployed SageMaker endpoint that returns risk scores.
+  SageMakerEndpointName:
+    Type: String
+  ReviewThreshold:
+    Type: String
+    Default: "0.55"
+  BlockThreshold:
+    Type: String
+    Default: "0.85"
+  PolicyVersion:
+    Type: String
+    Default: policy-v1
+  # Browser origin allowed by the API's CORS header (the dashboard).
+  AllowedOrigin:
+    Type: String
+    Default: http://localhost:3005
+
+# Settings shared by both Lambda functions. The policy lives in env vars, so changing thresholds
+# is a redeploy of this stack only, not of the model.
+Globals:
+  Function:
+    Runtime: python3.12
+    Timeout: 15
+    MemorySize: 256
+    CodeUri: ../lambda/
+    Environment:
+      Variables:
+        SAGEMAKER_ENDPOINT: !Ref SageMakerEndpointName
+        DECISIONS_TABLE: !Ref DecisionsTable
+        REVIEW_THRESHOLD: !Ref ReviewThreshold
+        BLOCK_THRESHOLD: !Ref BlockThreshold
+        POLICY_VERSION: !Ref PolicyVersion
+        ALLOWED_ORIGIN: !Ref AllowedOrigin
+
+Resources:
+  # Decision store keyed by transaction_id: the idempotency key used by the conditional put in
+  # fraud_common.py. On-demand billing and encryption at rest.
+  DecisionsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: transaction_id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: transaction_id
+          KeyType: HASH
+      SSESpecification:
+        SSEEnabled: true
+
+  # Ingestion stream for transactions; one shard, 24h retention, KMS encryption at rest.
+  TransactionStream:
+    Type: AWS::Kinesis::Stream
+    Properties:
+      ShardCount: 1
+      RetentionPeriodHours: 24
+      StreamEncryption:
+        EncryptionType: KMS
+        KeyId: alias/aws/kinesis
+
+  # Synchronous scoring: HTTP API POST /score -> score_api.lambda_handler.
+  ScoreApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: score_api.lambda_handler
+      Policies:  # least privilege: invoke one endpoint, read/write one table
+        - Statement:
+            - Effect: Allow
+              Action: sagemaker:InvokeEndpoint
+              Resource: !Sub arn:${AWS::Partition}:sagemaker:${AWS::Region}:${AWS::AccountId}:endpoint/${SageMakerEndpointName}
+        - DynamoDBCrudPolicy:
+            TableName: !Ref DecisionsTable
+      Events:
+        Score:
+          Type: HttpApi
+          Properties:
+            Path: /score
+            Method: POST
+
+  # Asynchronous scoring: reads batches from the Kinesis stream.
+  StreamConsumerFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: stream_consumer.lambda_handler
+      Policies:
+        - Statement:
+            - Effect: Allow
+              Action: sagemaker:InvokeEndpoint
+              Resource: !Sub arn:${AWS::Partition}:sagemaker:${AWS::Region}:${AWS::AccountId}:endpoint/${SageMakerEndpointName}
+        - DynamoDBCrudPolicy:
+            TableName: !Ref DecisionsTable
+        - KinesisStreamReadPolicy:
+            StreamName: !Ref TransactionStream
+      Events:
+        Stream:
+          Type: Kinesis
+          Properties:
+            Stream: !GetAtt TransactionStream.Arn
+            StartingPosition: LATEST
+            BatchSize: 100
+            # On a function error, split the batch in half to isolate bad records; retry up to 3
+            # times. ReportBatchItemFailures lets the handler name the records that need retrying.
+            BisectBatchOnFunctionError: true
+            MaximumRetryAttempts: 3
+            FunctionResponseTypes:
+              - ReportBatchItemFailures
+
+  # Explicit log groups so logs expire after 14 days instead of being kept forever.
+  ScoreApiLogs:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub /aws/lambda/${ScoreApiFunction}
+      RetentionInDays: 14
+
+  StreamConsumerLogs:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Sub /aws/lambda/${StreamConsumerFunction}
+      RetentionInDays: 14
+
+  # Alarm when the API Lambda reports 5 or more errors within 5 minutes (no notification
+  # action is attached, so it only changes state in CloudWatch).
+  ScoreErrorsAlarm:
+    Type: AWS::CloudWatch::Alarm
+    Properties:
+      AlarmDescription: Scoring Lambda errors
+      Namespace: AWS/Lambda
+      MetricName: Errors
+      Dimensions:
+        - Name: FunctionName
+          Value: !Ref ScoreApiFunction
+      Statistic: Sum
+      Period: 300
+      EvaluationPeriods: 1
+      Threshold: 5
+      ComparisonOperator: GreaterThanOrEqualToThreshold
+
+# Printed after deploy: the public scoring URL and the stream name to send test records to.
+Outputs:
+  ScoreApiUrl:
+    Value: !Sub https://${ServerlessHttpApi}.execute-api.${AWS::Region}.amazonaws.com/score
+  TransactionStreamName:
+    Value: !Ref TransactionStream

@@ -1,0 +1,33 @@
+{
+  "model_name": "fraud-risk",
+  "model_version": "fraud-20260930142557",
+  "selected_model": "hist_gradient_boosting_calibrated",
+  "calibration": "isotonic, 5-fold CalibratedClassifierCV on the training split",
+  "feature_schema_version": "features-v1",
+  "features": {
+    "numeric": [
+      "amount",
+      "amount_log1p",
+      "hour",
+      "hour_sin",
+      "hour_cos",
+      "velocity_1h",
+      "customer_txn_count",
+      "amount_vs_customer_mean",
+      "customer_device_share",
+      "customer_country_share"
+    ],
+    "categorical": [
+      "country",
+      "device",
+      "merchant_category"
+    ]
+  },
+  "training_data_snapshot": {
+    "file": "data/raw/transactions.csv",
+    "sha256": "3311514867b15f0de3c9bd9cc156d8883a4a887e945cd8109f7d1305e87c32c3",
+    "rows": 20000
+  },
+  "threshold_policy_version": "policy-v1",
+  "trained_at": "2026-09-30T14:25:57+00:00"
+}

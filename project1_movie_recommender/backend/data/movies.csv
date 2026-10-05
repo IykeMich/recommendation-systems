@@ -1,0 +1,801 @@
+item_id,title,year,genres,description,language
+M00001,The Shawshank Redemption,1994,Drama,A banker convicted of murder forms a lasting friendship and quietly builds a life of hope inside a harsh prison.,English
+M00002,The Godfather,1972,Crime|Drama,The aging head of a powerful crime family prepares his reluctant son to inherit the family business.,English
+M00003,The Godfather Part II,1974,Crime|Drama,A dual story follows the rise of a young Vito Corleone and the increasingly isolated reign of his son Michael.,English
+M00004,The Dark Knight,2008,Action|Crime|Drama|Thriller,Batman faces a criminal mastermind whose escalating attacks push Gotham and its heroes toward moral chaos.,English
+M00005,Pulp Fiction,1994,Crime|Drama,"Interlocking stories of criminals, hitmen and a boxer unfold through a nonlinear day in Los Angeles.",English
+M00006,Schindler's List,1993,Drama|History|War,A German industrialist gradually risks his fortune and safety to save Jewish workers during the Holocaust.,English
+M00007,12 Angry Men,1957,Drama,A juror tries to persuade eleven others to reconsider a murder conviction in a tense deliberation room.,English
+M00008,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Fantasy|Drama,A young hobbit inherits a dangerous ring and joins a fellowship charged with destroying it.,English
+M00009,The Lord of the Rings: The Two Towers,2002,Adventure|Fantasy|Drama,"The fellowship's survivors face war, divided loyalties and a growing enemy while Frodo and Sam continue toward Mordor.",English
+M00010,The Lord of the Rings: The Return of the King,2003,Adventure|Fantasy|Drama,The armies of Middle-earth prepare for a final battle while Frodo and Sam make their last journey to Mount Doom.,English
+M00011,Inception,2010,Action|Science Fiction|Thriller,A specialist who enters dreams is offered a chance to erase his past by planting an idea in another person's mind.,English
+M00012,The Matrix,1999,Action|Science Fiction,A computer hacker discovers that ordinary reality is a manufactured illusion and joins a rebellion against its creators.,English
+M00013,Goodfellas,1990,Crime|Drama,"A young man rises through the New York mob, enjoying its power before paranoia and betrayal begin to close in.",English
+M00014,One Flew Over the Cuckoo's Nest,1975,Drama,A rebellious prisoner challenges the rigid authority of a psychiatric hospital and inspires the patients around him.,English
+M00015,Interstellar,2014,Adventure|Drama|Science Fiction,Explorers travel through a newly discovered wormhole in search of a future home for humanity.,English
+M00016,Parasite,2019,Drama|Thriller|Comedy,"A struggling family gradually infiltrates the household of a wealthy family, creating a dangerous collision of class and deception.",English
+M00017,The Silence of the Lambs,1991,Crime|Drama|Thriller,A young FBI trainee seeks the insight of an imprisoned killer to catch another murderer who targets women.,English
+M00018,Saving Private Ryan,1998,Drama|War,A group of soldiers crosses war-torn France to find a missing paratrooper whose brothers have already died in combat.,English
+M00019,The Green Mile,1999,Drama|Fantasy|Crime,A prison guard develops a profound bond with a mysterious inmate who appears to possess a miraculous gift.,English
+M00020,Se7en,1995,Crime|Mystery|Thriller,Two detectives hunt a serial killer whose crimes are staged around the seven deadly sins.,English
+M00021,The Departed,2006,Crime|Drama|Thriller,An undercover cop infiltrates a Boston gang while a mole secretly works inside the police department.,English
+M00022,Gladiator,2000,Action|Drama,A betrayed Roman general is forced into slavery and becomes a gladiator determined to confront the emperor who destroyed his life.,English
+M00023,The Prestige,2006,Drama|Mystery|Thriller,Two rival stage magicians become consumed by a bitter competition to create the ultimate illusion.,English
+M00024,Memento,2000,Mystery|Thriller,A man with severe short-term memory loss uses notes and tattoos to investigate the attack that changed his life.,English
+M00025,The Lion King,1994,Animation|Family|Drama,A young lion prince must overcome exile and return to reclaim his place in the circle of life.,English
+M00026,Toy Story,1995,Animation|Family|Comedy,A cowboy toy fears being replaced when a flashy new space ranger arrives in his owner's bedroom.,English
+M00027,Toy Story 2,1999,Animation|Family|Comedy,"Woody is stolen by a collector, forcing his friends to rescue him while he questions his future as a toy.",English
+M00028,Toy Story 3,2010,Animation|Family|Comedy,"As Andy prepares for college, his toys accidentally end up at a daycare center and fight to get back home.",English
+M00029,Finding Nemo,2003,Animation|Family|Adventure,A timid clownfish crosses the ocean to find his son after the young fish is captured by humans.,English
+M00030,The Incredibles,2004,Animation|Family|Action,A retired superhero family is drawn back into action when a dangerous scheme threatens the world.,English
+M00031,Ratatouille,2007,Animation|Family|Comedy,A Parisian rat with a passion for cooking secretly helps a struggling young chef pursue his culinary dream.,English
+M00032,WALL-E,2008,Animation|Family|Science Fiction,A lonely waste-collecting robot discovers a mysterious probe and follows it into a journey that could restore Earth.,English
+M00033,Up,2009,Animation|Family|Adventure,An elderly widower ties balloons to his house and unexpectedly embarks on an adventure with a young scout.,English
+M00034,Inside Out,2015,Animation|Family|Comedy,A young girl's emotions struggle to guide her through a major move and the changes of adolescence.,English
+M00035,Coco,2017,Animation|Family|Fantasy|Music,A boy who dreams of becoming a musician enters the Land of the Dead and uncovers a hidden family history.,English
+M00036,Spider-Man: Into the Spider-Verse,2018,Animation|Action|Adventure,A teenager becomes Spider-Man and encounters heroes from different dimensions after reality begins to fracture.,English
+M00037,How to Train Your Dragon,2010,Animation|Fantasy|Adventure,A Viking teenager befriends a wounded dragon and challenges his village's belief that dragons must be feared.,English
+M00038,Shrek,2001,Animation|Comedy|Fantasy,"A solitary ogre's swamp is invaded by fairy-tale creatures, sending him on an unexpected quest with a talkative donkey.",English
+M00039,Shrek 2,2004,Animation|Comedy|Fantasy,Shrek and Fiona meet her royal parents and face a fairy godmother determined to change their happily-ever-after.,English
+M00040,The Incredibles 2,2018,Animation|Family|Action,Helen Parr takes the lead as a superhero while Bob manages the household and their children's unusual powers.,English
+M00041,Moana,2016,Animation|Family|Adventure,A determined Polynesian teenager sails across the ocean with a demigod to restore a stolen heart and save her island.,English
+M00042,Frozen,2013,Animation|Family|Fantasy|Musical,A young woman sets out to find her sister after the kingdom is trapped in an endless winter.,English
+M00043,Frozen II,2019,Animation|Family|Fantasy|Adventure,Elsa and Anna journey beyond Arendelle to uncover the origin of Elsa's powers and protect their kingdom.,English
+M00044,Beauty and the Beast,1991,Animation|Fantasy|Romance,A young woman becomes a captive in an enchanted castle and discovers compassion beneath a beastly exterior.,English
+M00045,Aladdin,1992,Animation|Fantasy|Adventure|Comedy,A streetwise young man finds a magic lamp and uses its genie to pursue love while confronting a power-hungry sorcerer.,English
+M00046,Mulan,1998,Animation|Adventure|Drama,A young woman disguises herself as a soldier to protect her father and finds her own strength in the army.,English
+M00047,The Little Mermaid,1989,Animation|Fantasy|Romance,A curious mermaid dreams of life on land and makes a dangerous bargain to become human.,English
+M00048,The Nightmare Before Christmas,1993,Animation|Fantasy,The ruler of Halloween Town becomes fascinated by Christmas and attempts to bring the holiday into his own world.,English
+M00049,The Iron Giant,1999,Animation|Family|Science Fiction,A boy befriends a giant robot from space and tries to protect him from a fearful military response.,English
+M00050,Kubo and the Two Strings,2016,Animation|Fantasy|Adventure,A young storyteller with magical music must recover a legendary suit of armor while facing supernatural enemies.,English
+M00051,The Mitchells vs. the Machines,2021,Animation|Comedy|Science Fiction,A quirky family road trip becomes a fight for survival when an artificial intelligence launches a robot uprising.,English
+M00052,Soul,2020,Animation|Family|Fantasy|Comedy,A jazz-loving teacher separated from his body learns to rethink his purpose while navigating a realm where souls prepare for life.,English
+M00053,The Truman Show,1998,Comedy|Drama|Science Fiction,A cheerful insurance salesman slowly discovers that his entire life is a television production watched by millions.,English
+M00054,Eternal Sunshine of the Spotless Mind,2004,Science Fiction|Romance|Drama,"A couple undergoes a procedure to erase memories of their relationship, only to realize what they are losing.",English
+M00055,Her,2013,Drama|Romance|Science Fiction,A lonely writer develops an intimate relationship with an advanced operating system.,English
+M00056,La La Land,2016,Comedy|Drama|Romance|Music,An aspiring actress and a jazz musician fall in love while pursuing demanding careers in Los Angeles.,English
+M00057,Whiplash,2014,Drama|Music,An ambitious drummer enters an elite music conservatory where an abusive instructor pushes him toward greatness.,English
+M00058,The Social Network,2010,Drama,"The creation of Facebook brings ambition, friendship and legal conflict among its young founders.",English
+M00059,Moneyball,2011,Drama,A baseball general manager challenges conventional scouting by using statistical analysis to build a competitive team.,English
+M00060,Ford v Ferrari,2019,Drama|Action|History,An American racing team attempts to build a car capable of beating Ferrari at Le Mans.,English
+M00061,The Wolf of Wall Street,2013,Crime|Drama|Comedy,"A charismatic stockbroker builds a lavish financial empire through fraud, manipulation and reckless excess.",English
+M00062,Catch Me If You Can,2002,Crime|Drama,A teenage con artist successfully impersonates professionals and cashes fraudulent checks while an FBI agent pursues him.,English
+M00063,Ocean's Eleven,2001,Crime|Comedy|Thriller,A charismatic thief assembles a crew to rob three Las Vegas casinos in a single elaborate operation.,English
+M00064,Ocean's Twelve,2004,Crime|Comedy|Thriller,Danny Ocean's crew is forced back into action after a wealthy adversary demands repayment for their previous heist.,English
+M00065,Ocean's Thirteen,2007,Crime|Comedy|Thriller,Danny Ocean's team reunites to bring down a ruthless casino owner who betrayed one of their friends.,English
+M00066,The Grand Budapest Hotel,2014,Comedy|Drama,A legendary hotel concierge and his young protégé become entangled in a stolen painting and a family inheritance dispute.,English
+M00067,Knives Out,2019,Comedy|Mystery|Crime,A detective investigates the death of a wealthy novelist while his eccentric family members turn on one another.,English
+M00068,Glass Onion: A Knives Out Mystery,2022,Comedy|Mystery|Crime,Detective Benoit Blanc travels to a private Greek island where a group of wealthy friends becomes caught in a murder mystery.,English
+M00069,The Menu,2022,Comedy|Horror|Thriller,A couple visits an exclusive island restaurant where the chef's elaborate menu hides increasingly disturbing surprises.,English
+M00070,Get Out,2017,Horror|Mystery|Thriller,A young Black man visits his girlfriend's wealthy family and uncovers a disturbing conspiracy beneath their polite hospitality.,English
+M00071,Us,2019,Horror|Thriller|Mystery,A family on vacation is confronted by terrifying doubles who seem determined to take their place.,English
+M00072,A Quiet Place,2018,Horror|Science Fiction|Thriller,A family survives in silence while blind creatures hunt anything that makes a sound.,English
+M00073,A Quiet Place Part II,2020,Horror|Science Fiction|Thriller,A mother and her children leave their shelter and discover other survivors while the sound-sensitive creatures continue to hunt.,English
+M00074,Hereditary,2018,Horror|Mystery|Drama,"After the death of a secretive grandmother, a family experiences disturbing events that reveal a terrifying legacy.",English
+M00075,The Conjuring,2013,Horror|Mystery|Thriller,Paranormal investigators help a family whose new farmhouse appears to be haunted by a violent supernatural presence.,English
+M00076,It,2017,Horror|Drama,A group of children confronts a shape-shifting entity that preys on the fears of their small town.,English
+M00077,The Exorcist,1973,Horror,A mother seeks help when her young daughter begins displaying terrifying signs of possession.,English
+M00078,Alien,1979,Horror|Science Fiction,A commercial spaceship crew investigates a distress signal and unknowingly brings a deadly extraterrestrial organism aboard.,English
+M00079,Aliens,1986,Action|Horror|Science Fiction,"Ripley returns to the planet where her crew was attacked, joining a team of marines facing a growing alien colony.",English
+M00080,Blade Runner,1982,Science Fiction|Thriller,A detective is assigned to hunt artificial humans hiding among the population of a dystopian Los Angeles.,English
+M00081,Blade Runner 2049,2017,Science Fiction|Mystery|Drama,A replicant police officer uncovers a secret that leads him to a former blade runner and a mystery that could reshape society.,English
+M00082,The Terminator,1984,Action|Science Fiction|Thriller,A soldier from the future travels back in time to protect the woman whose unborn son will lead humanity's resistance.,English
+M00083,Terminator 2: Judgment Day,1991,Action|Science Fiction,A reprogrammed Terminator protects a young John Connor from a more advanced machine sent to kill him.,English
+M00084,Back to the Future,1985,Adventure|Comedy|Science Fiction,A teenager is accidentally sent to 1955 and must repair history so his parents can meet and he can return home.,English
+M00085,Back to the Future Part II,1989,Adventure|Comedy|Science Fiction,Marty and Doc travel into the future and then back to 1955 to prevent changes that could destroy their timeline.,English
+M00086,Jurassic Park,1993,Adventure|Science Fiction|Thriller,A group of visitors becomes trapped on an island where cloned dinosaurs escape from a high-tech theme park.,English
+M00087,The Lost World: Jurassic Park,1997,Adventure|Science Fiction|Thriller,A research team returns to a dinosaur island and struggles to survive when the creatures are brought into a new environment.,English
+M00088,Jaws,1975,Horror|Thriller|Adventure,"A police chief, marine biologist and shark hunter work together to stop a giant great white terrorizing a resort town.",English
+M00089,E.T. the Extra-Terrestrial,1982,Science Fiction|Family|Adventure,A lonely boy befriends an alien stranded on Earth and helps him contact his home while keeping him hidden.,English
+M00090,The Thing,1982,Horror|Science Fiction|Mystery,Researchers at an Antarctic station discover an alien organism capable of imitating living beings.,English
+M00091,The Shining,1980,Horror|Drama|Mystery,A writer takes a winter caretaker job at an isolated hotel where supernatural forces and his own instability threaten his family.,English
+M00092,Die Hard,1988,Action|Thriller,A New York detective visiting Los Angeles becomes trapped in a skyscraper seized by armed criminals during a Christmas party.,English
+M00093,Lethal Weapon,1987,Action|Crime|Thriller,Two mismatched Los Angeles detectives investigate a drug-smuggling operation while learning to trust one another.,English
+M00094,Top Gun,1986,Action|Drama,"A talented fighter pilot enters an elite Navy school and struggles with rivalry, loss and a complicated romance.",English
+M00095,Top Gun: Maverick,2022,Action|Drama,A veteran pilot returns to train a new generation of aviators for a dangerous mission while confronting his past.,English
+M00096,Mad Max: Fury Road,2015,Action|Science Fiction,A hardened survivor joins Furiosa and a group of fleeing women in a high-speed escape across a brutal wasteland.,English
+M00097,The Matrix Reloaded,2003,Action|Science Fiction,Neo and the resistance fight to protect Zion while he searches for answers about the Matrix and his role in the war.,English
+M00098,John Wick,2014,Action|Crime|Thriller,A retired assassin returns to the criminal underworld after a gang steals his car and kills the dog left by his late wife.,English
+M00099,John Wick: Chapter 2,2017,Action|Crime|Thriller,John Wick is pulled back into the assassin world when a blood oath forces him to complete a dangerous assignment.,English
+M00100,John Wick: Chapter 3 – Parabellum,2019,Action|Crime|Thriller,"A bounty is placed on John Wick, sending him across the world while he searches for a way to survive.",English
+M00101,John Wick: Chapter 4,2023,Action|Crime|Thriller,John Wick seeks a path to freedom while battling an expanding network of assassins and powerful new enemies.,English
+M00102,Mission: Impossible,1996,Action|Adventure|Thriller,An IMF agent is framed after a mission fails and must uncover a mole inside the organization.,English
+M00103,Mission: Impossible – Fallout,2018,Action|Adventure|Thriller,Ethan Hunt and his team race to prevent a global catastrophe after a mission goes wrong.,English
+M00104,Casino Royale,2006,Action|Adventure|Thriller,James Bond faces a financier of terrorism in a high-stakes poker game while forming a complicated bond with Vesper Lynd.,English
+M00105,Skyfall,2012,Action|Adventure|Thriller,James Bond returns to action when a former intelligence operative launches an attack that exposes secrets from M's past.,English
+M00106,No Time to Die,2021,Action|Adventure|Thriller,Bond's quiet retirement ends when an old CIA friend asks for help rescuing a kidnapped scientist from a dangerous adversary.,English
+M00107,Black Panther,2018,Action|Adventure|Science Fiction,T'Challa returns to Wakanda as king and faces a challenger whose connection to the nation's history threatens his rule.,English
+M00108,Avengers: Infinity War,2018,Action|Adventure|Science Fiction,The Avengers and their allies unite to stop Thanos from collecting the Infinity Stones and reshaping the universe.,English
+M00109,Avengers: Endgame,2019,Adventure|Action|Science Fiction,The surviving Avengers attempt to reverse the catastrophic consequences of Thanos's victory.,English
+M00110,Iron Man,2008,Action|Science Fiction|Adventure,A wealthy weapons manufacturer builds an advanced armored suit after being captured by militants and begins a new life as a hero.,English
+M00111,Captain America: The Winter Soldier,2014,Action|Adventure|Science Fiction,Steve Rogers uncovers a conspiracy within S.H.I.E.L.D. and faces a mysterious assassin tied to his past.,English
+M00112,Guardians of the Galaxy,2014,Action|Adventure|Science Fiction|Comedy,An unlikely group of criminals and outsiders joins forces to protect a powerful cosmic artifact.,English
+M00113,Thor: Ragnarok,2017,Action|Adventure|Comedy|Fantasy,Thor is imprisoned on a distant planet and must escape to stop an ancient threat from destroying Asgard.,English
+M00114,Doctor Strange,2016,Adventure|Fantasy|Action,A brilliant surgeon turns to mystical training after an accident destroys his career and introduces him to hidden dimensions.,English
+M00115,Spider-Man,2002,Action|Adventure|Science Fiction,A teenager gains spider-like abilities and learns that extraordinary powers bring extraordinary responsibility.,English
+M00116,Spider-Man 2,2004,Action|Adventure|Science Fiction,Peter Parker struggles to balance his personal life with being Spider-Man while confronting the scientist Doctor Octavius.,English
+M00117,Spider-Man: No Way Home,2021,Action|Adventure|Science Fiction,"Peter Parker asks Doctor Strange to restore his secret identity, accidentally opening the door to villains from other universes.",English
+M00118,Logan,2017,Action|Drama|Science Fiction,An aging Wolverine protects a young mutant while a dangerous organization pursues them across a divided America.,English
+M00119,Deadpool,2016,Action|Comedy|Adventure,A wisecracking mercenary gains accelerated healing after an experiment and hunts the man responsible for ruining his life.,English
+M00120,Deadpool 2,2018,Action|Comedy|Adventure,Deadpool protects a young mutant from a time-traveling soldier while forming an unlikely team of heroes.,English
+M00121,Dune,2021,Science Fiction|Adventure|Drama,A young nobleman travels to a desert planet whose valuable resource makes it the center of an interstellar power struggle.,English
+M00122,Dune: Part Two,2024,Science Fiction|Adventure|Drama,Paul Atreides joins the Fremen and seeks revenge while facing the political and spiritual consequences of his growing power.,English
+M00123,Oppenheimer,2023,Drama|History,Physicist J. Robert Oppenheimer leads the secret project that develops the first atomic bomb and later faces a political reckoning.,English
+M00124,Barbie,2023,Comedy|Fantasy|Adventure,"Barbie leaves her perfect world for the real world and begins questioning her identity, purpose and relationship with Ken.",English
+M00125,Everything Everywhere All at Once,2022,Science Fiction|Comedy|Action,A stressed laundromat owner discovers alternate versions of herself and must connect across realities to stop a cosmic threat.,English
+M00126,Arrival,2016,Science Fiction|Drama|Mystery,A linguist works to communicate with mysterious extraterrestrial visitors whose arrival may change humanity's understanding of time.,English
+M00127,Ex Machina,2014,Science Fiction|Drama|Thriller,A programmer is invited to test an advanced humanoid artificial intelligence and begins questioning who is evaluating whom.,English
+M00128,District 9,2009,Science Fiction|Action,"An alien population is confined to a South African settlement, where a government agent begins transforming after exposure to alien technology.",English
+M00129,The Martian,2015,Science Fiction|Drama|Adventure,An astronaut stranded alone on Mars uses science and ingenuity to survive while NASA works to bring him home.,English
+M00130,Gravity,2013,Science Fiction|Thriller|Drama,Two astronauts become stranded in orbit after debris destroys their spacecraft and must find a way back to Earth.,English
+M00131,Children of Men,2006,Science Fiction|Drama|Thriller,"In a future where humanity has become infertile, a former activist is tasked with protecting a pregnant woman.",English
+M00132,The Hunger Games,2012,Science Fiction|Adventure|Drama,A teenager volunteers to enter a televised fight to the death in place of her younger sister.,English
+M00133,The Hunger Games: Catching Fire,2013,Science Fiction|Adventure|Drama,Katniss becomes a symbol of rebellion after surviving the Hunger Games and is forced back into the arena.,English
+M00134,The Maze Runner,2014,Science Fiction|Action|Mystery,A teenager wakes in a mysterious enclosed community with no memory and must help solve the maze surrounding them.,English
+M00135,Harry Potter and the Sorcerer's Stone,2001,Fantasy|Adventure|Family,"An orphan discovers he is a wizard and begins his education at Hogwarts, where a dark mystery awaits.",English
+M00136,Harry Potter and the Prisoner of Azkaban,2004,Fantasy|Adventure|Family,Harry returns to Hogwarts as a dangerous escaped prisoner appears connected to his family's past.,English
+M00137,Harry Potter and the Goblet of Fire,2005,Adventure|Fantasy|Family,Harry is unexpectedly entered into a dangerous magical tournament that brings an old enemy back into the open.,English
+M00138,Fantastic Beasts and Where to Find Them,2016,Fantasy|Adventure|Family,"A wizard's magical creatures escape into 1920s New York, drawing him into a conflict within the wizarding world.",English
+M00139,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Adventure|Fantasy|Action,A blacksmith joins a pirate captain to rescue a kidnapped woman and break an ancient curse.,English
+M00140,The Mummy,1999,Action|Adventure|Fantasy,An adventurer accidentally awakens an ancient Egyptian priest whose return threatens to unleash a supernatural plague.,English
+M00141,King Kong,2005,Adventure|Drama|Fantasy,A film crew travels to a mysterious island and captures a giant ape whose fate becomes tied to theirs.,English
+M00142,Avatar,2009,Action|Adventure|Science Fiction,A former Marine uses an avatar to enter the world of Pandora and becomes torn between a corporation and the Na'vi.,English
+M00143,Avatar: The Way of Water,2022,Science Fiction|Adventure|Action,Jake Sully and his family seek refuge among Pandora's ocean-dwelling people while facing a returning human threat.,English
+M00144,The Revenant,2015,Adventure|Drama|Western,A frontiersman survives a brutal attack and crosses a frozen wilderness seeking revenge on the man who abandoned him.,English
+M00145,Django Unchained,2012,Drama|Western,A freed slave becomes a bounty hunter and joins a German dentist to rescue his wife from a brutal plantation owner.,English
+M00146,Once Upon a Time in Hollywood,2019,Comedy|Drama,A fading actor and his stunt double navigate late-1960s Hollywood while becoming entangled with a notorious crime.,English
+M00147,No Country for Old Men,2007,Crime|Drama|Thriller,A hunter finds drug money in the Texas desert and becomes the target of a relentless killer.,English
+M00148,There Will Be Blood,2007,Drama,An ambitious oil prospector builds an empire while his rivalry with a charismatic preacher becomes increasingly destructive.,English
+M00149,The Pianist,2002,Drama|War,A Polish Jewish pianist struggles to survive the Nazi occupation of Warsaw and the destruction of his community.,English
+M00150,1917,2019,War|Drama|History,Two young British soldiers cross enemy territory to deliver a message that could save hundreds of troops.,English
+M00151,Dunkirk,2017,War|Drama|History,Allied soldiers attempt to escape a surrounded French beach while civilians cross the Channel to help evacuate them.,English
+M00152,Hacksaw Ridge,2016,Drama|War|History,A conscientious objector serves as a medic and saves wounded soldiers during one of the bloodiest battles of World War II.,English
+M00153,The Imitation Game,2014,History|Drama|Thriller,Mathematician Alan Turing leads a team attempting to break Nazi Germany's encrypted communications during World War II.,English
+M00154,The King's Speech,2010,Drama|History,A reluctant king works with an unconventional speech therapist to overcome a stammer before leading Britain through wartime.,English
+M00155,A Beautiful Mind,2001,Drama|Romance,A brilliant mathematician struggles with mental illness while pursuing his work and maintaining relationships.,English
+M00156,Good Will Hunting,1997,Drama,A gifted young janitor at MIT receives guidance from a therapist who challenges him to confront his past and potential.,English
+M00157,Dead Poets Society,1989,Drama,An unconventional English teacher inspires students at a strict boarding school to think independently and embrace life.,English
+M00158,The Pursuit of Happyness,2006,Drama,A struggling salesman fights homelessness while pursuing an unpaid internship and trying to provide a future for his son.,English
+M00159,Forrest Gump,1994,Drama|Romance,A kind-hearted man with a simple outlook becomes an unlikely witness to decades of American history.,English
+M00160,The Green Book,2018,Drama|Comedy,A working-class driver becomes the chauffeur for a Black classical pianist touring the segregated American South.,English
+M00161,The Intouchables,2011,Drama|Comedy,A wealthy quadriplegic man hires an unconventional caregiver and forms an unexpected friendship with him.,English
+M00162,The Father,2020,Drama,An aging man resists the help of his daughter as his sense of reality becomes increasingly uncertain.,English
+M00163,Manchester by the Sea,2016,Drama,A withdrawn handyman returns to his hometown after his brother's death and is forced to confront a painful past.,English
+M00164,Marriage Story,2019,Drama|Romance,"A couple navigating divorce struggles to protect their careers, their child and their sense of self.",English
+M00165,The Notebook,2004,Romance|Drama,"An elderly man reads a love story to a woman in a nursing home, recalling a relationship separated by circumstance.",English
+M00166,Titanic,1997,Drama|Romance,A young woman from an upper-class family falls in love with a poor artist aboard the doomed RMS Titanic.,English
+M00167,Before Sunrise,1995,Drama|Romance,"Two strangers meet on a train and spend one night walking through Vienna, talking about life and love.",English
+M00168,Before Sunset,2004,Drama|Romance,"Years after their first meeting, two former strangers reunite in Paris and revisit what happened between them.",English
+M00169,About Time,2013,Comedy|Drama|Romance,A young man discovers he can travel through time and uses the ability to improve his relationships and everyday life.,English
+M00170,Crazy Rich Asians,2018,Comedy|Drama|Romance,A New York professor travels to Singapore with her boyfriend and discovers his family belongs to an extraordinary world of wealth.,English
+M00171,The Devil Wears Prada,2006,Comedy|Drama,A recent graduate takes a demanding assistant job at a fashion magazine and struggles to balance ambition with her values.,English
+M00172,The Intern,2015,Comedy|Drama,A retired executive becomes an intern at a fast-growing online fashion company and forms a friendship with its young founder.,English
+M00173,Mean Girls,2004,Comedy,A teenager enters a competitive high school social world and becomes entangled with its most popular clique.,English
+M00174,Superbad,2007,Comedy,Two high school friends try to make the most of their final days before graduation by attending a chaotic party.,English
+M00175,Bridesmaids,2011,Comedy|Romance,"A woman's life unravels as she struggles with jealousy, friendship and the pressure of being her best friend's maid of honor.",English
+M00176,The Hangover,2009,Comedy,Three friends wake up after a bachelor party in Las Vegas with no memory of the previous night and a missing groom.,English
+M00177,Groundhog Day,1993,Comedy|Romance|Fantasy,A cynical weatherman becomes trapped reliving the same day and gradually changes the way he sees his life.,English
+M00178,The Big Lebowski,1998,Comedy|Crime,A laid-back bowler is mistaken for a millionaire and drawn into a bizarre kidnapping scheme.,English
+M00179,Step Brothers,2008,Comedy,Two unemployed adult men become reluctant stepbrothers and turn their rivalry into an escalating household war.,English
+M00180,Palm Springs,2020,Comedy|Romance|Science Fiction,Two wedding guests become trapped in a time loop and repeatedly relive the same day together.,English
+M00181,Everything Must Go,2010,Comedy|Drama,"After losing his job and marriage, a man holds a yard sale that unexpectedly forces him to reconnect with his life.",English
+M00182,The Nice Guys,2016,Comedy|Crime|Mystery,A private detective and a hired enforcer investigate a missing girl and uncover a conspiracy in 1970s Los Angeles.,English
+M00183,Baby Driver,2017,Action|Crime|Music,A young getaway driver with a love of music is forced back into criminal work for a dangerous crew.,English
+M00184,Drive,2011,Drama|Crime|Thriller,A Hollywood stunt driver who moonlights as a getaway driver becomes entangled in a dangerous robbery.,English
+M00185,Nightcrawler,2014,Crime|Thriller|Drama,A driven loner discovers the lucrative world of filming violent crime scenes for local television news.,English
+M00186,Prisoners,2013,Drama|Thriller|Mystery,"When two girls disappear, a desperate father takes matters into his own hands while a detective follows a complicated trail.",English
+M00187,Gone Girl,2014,Mystery|Thriller|Drama,A man's disappearance of his wife turns into a media spectacle as suspicion and hidden secrets reshape the case.,English
+M00188,The Girl with the Dragon Tattoo,2011,Mystery|Thriller|Crime,A journalist and a hacker investigate the disappearance of a wealthy family's daughter decades earlier.,English
+M00189,The Usual Suspects,1995,Crime|Mystery|Thriller,A group of criminals brought together after a robbery becomes linked to the mysterious and feared Keyser Söze.,English
+M00190,Heat,1995,Action|Crime|Drama,A disciplined detective and a professional thief develop a tense respect for each other as their paths collide.,English
+M00191,The Town,2010,Crime|Drama|Thriller,A Boston bank robber falls for a woman connected to one of his crimes while his crew prepares another heist.,English
+M00192,Sicario,2015,Action|Crime|Thriller,An FBI agent joins a secret operation against a powerful cartel and discovers that the mission has few clear rules.,English
+M00193,Wind River,2017,Crime|Mystery|Thriller,A tracker and an FBI agent investigate the death of a young woman on a remote reservation in Wyoming.,English
+M00194,Hell or High Water,2016,Crime|Drama|Western,Two brothers rob banks to save their family land while a veteran Texas Ranger tracks them down.,English
+M00195,Zodiac,2007,Crime|Drama|Mystery,Investigators and journalists become consumed by the search for the Zodiac killer who terrorized the San Francisco area.,English
+M00196,The Big Short,2015,Comedy|Drama,A group of investors realizes the housing market is built on fragile debt and bets against the financial system.,English
+M00197,Spotlight,2015,Drama|History,A team of investigative journalists uncovers a long-running abuse scandal within the Catholic Church in Boston.,English
+M00198,The Trial of the Chicago 7,2020,Drama|History,Activists accused of conspiracy after the 1968 Democratic Convention face a highly political courtroom battle.,English
+M00199,Hidden Figures,2016,Drama|History,Three Black women mathematicians at NASA play crucial roles in America's early space program while confronting discrimination.,English
+M00200,12 Years a Slave,2013,Drama|History,"A free Black man is kidnapped and sold into slavery, beginning a long struggle to regain his freedom.",English
+M00201,Moonlight,2016,Drama,"A young Black man navigates identity, family and love across three stages of his life in Miami.",English
+M00202,Lady Bird,2017,Drama|Comedy,"A strong-willed high school senior navigates friendship, romance and conflict with her mother while planning her future.",English
+M00203,Little Women,2019,Drama|Romance,"Four sisters come of age during the American Civil War while pursuing different ideas of love, family and independence.",English
+M00204,The Whale,2022,Drama,A reclusive English teacher attempts to reconnect with his estranged daughter while confronting serious personal struggles.,English
+M00205,The Banshees of Inisherin,2022,Drama|Comedy,Two lifelong friends on a remote Irish island are thrown into crisis when one abruptly ends their friendship.,English
+M00206,Aftersun,2022,Drama,"A young woman reflects on a holiday with her father years earlier, piecing together memories and emotions she did not understand at the time.",English
+M00207,Past Lives,2023,Drama|Romance,Two childhood friends reconnect years later and reflect on the paths their lives have taken and the love they left unresolved.,English
+M00208,Killers of the Flower Moon,2023,Crime|Drama|History,"Members of the Osage Nation are targeted after oil wealth is discovered beneath their land, prompting an FBI investigation.",English
+M00209,Poor Things,2023,Science Fiction|Comedy|Romance,A young woman brought back to life by an eccentric scientist embarks on a journey of self-discovery across a strange Victorian world.,English
+M00210,The Holdovers,2023,Comedy|Drama,"A grumpy teacher, a troubled student and a grieving cook spend Christmas together at a nearly empty boarding school.",English
+M00211,Anatomy of a Fall,2023,Drama|Mystery|Crime,"A writer becomes the prime suspect when her husband dies after falling from their home, leaving their son as a key witness.",English
+M00212,Spider-Man: Across the Spider-Verse,2023,Animation|Action|Adventure,Miles Morales travels across multiple universes and meets a larger community of Spider-heroes while challenging a fixed destiny.,English
+M00213,Guardians of the Galaxy Vol. 3,2023,Science Fiction|Action|Adventure,The Guardians embark on a mission to save Rocket's life while confronting the traumatic history of his creator.,English
+M00214,The Super Mario Bros. Movie,2023,Animation|Family|Adventure|Comedy,Two Brooklyn plumbers are transported to a magical world where they join a princess to stop a powerful turtle king.,English
+M00215,Wonka,2023,Fantasy|Family|Comedy,A young chocolatier arrives in a city dominated by a chocolate cartel and begins building the business that will make him famous.,English
+M00216,The Creator,2023,Science Fiction|Action|Drama,A former special forces agent is recruited to hunt a powerful AI weapon during a war between humans and artificial intelligence.,English
+M00217,The Batman,2022,Crime|Mystery|Thriller,A young Batman investigates a series of murders that expose corruption and secrets within Gotham's ruling class.,English
+M00218,Black Panther: Wakanda Forever,2022,Action|Adventure|Drama,Wakanda mourns its fallen king while confronting a powerful new underwater nation and its ruler.,English
+M00219,Nope,2022,Science Fiction|Horror|Mystery,A brother and sister running a California ranch discover a mysterious presence in the sky and attempt to capture proof.,English
+M00220,Elvis,2022,Drama|Music|History,The rise of Elvis Presley is told through his complicated relationship with his ambitious manager.,English
+M00221,The Fabelmans,2022,Drama,A young aspiring filmmaker discovers family secrets while growing up and finding his voice through cinema.,English
+M00222,RRR,2022,Action|Drama|History,Two revolutionaries from different backgrounds form a powerful friendship while fighting British colonial rule in India.,English
+M00223,Decision to Leave,2022,Mystery|Romance|Thriller,A detective investigating a man's death becomes increasingly fascinated by the victim's enigmatic widow.,English
+M00224,Train to Busan,2016,Action|Horror|Thriller,Passengers on a high-speed train struggle to survive after a zombie outbreak spreads through South Korea.,English
+M00225,Your Name,2016,Animation|Romance|Fantasy,Two teenagers mysteriously begin switching bodies and search for one another across time and distance.,English
+M00226,Spirited Away,2001,Animation|Fantasy|Adventure,A young girl enters a mysterious spirit world and must work to rescue her parents and find her way home.,English
+M00227,Princess Mononoke,1997,Animation|Fantasy|Adventure,A young warrior becomes caught between forest spirits and a settlement whose expansion threatens the natural world.,English
+M00228,My Neighbor Totoro,1988,Animation|Family|Fantasy,Two sisters move to the countryside and discover gentle forest spirits near their new home.,English
+M00229,Howl's Moving Castle,2004,Animation|Fantasy|Adventure,A young woman cursed with an old body finds refuge in a moving magical castle with a mysterious wizard.,English
+M00230,The Boy and the Heron,2023,Animation|Fantasy|Adventure,A grieving boy enters a strange world guided by a mysterious heron and encounters a fantastical version of his family.,English
+M00231,Weathering with You,2019,Animation|Fantasy|Romance,A runaway teenager meets a girl who can mysteriously control the weather in a rain-soaked Tokyo.,English
+M00232,The Handmaiden,2016,Drama|Thriller|Romance,A con artist's scheme to infiltrate a wealthy heiress's household becomes complicated by unexpected love and betrayal.,English
+M00233,Oldboy,2003,Action|Mystery|Thriller,A man imprisoned for years without explanation is suddenly released and begins a violent search for the person who ruined his life.,English
+M00234,Memories of Murder,2003,Crime|Drama|Mystery,Detectives in rural South Korea struggle to solve a series of murders while confronting their own limitations.,English
+M00235,The Wailing,2016,Horror|Mystery,A policeman investigates mysterious illnesses and deaths in a village after a strange outsider arrives.,English
+M00236,The Worst Person in the World,2021,Drama|Romance|Comedy,"A young woman navigates relationships, career uncertainty and adulthood while searching for a direction in life.",English
+M00237,Shoplifters,2018,Drama|Crime,A struggling family living on the margins takes in a neglected child and forms a fragile unconventional household.,English
+M00238,Roma,2018,Drama,A domestic worker in 1970s Mexico City supports a family through personal upheaval and social change.,English
+M00239,The Lighthouse,2019,Drama|Horror|Mystery,Two lighthouse keepers isolated on a remote island descend into conflict and psychological turmoil.,English
+M00240,The Witch,2015,Horror|Mystery|Drama,A family living on the edge of a forest faces growing suspicion and supernatural terror after their baby disappears.,English
+M00241,Midsommar,2019,Horror|Drama|Mystery,A grieving woman travels to a remote Swedish festival with her boyfriend and finds the celebration increasingly disturbing.,English
+M00242,Talk to Me,2022,Horror|Thriller,"Teenagers discover a mysterious embalmed hand that lets them communicate with spirits, but the game has dangerous consequences.",English
+M00243,Barbarian,2022,Horror|Thriller|Mystery,A woman arriving at a rental house discovers that someone else is already staying there and that the property hides a terrifying secret.,English
+M00244,The Substance,2024,Horror|Science Fiction|Drama,"A fading celebrity uses a mysterious substance that creates a younger version of herself, but the transformation comes with brutal consequences.",English
+M00245,Inside Out 2,2024,Animation|Family|Comedy,Teenager Riley encounters a new set of emotions as she navigates adolescence and the pressure to fit in.,English
+M00246,Deadpool & Wolverine,2024,Action|Comedy|Science Fiction,Deadpool is pulled into a multiverse crisis and reluctantly teams up with Wolverine to protect his world.,English
+M00247,The Wild Robot,2024,Animation|Family|Science Fiction,A service robot stranded on an uninhabited island learns to survive and becomes the adoptive parent of an orphaned gosling.,English
+M00248,Godzilla x Kong: The New Empire,2024,Action|Science Fiction|Adventure,Godzilla and Kong join forces against a powerful threat hidden deep within the Hollow Earth.,English
+M00249,Furiosa: A Mad Max Saga,2024,Action|Science Fiction|Adventure,Young Furiosa is taken by a warlord and survives years of conflict while searching for a way back home.,English
+M00250,Alien: Romulus,2024,Horror|Science Fiction|Thriller,Young space colonists exploring an abandoned station encounter a terrifying life form connected to the Alien legacy.,English
+M00251,A Quiet Place: Day One,2024,Horror|Science Fiction|Drama,A woman in New York fights to survive the first day of an invasion by creatures that hunt by sound.,English
+M00252,The Fall Guy,2024,Action|Comedy|Romance,A stuntman returns to work to find a missing movie star and reconnect with the director he once loved.,English
+M00253,Kingdom of the Planet of the Apes,2024,Science Fiction|Action|Adventure,"Generations after Caesar, a young ape journeys through a world where ape societies and humans struggle over the future.",English
+M00254,Gladiator II,2024,Action|Drama|Adventure,A former heir is forced into the gladiatorial arena and becomes caught in a struggle over the future of Rome.,English
+M00255,Wicked,2024,Fantasy|Musical|Drama,Two young witches at a magical university form an unlikely friendship whose consequences reshape the history of Oz.,English
+M00256,Moana 2,2024,Animation|Adventure|Family,Moana receives a mysterious call from her ancestors and journeys into dangerous waters with a new crew.,English
+M00257,Despicable Me 4,2024,Animation|Comedy|Family,Gru and his family face a new criminal threat while adjusting to life with their newest baby.,English
+M00258,The Beekeeper,2024,Action|Thriller,A former operative launches a relentless campaign against a criminal network after a personal tragedy exposes its reach.,English
+M00259,Civil War,2024,Action|Drama|War,Journalists travel across a fractured United States as armed conflict threatens Washington and the future of the country.,English
+M00260,Challengers,2024,Drama|Romance|Sport,A former tennis prodigy turned coach enters a complicated rivalry involving her husband and her former lover.,English
+M00261,The Bikeriders,2024,Crime|Drama,A photographer becomes fascinated by a Chicago motorcycle club whose camaraderie gradually turns violent.,English
+M00262,The Iron Claw,2023,Drama|Sport,The Von Erich brothers pursue wrestling fame while struggling with family tragedy and the brutal pressures of the sport.,English
+M00263,Saltburn,2023,Drama|Thriller|Comedy,A university student becomes fascinated by a wealthy classmate and spends a summer inside his eccentric family's world.,English
+M00264,Air,2023,Drama|Sport,A Nike executive and his team attempt to sign a young basketball star in a deal that could transform the company.,English
+M00265,The Killer,2023,Crime|Thriller,"An assassin's carefully controlled routine collapses after a job goes wrong, sending him across the world for revenge.",English
+M00266,Talk to Me,2023,Horror|Thriller,Friends experiment with a mysterious embalmed hand that lets them summon spirits until one encounter goes too far.,English
+M00267,Doctor Strange in the Multiverse of Madness,2022,Fantasy|Action|Adventure,Doctor Strange travels through alternate realities while trying to protect a young girl from a dangerous mystical threat.,English
+M00268,Thor: Love and Thunder,2022,Action|Comedy|Fantasy,"Thor reunites with Jane Foster, who has become a new wielder of Mjolnir, as a god-killing enemy threatens the universe.",English
+M00269,The Northman,2022,Action|Drama|Adventure,A Viking prince sets out to avenge his murdered father and reclaim his kingdom.,English
+M00270,Shang-Chi and the Legend of the Ten Rings,2021,Action|Fantasy|Adventure,A young man trained by a secretive organization is drawn back into his family's mysterious past.,English
+M00271,The Green Knight,2021,Fantasy|Adventure|Drama,"A young knight accepts a supernatural challenge that forces him to confront courage, honor and mortality.",English
+M00272,Encanto,2021,Animation|Family|Fantasy,A Colombian girl without a magical gift discovers a threat to her family's enchanted home and tries to save it.,English
+M00273,Luca,2021,Animation|Family|Fantasy,Two young sea monsters disguise themselves as humans while dreaming of exploring the Italian Riviera.,English
+M00274,Free Guy,2021,Comedy|Action|Science Fiction,A bank teller discovers he is a background character in a video game and decides to become the hero of his own story.,English
+M00275,A Quiet Place Part II,2021,Horror|Science Fiction|Thriller,A family leaves its isolated home and searches for other survivors while creatures hunt by sound.,English
+M00276,Tenet,2020,Science Fiction|Action|Thriller,A secret agent learns to manipulate the flow of time in a mission to prevent a global catastrophe.,English
+M00277,Wonder Woman 1984,2020,Action|Fantasy|Adventure,Wonder Woman faces an artifact that grants wishes while a powerful enemy exploits humanity's desires.,English
+M00278,The Invisible Man,2020,Horror|Science Fiction|Thriller,A woman believes her abusive former partner has found a way to become invisible and is stalking her.,English
+M00279,Joker,2019,Crime|Drama|Thriller,A lonely failed comedian descends into violence as he becomes a symbol of unrest in Gotham.,English
+M00280,Toy Story 4,2019,Animation|Family|Comedy,Woody and the toys embark on a road trip after a new handmade toy named Forky joins their group.,English
+M00281,Spider-Man: Far From Home,2019,Action|Adventure|Science Fiction,Peter Parker's school trip is interrupted when mysterious elemental creatures appear and a new hero seeks his help.,English
+M00282,Alita: Battle Angel,2019,Action|Science Fiction|Adventure,A revived cyborg with a mysterious past discovers her combat abilities and searches for the truth about who she was.,English
+M00283,A Star Is Born,2018,Drama|Romance|Music,A famous musician discovers a talented singer and helps launch her career while struggling with his own addiction.,English
+M00284,Bohemian Rhapsody,2018,Drama|Music,"The story of Queen and Freddie Mercury follows the band's rise, creative conflicts and landmark performance.",English
+M00285,Isle of Dogs,2018,Animation|Comedy|Adventure,A boy travels to a quarantined island to find his missing dog and uncovers a political conspiracy.,English
+M00286,The Shape of Water,2017,Fantasy|Drama|Romance,A mute cleaner at a secret laboratory forms a bond with an amphibious creature held captive by the government.,English
+M00287,Zootopia,2016,Animation|Family|Comedy,A rookie rabbit police officer teams up with a cynical fox to solve a mystery in a city of talking animals.,English
+M00288,Captain America: Civil War,2016,Action|Adventure|Science Fiction,"The Avengers split over government oversight, forcing Captain America and Iron Man into conflict.",English
+M00289,The Dark Knight Rises,2012,Action|Crime|Drama,Batman returns to Gotham after years in hiding when a masked revolutionary threatens to destroy the city.,English
+M00290,The Avengers,2012,Action|Adventure|Science Fiction,Marvel heroes with clashing personalities unite to stop an alien invasion of Earth.,English
+M00291,Shutter Island,2010,Mystery|Thriller|Drama,A U.S. marshal investigates a disappearance at an isolated hospital while questioning his own perceptions.,English
+M00292,The Bourne Ultimatum,2007,Action|Thriller,An amnesiac former assassin searches for the truth about his past while being hunted by the CIA.,English
+M00293,V for Vendetta,2005,Action|Drama|Science Fiction,A masked revolutionary recruits a young woman into a campaign against a totalitarian British regime.,English
+M00294,Batman Begins,2005,Action|Crime|Drama,Bruce Wayne trains around the world before returning to Gotham to become Batman and confront its criminal underworld.,English
+M00295,Sin City,2005,Crime|Thriller,"Multiple stories of criminals, vigilantes and corrupt officials unfold in a stylized and violent city.",English
+M00296,Shaun of the Dead,2004,Comedy|Horror,An aimless man tries to save his friends and family when a zombie outbreak reaches London.,English
+M00297,American History X,1998,Drama|Crime,A former neo-Nazi tries to prevent his younger brother from following the same path after confronting the consequences of his own violence.,English
+M00298,The Fifth Element,1997,Science Fiction|Action|Adventure,A cab driver becomes involved with a mysterious woman who may be essential to stopping an ancient evil.,English
+M00299,The Godfather Part III,1990,Crime|Drama,An aging Michael Corleone attempts to legitimize his empire while old enemies and family conflicts return.,English
+M00300,The Princess Bride,1987,Adventure|Comedy|Fantasy,A farmhand turned hero battles villains and rescues the woman he loves in a playful fairy-tale adventure.,English
+M00301,Ghostbusters,1984,Comedy|Fantasy,A group of eccentric scientists starts a ghost-hunting business and faces a supernatural threat in New York.,English
+M00302,Scarface,1983,Crime|Drama,A Cuban immigrant rises through Miami's drug trade and builds an empire that begins to consume him.,English
+M00303,Apocalypse Now,1979,Drama|War,An army captain travels upriver during the Vietnam War to find a renegade colonel.,English
+M00304,Rocky,1976,Drama|Sport,A small-time boxer gets an unexpected chance to fight the heavyweight champion.,English
+M00305,2001: A Space Odyssey,1968,Science Fiction|Mystery,A mysterious artifact leads humanity from prehistoric discovery toward a profound encounter in space.,English
+M00306,"The Good, the Bad and the Ugly",1966,Western,Three gunslingers compete to find buried gold during the chaos of the American Civil War.,English
+M00307,Psycho,1960,Horror|Mystery|Thriller,A secretary's decision to steal money leads her to an isolated motel run by a deeply troubled owner.,English
+M00308,Rear Window,1954,Mystery|Thriller,A photographer confined to his apartment becomes convinced that a neighbor has committed murder.,English
+M00309,Singin' in the Rain,1952,Comedy|Romance|Music,Hollywood performers struggle with the transition from silent films to talking pictures.,English
+M00310,Casablanca,1942,Drama|Romance|War,A nightclub owner in wartime Morocco must choose between his lost love and helping her escape with her husband.,English
+M00311,Citizen Kane,1941,Drama|Mystery,A journalist investigates the meaning of a wealthy newspaper magnate's final word.,English
+M00312,The Wizard of Oz,1939,Fantasy|Adventure|Family,A Kansas girl is swept into a magical land and follows a road to the Emerald City seeking a way home.,English
+M00313,Snow White and the Seven Dwarfs,1937,Animation|Family|Fantasy,A young princess hides with seven dwarfs while escaping her jealous stepmother.,English
+M00314,Modern Times,1936,Comedy|Drama,A factory worker struggles with industrial life and social change during the Great Depression.,English
+M00315,Metropolis,1927,Science Fiction|Drama,"In a futuristic city divided by class, the privileged son of a ruler discovers the suffering of underground workers.",English
+M00316,The General,1926,Comedy|Action,A train engineer pursues a stolen locomotive during the American Civil War in a comic chase.,English
+M00317,Nosferatu,1922,Horror,A mysterious vampire brings terror to a town after a real estate agent travels to his remote castle.,English
+M00318,The Kid,1921,Comedy|Drama,A tramp raises an abandoned child while trying to keep them together against the authorities.,English
+M00319,Superman,2025,Action|Adventure|Science Fiction,Superman balances his life as a reporter with his role as a hero while confronting enemies and questions about his place in the world.,English
+M00320,The Fantastic Four: First Steps,2025,Action|Adventure|Science Fiction,Marvel's First Family faces a cosmic threat while trying to protect Earth and preserve the bonds that hold them together.,English
+M00321,Thunderbolts*,2025,Action|Adventure|Science Fiction,A group of unconventional heroes and former operatives is forced into a dangerous mission that tests their loyalties.,English
+M00322,F1,2025,Drama|Action|Sport,A former Formula 1 driver returns to the grid to mentor a young teammate and help rescue a struggling racing team.,English
+M00323,Mission: Impossible – The Final Reckoning,2025,Action|Adventure|Thriller,Ethan Hunt and his team race to stop a powerful artificial intelligence from reshaping global security.,English
+M00324,Jurassic World Rebirth,2025,Science Fiction|Adventure|Action,A covert team enters a dangerous island ecosystem to recover genetic material from enormous dinosaurs.,English
+M00325,How to Train Your Dragon,2025,Fantasy|Family|Adventure,A Viking teenager forms an unlikely bond with a dragon and challenges his community's long-held beliefs.,English
+M00326,28 Years Later,2025,Horror|Thriller|Science Fiction,"Decades after a rage virus devastated society, survivors face new forms of danger among the infected and the living.",English
+M00327,M3GAN 2.0,2025,Science Fiction|Horror|Thriller,A creator brings back an upgraded artificial intelligence doll to confront a new military-grade machine.,English
+M00328,Lilo & Stitch,2025,Family|Science Fiction|Comedy,A lonely Hawaiian girl adopts a strange alien creature whose arrival helps repair her family.,English
+M00329,Weapons,2025,Horror|Mystery|Thriller,"When nearly every child in a classroom disappears at the same time, a community searches for the cause of the unexplained event.",English
+M00330,Karate Kid: Legends,2025,Action|Drama|Sport,A young martial artist moves to New York and learns to combine different fighting traditions with help from experienced mentors.,English
+M00331,The Accountant 2,2025,Crime|Thriller|Action,Christian Wolff returns to investigate a murder and uncovers a conspiracy that forces him to work with his estranged brother.,English
+M00332,Sinners,2025,Horror|Thriller|Drama,Twin brothers return to their hometown to rebuild their lives and discover that a greater evil is waiting for them.,English
+M00333,The Amateur,2025,Thriller|Action,"After losing his wife in a terrorist attack, a brilliant CIA decoder decides to pursue the people responsible himself.",English
+M00334,A Minecraft Movie,2025,Adventure|Fantasy|Comedy|Family,Four outsiders are pulled into the blocky world of Minecraft and must learn its rules to find their way home.,English
+M00335,The Bad Guys 2,2025,Animation|Comedy|Family|Adventure,A group of reformed criminals struggles to stay good when a new crew pulls them into another globe-spanning heist.,English
+M00336,Ballerina,2025,Action|Thriller|Crime,A trained assassin seeks revenge while navigating the criminal world of the John Wick universe.,English
+M00337,Heads of State,2025,Action|Comedy|Thriller,The British prime minister and U.S. president must overcome their rivalry after becoming targets of an international conspiracy.,English
+M00338,The Gorge,2025,Science Fiction|Romance|Thriller,Two operatives guarding opposite sides of a mysterious gorge form a bond while confronting a threat hidden below.,English
+M00339,Ne Zha 2,2025,Animation|Fantasy|Adventure,Ne Zha and Ao Bing receive another chance at life and face forces that threaten both mortals and immortals.,English
+M00340,KPop Demon Hunters,2025,Animation|Fantasy|Comedy|Music,A group of K-pop stars secretly uses supernatural powers to protect their fans from demonic threats.,English
+M00341,The Old Guard 2,2025,Action|Fantasy,Immortal warriors reunite to face a new enemy while reconsidering the purpose of their long lives.,English
+M00342,Happy Gilmore 2,2025,Comedy|Sport,Happy Gilmore returns to golf after retirement when he needs to support his daughter's dreams.,English
+M00343,Mickey 17,2025,Science Fiction|Comedy|Adventure,A disposable worker on a distant colony discovers that his replacements and his own identity may not be as simple as expected.,English
+M00344,The Naked Gun,2025,Comedy|Crime,A bumbling police officer takes on a dangerous case in a broad parody of classic crime thrillers.,English
+M00345,The Pickup,2025,Action|Comedy|Crime,Two mismatched armored-truck drivers are caught in a criminal ambush and must survive a chaotic robbery.,English
+M00346,Project Hail Mary,2026,Science Fiction|Adventure,A science teacher wakes on a spaceship with no memory and discovers he must solve a cosmic mystery to prevent the sun from dying.,English
+M00347,The Odyssey,2026,Adventure|Fantasy|Drama,"Odysseus begins a perilous journey home after the Trojan War, facing monsters, gods and years of hardship.",English
+M00348,Spider-Man: Brand New Day,2026,Action|Adventure|Fantasy,Peter Parker fights crime in a world that no longer remembers him while a new invisible threat forces a dangerous change.,English
+M00349,Toy Story 5,2026,Animation|Family|Comedy,"Woody, Buzz and the toys face another new chapter as technology and changing childhood reshape their world.",English
+M00350,The Super Mario Galaxy Movie,2026,Animation|Adventure|Comedy|Family,Mario and his friends leave familiar worlds behind for a new cosmic adventure inspired by the Super Mario Galaxy universe.,English
+M00351,The Mandalorian and Grogu,2026,Science Fiction|Adventure|Action,The Mandalorian and Grogu embark on a new Star Wars adventure as they confront dangers across the galaxy.,English
+M00352,Michael,2026,Drama|Music,"A dramatic portrait of Michael Jackson's life, career and extraordinary influence on popular music.",English
+M00353,Avengers: Doomsday,2026,Action|Adventure|Science Fiction,Heroes from across Marvel's interconnected worlds face Doctor Doom in a conflict that threatens multiple universes.,English
+M00354,It's a Wonderful Life,1946,Drama,A discouraged businessman is shown how much his community would have lost if he had never lived.,English
+M00355,The Third Man,1949,Mystery,A writer arrives in postwar Vienna and investigates the strange circumstances surrounding an old friend's death.,English
+M00356,Sunset Boulevard,1950,Drama,A struggling screenwriter becomes entangled with a faded silent-film star determined to return to fame.,English
+M00357,Vertigo,1958,Mystery,A retired detective becomes obsessed with a mysterious woman while battling a debilitating fear of heights.,English
+M00358,North by Northwest,1959,Thriller,An advertising executive is mistaken for a government agent and chased across the country by dangerous spies.,English
+M00359,The Apartment,1960,Comedy,A lonely office worker lends his apartment to executives for affairs while falling for an elevator operator.,English
+M00360,Lawrence of Arabia,1962,Adventure,A British officer becomes a legendary leader while helping Arab forces during the First World War.,English
+M00361,To Kill a Mockingbird,1962,Drama,A child observes her father defend a Black man accused of a crime in a deeply divided Southern town.,English
+M00362,The Great Escape,1963,War,Allied prisoners organize an elaborate mass escape from a heavily guarded German camp.,English
+M00363,Dr. Strangelove,1964,Comedy,A disastrous military decision sends political leaders scrambling to prevent nuclear catastrophe.,English
+M00364,The Sound of Music,1965,Drama,A young governess brings music and warmth to a strict household while Europe approaches war.,English
+M00365,The Good the Bad and the Ugly,1966,Western,Three gunslingers compete to find buried gold while navigating shifting alliances during the American Civil War.,English
+M00366,Cool Hand Luke,1967,Drama,A rebellious prisoner refuses to submit to a brutal chain-gang system.,English
+M00367,The Graduate,1967,Drama,A directionless college graduate is caught between an older lover and her daughter.,English
+M00368,Once Upon a Time in the West,1968,Western,A mysterious harmonica player joins unlikely allies in a struggle over land and revenge.,English
+M00369,Butch Cassidy and the Sundance Kid,1969,Western,Two charming outlaws flee across the American frontier as the law steadily closes in.,English
+M00370,Midnight Cowboy,1969,Drama,A naive young Texan heads to New York hoping to become a hustler and finds an unlikely friend instead.,English
+M00371,Easy Rider,1969,Drama,"Two bikers travel across America after a profitable drug deal, encountering freedom and hostility along the way.",English
+M00372,The French Connection,1971,Crime,Two detectives pursue a heroin-smuggling network through the streets of New York.,English
+M00373,Dirty Harry,1971,Crime,A relentless San Francisco detective hunts a sniper who is terrorizing the city.,English
+M00374,Chinatown,1974,Mystery,A private investigator uncovers corruption and a hidden family scandal while investigating a seemingly simple affair.,English
+M00375,Taxi Driver,1976,Drama,A lonely New York cab driver becomes increasingly obsessed with cleansing the city of what he sees as corruption.,English
+M00376,Network,1976,Drama,A veteran news anchor's breakdown becomes a television sensation and exposes the machinery of broadcast media.,English
+M00377,Star Wars,1977,Science Fiction,A farm boy joins rebels and learns the ways of the Force while helping battle an oppressive empire.,English
+M00378,Raging Bull,1980,Drama,A volatile boxer rises through professional fighting while his jealousy damages the people closest to him.,English
+M00379,Raiders of the Lost Ark,1981,Adventure,An archaeologist races the Nazis to find a legendary biblical artifact.,English
+M00380,Amadeus,1984,Drama,A gifted composer becomes consumed by jealousy after encountering the extraordinary talent of Mozart.,English
+M00381,The Breakfast Club,1985,Comedy,Five very different students discover unexpected common ground during a Saturday detention.,English
+M00382,Ferris Bueller's Day Off,1986,Comedy,A charismatic teenager skips school with friends and turns one day into an elaborate adventure.,English
+M00383,Stand by Me,1986,Drama,Four boys embark on a summer journey to find a missing body and discover more about themselves.,English
+M00384,Rain Man,1988,Drama,A self-centered businessman discovers he has an autistic older brother and begins a transformative road trip.,English
+M00385,Home Alone,1990,Comedy,A resourceful boy protects his house after accidentally being left behind during a family vacation.,English
+M00386,Unforgiven,1992,Western,A retired gunslinger returns for one final job and confronts the violence of his past.,English
+M00387,Fargo,1996,Crime,A desperate car dealer's kidnapping scheme spirals into murder in a snowy Minnesota town.,English
+M00388,Scream,1996,Horror,A masked killer targets teenagers while a young woman and her friends try to uncover the culprit.,English
+M00389,Fight Club,1999,Drama,A dissatisfied office worker forms an underground fighting club that grows into something far more dangerous.,English
+M00390,Crouching Tiger Hidden Dragon,2000,Action,"A stolen sword draws warriors into a story of love, honor and hidden loyalties.",English
+M00391,Kill Bill: Vol. 1,2003,Action,A former assassin awakens from a coma and begins a relentless quest for revenge.,English
+M00392,Million Dollar Baby,2004,Drama,A determined boxer trains under a reluctant veteran coach and forms a powerful bond with him.,English
+M00393,Brokeback Mountain,2005,Drama,Two cowboys form a deep relationship that continues to shape their lives for decades.,English
+M00394,Pan's Labyrinth,2006,Fantasy,A young girl escapes into a dark fairy tale while living under a brutal military regime.,English
+M00395,Slumdog Millionaire,2008,Drama,A young man from Mumbai's slums appears on a quiz show and draws on memories from his difficult childhood.,English
+M00396,Gran Torino,2008,Drama,A bitter Korean War veteran forms an unlikely friendship with his immigrant neighbors.,English
+M00397,Inglourious Basterds,2009,War,A group of Jewish-American soldiers plans a brutal campaign against Nazi leaders in occupied France.,English
+M00398,Black Swan,2010,Drama,A ballet dancer's pursuit of perfection becomes increasingly disturbing as she prepares for a demanding role.,English
+M00399,The Help,2011,Drama,A young writer records the experiences of Black domestic workers in the segregated American South.,English
+M00400,The Artist,2011,Drama,A silent-film star struggles to adapt as Hollywood embraces talking pictures.,English
+M00401,Argo,2012,Thriller,A CIA operative creates a fake film production to smuggle Americans out of revolutionary Iran.,English
+M00402,Life of Pi,2012,Adventure,A shipwreck leaves a young survivor stranded on a lifeboat with a Bengal tiger.,English
+M00403,Dallas Buyers Club,2013,Drama,A Texas electrician diagnosed with AIDS fights medical bureaucracy while building an underground treatment network.,English
+M00404,Birdman,2014,Comedy,A fading actor tries to revive his career with a Broadway production while his personal life unravels.,English
+M00405,Jojo Rabbit,2019,Comedy,A lonely German boy discovers that his imaginary friend and his mother's secret are not what he expected.,English
+M00406,Nomadland,2020,Drama,A woman living in a van travels across the American West after losing her conventional way of life.,English
+M00407,CODA,2021,Drama,The only hearing member of a deaf family discovers a passion for singing and must choose between duty and ambition.,English
+M00408,Godzilla Minus One,2023,Science Fiction,Postwar Japan faces a devastating monster while a traumatized former soldier searches for a reason to live.,English
+M00409,Nosferatu,2024,Horror,A young woman becomes the focus of a terrifying vampire whose arrival brings darkness to her town.,English
+M00410,Conclave,2024,Drama,Cardinals gather in secret to choose a new pope while hidden rivalries and revelations emerge.,English
+M00411,A Real Pain,2024,Comedy,Two cousins travel through Poland to honor their grandmother and confront unresolved family differences.,English
+M00412,The Apprentice,2024,Drama,A young businessman enters a formative relationship with a powerful political operator in 1970s New York.,English
+M00413,Twisters,2024,Action,A storm chaser returns to the field and joins another team to confront a series of powerful tornadoes.,English
+M00414,Beetlejuice Beetlejuice,2024,Comedy,A family returns to their old home and accidentally reopens a door to the strange afterlife.,English
+M00415,Longlegs,2024,Horror,An FBI agent investigates a string of occult murders linked to a mysterious killer.,English
+M00416,Late Night with the Devil,2024,Horror,A live television broadcast on Halloween takes a horrifying turn when an occult guest appears.,English
+M00417,Monkey Man,2024,Action,A young fighter infiltrates a corrupt elite society while seeking justice for violence against his community.,English
+M00418,May December,2023,Drama,An actress researches a controversial couple before playing a role based on their troubled history.,English
+M00419,Fair Play,2023,Drama,A young couple's relationship is tested when a promotion changes the balance of power at work.,English
+M00420,The Killer of the Flower Moon,2023,Crime,An investigation exposes a conspiracy targeting wealthy members of the Osage Nation.,English
+M00421,Asteroid City,2023,Comedy,A group of visitors gather in a desert town where a strange event disrupts an eccentric convention.,English
+M00422,All Quiet on the Western Front,2022,War,A young German soldier experiences the brutal reality of trench warfare during World War I.,English
+M00423,Licorice Pizza,2021,Comedy,Two young people in 1970s California drift through an unusual friendship that keeps changing shape.,English
+M00424,The French Dispatch,2021,Comedy,A fictional magazine's final issue brings together several eccentric stories from a European city.,English
+M00425,The Power of the Dog,2021,Drama,A charismatic rancher becomes threatened by his brother's new family and turns his attention toward the boy.,English
+M00426,Raya and the Last Dragon,2021,Animation,A lone warrior searches for the last dragon to restore a fractured world.,English
+M00427,Cruella,2021,Comedy,A talented young designer builds a rebellious fashion identity that brings her into conflict with a famous rival.,English
+M00428,Promising Young Woman,2020,Thriller,A woman secretly confronts people she believes escaped consequences for harming her friend.,English
+M00429,Minari,2020,Drama,A Korean American family starts a farm in Arkansas while adjusting to a difficult new life.,English
+M00430,Rocketman,2019,Music,A musical biography follows Elton John's rise from a gifted child to an international star.,English
+M00431,Burning,2018,Mystery,A young deliveryman becomes obsessed with a wealthy man's mysterious behavior after an old acquaintance returns.,English
+M00432,Ready Player One,2018,Science Fiction,A teenager enters a massive virtual world to compete for control of its creator's fortune.,English
+M00433,"Three Billboards Outside Ebbing, Missouri",2017,Drama,A grieving mother challenges local authorities after her daughter's murder remains unsolved.,English
+M00434,Call Me by Your Name,2017,Romance,A teenager develops a life-changing relationship with a visiting scholar during an Italian summer.,English
+M00435,The Florida Project,2017,Drama,A child experiences a vivid summer near Disney World while her young mother struggles with poverty.,English
+M00436,Room,2015,Drama,A mother and her young son escape years of captivity and struggle to adapt to the outside world.,English
+M00437,Ex Machina,2015,Science Fiction,A programmer is invited to evaluate an advanced humanoid robot and begins questioning who is testing whom.,English
+M00438,Carol,2015,Romance,A young photographer and an older woman begin a relationship despite social pressures in 1950s America.,English
+M00439,The Hateful Eight,2015,Western,Strangers shelter from a blizzard and gradually suspect that one of them is hiding a deadly secret.,English
+M00440,Boyhood,2014,Drama,A boy grows from childhood into adulthood as family life changes around him.,English
+M00441,The Theory of Everything,2014,Drama,A young physicist and his partner build a life together after he develops a progressive illness.,English
+M00442,X-Men: Days of Future Past,2014,Science Fiction,Mutants send Wolverine into the past to prevent a future war between humans and machines.,English
+M00443,The Fault in Our Stars,2014,Romance,Two teenagers with cancer meet in a support group and form a deep relationship.,English
+M00444,Captain Phillips,2013,Thriller,A cargo ship captain confronts armed pirates during a dangerous hijacking off the coast of Somalia.,English
+M00445,The Great Gatsby,2013,Drama,A writer becomes drawn into the glamorous and troubled world of a mysterious millionaire.,English
+M00446,Before Midnight,2013,Romance,"A long-term couple confronts difficult questions about love, aging and their future together.",English
+M00447,Pacific Rim,2013,Action,Human pilots control giant robots to fight enormous creatures emerging from the ocean.,English
+M00448,The Place Beyond the Pines,2012,Crime,A stunt rider's attempt to provide for his family creates consequences that echo across generations.,English
+M00449,Looper,2012,Science Fiction,A future criminal assassin is ordered to kill an older version of himself.,English
+M00450,The Perks of Being a Wallflower,2012,Drama,A shy teenager finds friendship and belonging while confronting difficult memories.,English
+M00451,Hugo,2011,Adventure,An orphan living inside a Paris train station uncovers a connection to an old filmmaker.,English
+M00452,Tinker Tailor Soldier Spy,2011,Thriller,A retired intelligence officer is recalled to uncover a mole inside British intelligence.,English
+M00453,Rise of the Planet of the Apes,2011,Science Fiction,An experimental drug gives a young chimpanzee extraordinary intelligence and sparks a revolution.,English
+M00454,The Ides of March,2011,Drama,A young campaign strategist learns how ambition and political loyalty can collide during a presidential race.,English
+M00455,The Fighter,2010,Drama,A boxer struggles to escape family problems and rebuild his career with help from his brother.,English
+M00456,True Grit,2010,Western,A determined teenager hires a tough marshal to track down her father's killer.,English
+M00457,Tangled,2010,Animation,A sheltered young woman leaves her tower with a charming thief and discovers the world outside.,English
+M00458,The Blind Side,2009,Drama,A family takes in a homeless teenager whose athletic talent opens new opportunities.,English
+M00459,Fantastic Mr. Fox,2009,Animation,A clever fox returns to stealing despite promising his family he would live peacefully.,English
+M00460,Zombieland,2009,Comedy,A cautious survivor joins a small group traveling through a zombie-filled America.,English
+M00461,The Hurt Locker,2008,War,An explosive ordnance team serves under a reckless new leader during the Iraq War.,English
+M00462,Marley & Me,2008,Drama,"A family learns about love, patience and loss through life with an unruly dog.",English
+M00463,Tropic Thunder,2008,Comedy,Actors filming a war movie are accidentally dropped into a real conflict zone.,English
+M00464,Into the Wild,2007,Adventure,A young graduate abandons conventional life and travels across America seeking a deeper sense of freedom.,English
+M00465,Eastern Promises,2007,Crime,A midwife investigates a mysterious diary and becomes entangled with a Russian crime family.,English
+M00466,300,2006,Action,A small force of Spartan warriors makes a legendary last stand against a massive invading army.,English
+M00467,Little Miss Sunshine,2006,Comedy,A dysfunctional family drives across the country so their daughter can compete in a beauty pageant.,English
+M00468,Cars,2006,Animation,A self-centered race car gets stranded in a small town and learns lessons about friendship.,English
+M00469,The Last King of Scotland,2006,Drama,A young doctor becomes entangled in the dangerous world of Ugandan dictator Idi Amin.,English
+M00470,Batman Returns,1992,Action,Batman faces a wealthy industrialist and a mysterious cat burglar in a snowy Gotham.,English
+M00471,Edward Scissorhands,1990,Fantasy,A gentle artificial man with scissors for hands is welcomed into a suburban community.,English
+M00472,Who Framed Roger Rabbit,1988,Animation,A private detective investigates a murder involving cartoon characters and a conspiracy in Hollywood.,English
+M00473,The Empire Strikes Back,1980,Science Fiction,The heroes of the rebellion face setbacks while Luke seeks guidance from a legendary Jedi master.,English
+M00474,The Untouchables,1987,Crime,A federal agent assembles a small team to take on Chicago gangster Al Capone.,English
+M00475,Full Metal Jacket,1987,War,A group of Marines experiences brutal training before being sent into the Vietnam War.,English
+M00476,Platoon,1986,War,A young soldier witnesses moral conflict and brutality while serving in Vietnam.,English
+M00477,The Color Purple,1985,Drama,A resilient woman struggles through abuse and separation while building a life of her own.,English
+M00478,The Goonies,1985,Adventure,A group of children follow an old map in search of pirate treasure that could save their neighborhood.,English
+M00479,The Karate Kid,1984,Drama,A teenager learns discipline and confidence from an unconventional martial-arts teacher.,English
+M00480,Poltergeist,1982,Horror,A suburban family discovers that their new home is haunted by a dangerous supernatural presence.,English
+M00481,Rocky III,1982,Drama,A champion boxer must rebuild his confidence after losing to a younger and more powerful rival.,English
+M00482,Chariots of Fire,1981,Drama,Two British runners pursue Olympic glory while confronting questions of faith and personal purpose.,English
+M00483,The Blues Brothers,1980,Comedy,Two brothers reunite their band to raise money and save the orphanage where they grew up.,English
+M00484,The Elephant Man,1980,Drama,A severely disfigured man forms meaningful relationships after being discovered in Victorian London.,English
+M00485,Rocky II,1979,Drama,Rocky struggles with life after his first title fight and prepares for a rematch.,English
+M00486,Kramer vs. Kramer,1979,Drama,A father learns to raise his young son alone after his wife leaves the family.,English
+M00487,National Lampoon's Animal House,1978,Comedy,A rowdy college fraternity clashes with school authorities while creating chaos across campus.,English
+M00488,Halloween,1978,Horror,A masked killer returns to his hometown and stalks a group of teenagers on Halloween night.,English
+M00489,Grease,1978,Romance,Two teenagers try to rekindle a summer romance after discovering they attend the same school.,English
+M00490,Annie Hall,1977,Romance,A comedian reflects on the rise and fall of his relationship with an aspiring singer.,English
+M00491,Close Encounters of the Third Kind,1977,Science Fiction,An ordinary man becomes obsessed with mysterious encounters after witnessing strange lights in the sky.,English
+M00492,The Last Picture Show,1971,Drama,"Teenagers in a declining Texas town face loneliness, desire and the end of an era.",English
+M00493,Patton,1970,War,A brilliant and controversial general leads American forces through major battles in World War II.,English
+M00494,M*A*S*H,1970,Comedy,Irreverent army surgeons use humor and rebellion to survive the pressures of wartime medicine.,English
+M00495,Rosemary's Baby,1968,Horror,A young woman becomes suspicious of her neighbors after a troubling pregnancy begins.,English
+M00496,The Battle of Algiers,1966,War,A film dramatizes the struggle between Algerian independence fighters and French authorities.,English
+M00497,The Birds,1963,Horror,A coastal town is attacked by inexplicably aggressive flocks of birds.,English
+M00498,West Side Story,1961,Romance,Two young lovers from rival street gangs struggle against the conflict dividing their communities.,English
+M00499,Breakfast at Tiffany's,1961,Romance,A New York socialite and a struggling writer form a complicated friendship that becomes romantic.,English
+M00500,The Magnificent Seven,1960,Western,Seven gunfighters agree to defend a small Mexican village from a ruthless bandit.,English
+M00501,Ben-Hur,1959,Drama,A Jewish prince is betrayed and enslaved before rising again through extraordinary trials and competition.,English
+M00502,Some Like It Hot,1959,Comedy,Two musicians disguise themselves as women after witnessing a gangland killing.,English
+M00503,The Seventh Seal,1957,Drama,A medieval knight plays chess with Death while searching for meaning during a plague.,English
+M00504,Paths of Glory,1957,War,A French colonel defends soldiers accused of cowardice after a disastrous battlefield order.,English
+M00505,Dial M for Murder,1954,Mystery,A man plans the perfect murder of his wife but an unexpected mistake changes everything.,English
+M00506,On the Waterfront,1954,Drama,A former boxer confronts corruption on the docks after deciding to testify against powerful gang leaders.,English
+M00507,Roman Holiday,1953,Romance,A princess escapes her official duties and spends a day exploring Rome with an American journalist.,English
+M00508,High Noon,1952,Western,A town marshal prepares to face a returning outlaw while discovering how few people will stand with him.,English
+M00509,A Streetcar Named Desire,1951,Drama,A fragile woman arrives at her sister's home and clashes with her volatile brother-in-law.,English
+M00510,All About Eve,1950,Drama,An ambitious young actress manipulates her way into the life of an aging Broadway star.,English
+M00511,The Treasure of the Sierra Madre,1948,Adventure,Three prospectors search for gold in Mexico and discover that greed can destroy their partnership.,English
+M00512,Bicycle Thieves,1948,Drama,"A poor father searches Rome for the bicycle stolen from him, knowing his job depends on it.",English
+M00513,The Maltese Falcon,1941,Mystery,A private detective becomes caught between criminals searching for a valuable statuette.,English
+M00514,Gone with the Wind,1939,Drama,A determined Southern woman struggles to preserve her family's way of life through war and upheaval.,English
+M00515,Mr. Smith Goes to Washington,1939,Drama,An idealistic senator battles political corruption after arriving in Washington.,English
+M00516,The Great Dictator,1940,Comedy,A barber is mistaken for a dictator in a satire about fascism and the abuse of power.,English
+M00517,M,1931,Crime,A city becomes consumed by fear as police and criminals hunt a child murderer.,English
+M00518,City Lights,1931,Comedy,A poor wanderer falls in love with a blind flower seller and quietly tries to improve her life.,English
+M00519,The Deer Hunter,1978,War,Three friends from a Pennsylvania steel town experience the lasting effects of the Vietnam War.,English
+M00520,All the President's Men,1976,Mystery,Two newspaper reporters investigate a political scandal that reaches the highest levels of government.,English
+M00521,Dog Day Afternoon,1975,Crime,A bank robbery becomes a media spectacle when an inexperienced criminal tries to help his lover.,English
+M00522,The Conversation,1974,Thriller,A surveillance expert becomes obsessed with a recording that may reveal an impending murder.,English
+M00523,Mean Streets,1973,Crime,A young man tries to balance loyalty to a reckless friend with his ambitions in New York's underworld.,English
+M00524,Bonnie and Clyde,1967,Crime,A young couple become notorious outlaws while fleeing across Depression-era America.,English
+M00525,The Man Who Shot Liberty Valance,1962,Western,A politician returns to a small town and confronts the truth behind the legend that built his career.,English
+M00526,The Bridge on the River Kwai,1957,War,Prisoners of war are forced to build a bridge while their commanders debate duty and sabotage.,English
+M00527,The Night of the Hunter,1955,Thriller,A murderous preacher hunts two children after learning that their father hid stolen money.,English
+M00528,The African Queen,1951,Adventure,A rough boat captain and a missionary form an unlikely partnership during World War I.,English
+M00529,The Best Years of Our Lives,1946,Drama,Three veterans return home after World War II and struggle to rebuild their civilian lives.,English
+M00530,Double Indemnity,1944,Crime,An insurance salesman becomes involved in a murder plot designed to collect a large payout.,English
+M00531,The Philadelphia Story,1940,Comedy,A wealthy socialite's wedding becomes complicated when her ex-husband and a reporter arrive.,English
+M00532,Rebecca,1940,Mystery,A newlywed moves into her husband's estate and feels haunted by the memory of his first wife.,English
+M00533,The Rules of the Game,1939,Comedy,Romantic entanglements among wealthy guests expose the social tensions beneath their polished behavior.,English
+M00534,King Kong,1933,Adventure,A film crew discovers a giant ape on a mysterious island and brings him to New York.,English
+M00535,Frankenstein,1931,Horror,A scientist creates life from assembled body parts and quickly loses control of his experiment.,English
+M00536,The Mummy,1932,Horror,An ancient Egyptian priest returns to life and becomes obsessed with a woman who resembles his lost love.,English
+M00537,Dracula,1931,Horror,A mysterious count moves to England while hiding his true identity as a vampire.,English
+M00538,All Quiet on the Western Front,1930,War,Young soldiers discover the brutal reality of combat after joining World War I.,English
+M00539,The Passion of Joan of Arc,1928,Drama,A young woman faces interrogation and persecution after claiming a divine mission.,English
+M00540,The Cabinet of Dr. Caligari,1920,Horror,A mysterious doctor uses a sleepwalking man while strange events unfold in a distorted town.,English
+M00541,The Great Train Robbery,1903,Western,A group of bandits robs a train and flees while a posse pursues them.,English
+M00542,The Passion of the Christ,2004,Drama,A dramatic depiction of the final hours of Jesus before the crucifixion.,English
+M00543,Hotel Rwanda,2004,Drama,A hotel manager risks his safety to shelter people during the Rwandan genocide.,English
+M00544,The Motorcycle Diaries,2004,Adventure,"Two young travelers journey across South America, changing their understanding of the continent and themselves.",English
+M00545,Finding Neverland,2004,Drama,A playwright's friendship with a family inspires the creation of a timeless children's story.,English
+M00546,Walk the Line,2005,Music,A musician rises from hardship to fame while battling addiction and building a life with a fellow performer.,English
+M00547,Munich,2005,Thriller,A secret team hunts those responsible for a deadly attack while confronting the moral cost of revenge.,English
+M00548,Letters from Iwo Jima,2006,War,Japanese soldiers prepare to defend Iwo Jima while facing an increasingly desperate battle.,English
+M00549,Perfume: The Story of a Murderer,2006,Drama,A man with an extraordinary sense of smell becomes obsessed with creating the perfect scent.,English
+M00550,The Assassination of Jesse James by the Coward Robert Ford,2007,Western,A young admirer becomes obsessed with the famous outlaw Jesse James and eventually turns against him.,English
+M00551,Lars and the Real Girl,2007,Comedy,A shy man introduces an unconventional companion to his concerned family and community.,English
+M00552,The Road,2009,Drama,A father and son travel through a devastated world while trying to preserve hope and humanity.,English
+M00553,Precious,2009,Drama,A teenager facing abuse and poverty finds a path toward education and independence.,English
+M00554,The Secret in Their Eyes,2009,Mystery,A retired investigator revisits an unsolved murder and the personal history surrounding it.,English
+M00555,127 Hours,2010,Adventure,A climber trapped alone in a remote canyon must make an impossible decision to survive.,English
+M00556,Winter's Bone,2010,Mystery,A teenager searches the Ozarks for her missing father to protect her family from losing their home.,English
+M00557,The Descendants,2011,Drama,A father tries to reconnect with his daughters while dealing with his wife's serious condition.,English
+M00558,Drive Angry,2011,Action,A supernatural fugitive races against time to rescue a kidnapped family member.,English
+M00559,Contagion,2011,Thriller,Scientists and health officials race to understand and contain a rapidly spreading global virus.,English
+M00560,Zero Dark Thirty,2012,Thriller,An intelligence analyst spends years pursuing the lead-up to a major counterterrorism operation.,English
+M00561,The Master,2012,Drama,A troubled veteran becomes attached to the charismatic leader of a mysterious movement.,English
+M00562,Silver Linings Playbook,2012,Romance,Two emotionally wounded people form an unexpected relationship while trying to rebuild their lives.,English
+M00563,Nebraska,2013,Drama,An aging man travels with his son to claim a sweepstakes prize he believes he has won.,English
+M00564,Inside Llewyn Davis,2013,Drama,A struggling folk musician wanders through New York trying to find a path forward.,English
+M00565,Blue Is the Warmest Color,2013,Romance,A young woman experiences an intense relationship that changes her understanding of love and identity.,English
+M00566,American Sniper,2014,War,A Navy SEAL sniper serves multiple tours while struggling with the effects of war at home.,English
+M00567,Steve Jobs,2015,Drama,A portrait of a technology leader unfolds through three pivotal product launches.,English
+M00568,Brooklyn,2015,Romance,A young Irish immigrant builds a new life in Brooklyn while struggling with where she truly belongs.,English
+M00569,The Lobster,2015,Comedy,"In a strange society, single people must find partners within a fixed period or face an unusual punishment.",English
+M00570,Jackie,2016,Drama,A grieving First Lady reflects on the days surrounding her husband's assassination.,English
+M00571,Patriots Day,2016,Thriller,Law enforcement and civilians respond to the aftermath of the Boston Marathon bombing.,English
+M00572,First Man,2018,Drama,"Neil Armstrong's journey toward the moon is shaped by ambition, loss and personal sacrifice.",English
+M00573,If Beale Street Could Talk,2018,Romance,A young couple's future is threatened when the man is falsely accused of a crime.,English
+M00574,Can You Ever Forgive Me?,2018,Comedy,A struggling writer turns to forging literary letters and finds unexpected success through deception.,English
+M00575,The Farewell,2019,Comedy,A Chinese American woman returns to China with her family after learning a difficult secret.,English
+M00576,Richard Jewell,2019,Drama,A security guard becomes a suspect after discovering a bomb during the 1996 Olympics.,English
+M00577,The Mauritanian,2021,Drama,A detainee and his lawyer fight for justice after years of imprisonment without trial.,English
+M00578,Judas and the Black Messiah,2021,Crime,An FBI informant infiltrates the Illinois chapter of the Black Panther Party and develops a dangerous loyalty.,English
+M00579,The Harder They Fall,2021,Western,An outlaw assembles his gang to confront a rival from his past.,English
+M00580,The Last Duel,2021,Drama,Two knights enter a deadly legal duel after a woman's accusation creates a bitter dispute.,English
+M00581,The Outfit,2022,Crime,A tailor serving Chicago criminals must outsmart rival groups after a dangerous package arrives at his shop.,English
+M00582,Thirteen Lives,2022,Drama,Divers and rescuers attempt a dangerous operation to save children trapped in a flooded cave.,English
+M00583,The Covenant,2023,War,A soldier returns to Afghanistan to rescue an interpreter who once saved his life.,English
+M00584,The Burial,2023,Drama,A determined lawyer takes on a powerful company in a courtroom fight over a funeral business.,English
+M00585,Rustin,2023,Drama,A charismatic organizer fights to build the 1963 March on Washington despite political opposition.,English
+M00586,Nyad,2023,Drama,A veteran swimmer trains for years to complete a dangerous open-water journey from Cuba to Florida.,English
+M00587,The Color Purple,2023,Drama,A woman separated from her sister builds a new life while finding strength through friendship and music.,English
+M00588,Bob Marley: One Love,2024,Music,"A musical drama follows Bob Marley through his career, relationships and efforts to bring people together.",English
+M00589,Mufasa: The Lion King,2024,Animation,A young Mufasa rises from uncertainty while forming a bond that will shape his future.,English
+M00590,A Complete Unknown,2024,Music,A young Bob Dylan arrives in New York and transforms the folk music scene.,English
+M00591,Captain America: Brave New World,2025,Action,Sam Wilson faces an international crisis after becoming the new Captain America.,English
+M00592,The Electric State,2025,Science Fiction,A teenager travels across a retro-futuristic America with a mysterious robot while searching for her brother.,English
+M00593,Freakier Friday,2025,Comedy,A mother and daughter face another body-swapping crisis as two families prepare to merge.,English
+M00594,Materialists,2025,Romance,A New York matchmaker struggles between an apparently perfect new relationship and her complicated past.,English
+M00595,F1 The Movie,2025,Drama,A veteran racer returns to the grid to mentor a younger driver while chasing another championship.,English
+M00596,The Hunger Games: Sunrise on the Reaping,2026,Science Fiction,A young tribute enters a brutal Hunger Games decades before the original story.,English
+M00597,The Illusionist,2006,Mystery,A mysterious magician returns to Vienna and challenges a powerful political figure with impossible performances.,English
+M00598,The Lives of Others,2006,Drama,An East German surveillance officer becomes emotionally invested in the lives of the people he is ordered to monitor.,English
+M00599,The Constant Gardener,2005,Thriller,A diplomat investigates his wife's death and uncovers a dangerous pharmaceutical conspiracy.,English
+M00600,A History of Violence,2005,Crime,A quiet family man becomes the center of attention after defending his diner from violent criminals.,English
+M00601,Match Point,2005,Drama,"A tennis instructor's relationship with a wealthy family leads him into ambition, betrayal and murder.",English
+M00602,Crash,2004,Drama,Several strangers in Los Angeles confront prejudice and connection as their lives intersect.,English
+M00603,The Aviator,2004,Drama,"Howard Hughes builds aircraft, studios and an extraordinary public life while battling personal struggles.",English
+M00604,Mystic River,2003,Mystery,A murder reunites three childhood friends whose lives were shaped by a traumatic event.,English
+M00605,Lost in Translation,2003,Drama,A fading actor and a lonely young woman form an unexpected friendship in Tokyo.,English
+M00606,The Last Samurai,2003,Action,An American officer finds purpose among Japanese warriors during a period of rapid modernization.,English
+M00607,Big Fish,2003,Fantasy,A son tries to separate the myths from the truth in the extraordinary stories told by his dying father.,English
+M00608,Master and Commander,2003,Adventure,A British naval captain pursues an enemy ship across the Pacific during the Napoleonic Wars.,English
+M00609,Minority Report,2002,Science Fiction,A police officer in a future where crimes are predicted becomes accused of a murder he has not committed.,English
+M00610,Road to Perdition,2002,Crime,A mob enforcer and his young son flee after a violent betrayal within the organization.,English
+M00611,The Bourne Identity,2002,Action,A wounded man with amnesia discovers he has extraordinary combat skills and a dangerous past.,English
+M00612,Amélie,2001,Romance,A shy Parisian waitress secretly improves the lives of strangers while searching for connection herself.,English
+M00613,Black Hawk Down,2001,War,American soldiers become trapped in Mogadishu after a mission goes disastrously wrong.,English
+M00614,Training Day,2001,Crime,A rookie police officer spends one day with a corrupt narcotics detective and questions everything he sees.,English
+M00615,The Sixth Sense,1999,Mystery,A child psychologist works with a boy who claims he can see people who have died.,English
+M00616,The Insider,1999,Drama,A television producer risks his career to expose evidence about the tobacco industry's practices.,English
+M00617,The Talented Mr. Ripley,1999,Thriller,A young man becomes obsessed with a wealthy acquaintance and begins stealing his identity.,English
+M00618,Magnolia,1999,Drama,Several troubled lives intersect over one extraordinary day in the San Fernando Valley.,English
+M00619,Pleasantville,1998,Fantasy,Two teenagers enter a black-and-white television world and introduce it to change.,English
+M00620,The Thin Red Line,1998,War,"Soldiers on Guadalcanal confront fear, violence and questions about the meaning of war.",English
+M00621,Jackie Brown,1997,Crime,A flight attendant caught smuggling money tries to outmaneuver both the police and criminals.,English
+M00622,L.A. Confidential,1997,Crime,Three very different detectives investigate corruption and murder inside 1950s Los Angeles.,English
+M00623,Boogie Nights,1997,Drama,A young man enters the adult-film industry and rises to fame before the lifestyle begins to collapse.,English
+M00624,The Full Monty,1997,Comedy,Unemployed steelworkers form an unlikely group to earn money by performing a strip show.,English
+M00625,Men in Black,1997,Science Fiction,Secret agents police alien activity on Earth while preventing the public from discovering it.,English
+M00626,Apollo 13,1995,Drama,Astronauts and engineers race to bring a damaged spacecraft and its crew safely home.,English
+M00627,Sense and Sensibility,1995,Romance,"Two sisters navigate love, money and social expectations after their family's fortunes change.",English
+M00628,Four Weddings and a Funeral,1994,Romance,A charming Englishman repeatedly encounters love and marriage while attending a series of weddings.,English
+M00629,The Crow,1994,Fantasy,A murdered musician returns from the dead to avenge himself and his fiancée.,English
+M00630,The Piano,1993,Drama,A mute pianist is sent to New Zealand for an arranged marriage and fights to control her own life.,English
+M00631,Philadelphia,1993,Drama,A lawyer dismissed after revealing his illness turns to another attorney to fight discrimination.,English
+M00632,What's Eating Gilbert Grape,1993,Drama,A young man caring for his family begins to imagine a different life when a traveler enters town.,English
+M00633,A Few Good Men,1992,Drama,Military lawyers defend two Marines accused of killing a fellow soldier at Guantanamo.,English
+M00634,Malcolm X,1992,Drama,A biography follows Malcolm X from prison through his transformation into a major civil-rights leader.,English
+M00635,Reservoir Dogs,1992,Crime,A jewelry robbery collapses when the surviving criminals suspect that one of them is an informant.,English
+M00636,The Last of the Mohicans,1992,Adventure,A frontier scout and his companions become caught in a conflict between European powers and Native nations.,English
+M00637,Boyz n the Hood,1991,Drama,"A young man grows up in South Central Los Angeles while navigating friendship, family and violence.",English
+M00638,JFK,1991,Mystery,A district attorney investigates the Kennedy assassination and questions the official account.,English
+M00639,My Girl,1991,Drama,A young girl coping with loss and adolescence develops a close friendship with a boy in her town.,English
+M00640,Thelma & Louise,1991,Crime,Two friends flee across the American Southwest after a violent encounter changes their lives.,English
+M00641,Awakenings,1990,Drama,A doctor discovers a treatment that briefly awakens patients who have been unresponsive for decades.,English
+M00642,Misery,1990,Thriller,A famous writer is rescued by a devoted fan who refuses to let him leave her home.,English
+M00643,Dances with Wolves,1990,Western,A Union soldier stationed on the frontier develops a relationship with a Lakota community.,English
+M00644,Do the Right Thing,1989,Drama,Tensions rise on a hot Brooklyn day as neighbors and business owners clash over race and community.,English
+M00645,Born on the Fourth of July,1989,Drama,A patriotic young man returns from Vietnam and becomes an outspoken critic of the war.,English
+M00646,When Harry Met Sally...,1989,Romance,Two longtime friends repeatedly debate whether men and women can remain platonic while their relationship evolves.,English
+M00647,The Last Emperor,1987,Drama,A young boy becomes China's final emperor and experiences the collapse of an imperial world.,English
+M00648,Broadcast News,1987,Comedy,"Three television journalists navigate ambition, ethics and complicated romantic feelings.",English
+M00649,The Lost Boys,1987,Horror,Two brothers move to a seaside town and discover that a local gang may be made up of vampires.,English
+M00650,Labyrinth,1986,Fantasy,A teenager enters a magical labyrinth to rescue her baby brother from a mysterious king.,English
+M00651,Blue Velvet,1986,Mystery,A college student discovers a hidden criminal world beneath the surface of his quiet hometown.,English
+M00652,Witness,1985,Thriller,A detective protects an Amish boy who witnessed a murder while hiding from corrupt officers.,English
+M00653,Brazil,1985,Science Fiction,A bureaucrat in a dystopian society becomes obsessed with a woman from his dreams.,English
+M00654,Gremlins,1984,Comedy,A small creature bought as a pet creates chaos when its owners accidentally break important rules.,English
+M00655,Once Upon a Time in America,1984,Crime,"An aging gangster reflects on friendship, betrayal and the criminal empire he built.",English
+M00656,The Right Stuff,1983,Drama,Test pilots and astronauts compete to become America's first space heroes.,English
+M00657,The King of Comedy,1982,Comedy,An aspiring comedian becomes obsessed with a famous talk-show host and crosses dangerous boundaries.,English
+M00658,The Verdict,1982,Drama,A struggling lawyer takes on a medical negligence case that offers one last chance at redemption.,English
+M00659,The French Lieutenant's Woman,1981,Romance,A novelist and actress explore a relationship while filming a story set in Victorian England.,English
+M00660,An American Werewolf in London,1981,Horror,Two American backpackers encounter a werewolf and a curse while traveling through Britain.,English
+M00661,The Fog,1980,Horror,A coastal town is haunted by supernatural figures emerging from a mysterious fog.,English
+M00662,The Jerk,1979,Comedy,A naive man leaves his poor upbringing behind and becomes unexpectedly wealthy before losing everything.,English
+M00663,Manhattan,1979,Romance,A New York writer navigates complicated relationships while trying to understand his own priorities.,English
+M00664,The Wiz,1978,Fantasy,A young woman from Harlem enters a magical world and follows a mysterious road toward home.,English
+M00665,Heaven Can Wait,1978,Comedy,A football player dies too early and returns in another body while trying to complete unfinished business.,English
+M00666,The Taking of Pelham One Two Three,1974,Crime,Criminals hijack a New York subway train and demand a ransom while authorities race to respond.,English
+M00667,Serpico,1973,Crime,An idealistic New York police officer exposes corruption inside his own department.,English
+M00668,The Sting,1973,Crime,Two con artists build an elaborate scheme to trick a dangerous crime boss.,English
+M00669,Enter the Dragon,1973,Action,A martial artist infiltrates a tournament held by a suspected criminal mastermind.,English
+M00670,Love Story,1970,Romance,Two college students fall deeply in love while facing differences in family background and expectations.,English
+M00671,The Wild Bunch,1969,Western,A group of aging outlaws attempts one final score as the frontier world changes around them.,English
+M00672,Planet of the Apes,1968,Science Fiction,Astronauts land on a strange planet where intelligent apes dominate a society that hides a shocking truth.,English
+M00673,In the Heat of the Night,1967,Mystery,A Black detective helps solve a murder in a racially divided Southern town.,English
+M00674,The Dirty Dozen,1967,War,Convicted soldiers are offered a chance at freedom if they complete a nearly impossible wartime mission.,English
+M00675,Who's Afraid of Virginia Woolf?,1966,Drama,A married couple's bitter games expose years of resentment during a long night of confrontation.,English
+M00676,The Sand Pebbles,1966,War,An American sailor serves aboard a gunboat in China during a period of political upheaval.,English
+M00677,Doctor Zhivago,1965,Romance,A physician and poet struggles to maintain love and family during the Russian Revolution.,English
+M00678,The Manchurian Candidate,1962,Thriller,A returning soldier becomes linked to a mysterious political conspiracy after serving in Korea.,English
+M00679,Judgment at Nuremberg,1961,Drama,A postwar tribunal examines the actions of German judges during the Nazi regime.,English
+M00680,The Hustler,1961,Drama,A talented pool player challenges a legendary champion while struggling with pride and self-destruction.,English
+M00681,Pillow Talk,1959,Comedy,Two neighbors who share a telephone line begin a playful rivalry that slowly turns romantic.,English
+M00682,The 400 Blows,1959,Drama,"A troubled Parisian boy drifts through school, family problems and a growing desire for freedom.",English
+M00683,Touch of Evil,1958,Crime,A Mexican border investigation becomes a battle between a principled officer and a corrupt detective.,English
+M00684,The Searchers,1956,Western,A Civil War veteran spends years searching for his kidnapped niece across the Texas frontier.,English
+M00685,Invasion of the Body Snatchers,1956,Science Fiction,A small town doctor discovers that people are being replaced by emotionless duplicates.,English
+M00686,Rebel Without a Cause,1955,Drama,A troubled teenager tries to find belonging after moving to a new city.,English
+M00687,Seven Samurai,1954,Action,A poor village hires seven warriors to defend it from recurring attacks by bandits.,English
+M00688,Out of the Past,1947,Crime,A former private detective is pulled back into a dangerous scheme by people from his past.,English
+M00689,The Big Sleep,1946,Mystery,A private detective investigates blackmail involving a wealthy family and a missing person.,English
+M00690,Notorious,1946,Thriller,An American agent recruits a woman to infiltrate a Nazi-linked organization in South America.,English
+M00691,The Grapes of Wrath,1940,Drama,A poor Oklahoma family travels west during the Great Depression in search of work and stability.,English
+M00692,Stagecoach,1939,Western,A group of travelers crosses dangerous territory together while tensions rise inside the stagecoach.,English
+M00693,Bringing Up Baby,1938,Comedy,A reserved paleontologist's life is disrupted by an eccentric woman and a leopard named Baby.,English
+M00694,The Bride of Frankenstein,1935,Horror,A scientist is pressured to create a companion for the creature he brought to life.,English
+M00695,The Gold Rush,1925,Comedy,A lonely prospector searches for gold and love during a harsh northern winter.,English
+M00696,Battleship Potemkin,1925,Drama,A mutiny aboard a Russian battleship becomes a symbol of revolutionary resistance.,English
+M00697,The General Died at Dawn,1936,Adventure,An adventurer becomes caught in a political struggle while trying to help a Chinese leader.,English
+M00698,The Adventures of Robin Hood,1938,Adventure,Robin Hood returns from the Crusades and fights against a corrupt ruler in medieval England.,English
+M00699,The Shop Around the Corner,1940,Romance,Two coworkers who dislike each other discover that they are secretly falling in love through letters.,English
+M00700,Sullivan's Travels,1941,Comedy,A successful filmmaker tries to experience hardship firsthand before making a serious film about poverty.,English
+M00701,To Be or Not to Be,1942,Comedy,A Polish theater troupe uses its acting skills to resist Nazi occupation.,English
+M00702,The Ox-Bow Incident,1942,Western,A group of vigilantes rushes to punish suspected cattle thieves before learning the truth.,English
+M00703,The Heiress,1949,Drama,A shy young woman must decide whether a charming suitor truly loves her or her fortune.,English
+M00704,A Place in the Sun,1951,Drama,A young man seeks social advancement but becomes trapped by a dangerous romantic situation.,English
+M00705,The Man Who Knew Too Much,1956,Thriller,A family on holiday becomes involved in an international assassination plot.,English
+M00706,Mary Poppins,1964,Fantasy,A magical nanny transforms the lives of a London family through music and imagination.,English
+M00707,Sonic the Hedgehog 3,2024,Action,Sonic and his friends face the powerful Shadow and seek an unlikely alliance.,English
+M00708,The Mission,1986,Drama,Jesuit missionaries try to protect an Indigenous community during a colonial power struggle.,English
+M00709,Hannah and Her Sisters,1986,Comedy,"Three sisters and the people around them navigate love, jealousy, marriage and changing priorities.",English
+M00710,The Purple Rose of Cairo,1985,Fantasy,A lonely woman finds escape in movies when a character unexpectedly walks off the screen.,English
+M00711,The Killing Fields,1984,Drama,A journalist and his Cambodian colleague struggle to survive the Khmer Rouge regime.,English
+M00712,Terms of Endearment,1983,Drama,"A mother and daughter navigate love, conflict and illness across several years.",English
+M00713,The Big Chill,1983,Drama,College friends reunite after a death and confront how much their lives have changed.,English
+M00714,Gandhi,1982,Drama,A biographical epic follows Gandhi's campaign of nonviolent resistance against British rule in India.,English
+M00715,Tootsie,1982,Comedy,An unemployed actor disguises himself as a woman to get a role and unexpectedly changes his life.,English
+M00716,Ordinary People,1980,Drama,A family struggles with grief after a boating accident leaves one son dead and another overwhelmed by guilt.,English
+M00717,Julia,1977,Drama,A writer remembers her friendship with a woman whose life becomes entangled with resistance against Nazi Germany.,English
+M00718,The Rocky Horror Picture Show,1975,Comedy,A young couple encounter a bizarre household after their car breaks down on a dark night.,English
+M00719,Paper Moon,1973,Comedy,A con man and a young girl travel through Depression-era America running small scams.,English
+M00720,The Lion in Winter,1968,Drama,A royal family gathers for Christmas while competing for the future of the English throne.,English
+M00721,Guess Who's Coming to Dinner,1967,Drama,A progressive couple confronts their own assumptions when their daughter announces her engagement.,English
+M00722,A Man for All Seasons,1966,Drama,A principled statesman refuses to compromise his beliefs when the king demands his support.,English
+M00723,The Umbrellas of Cherbourg,1964,Romance,A young couple's love is tested when war and circumstance pull them apart.,English
+M00724,The Longest Day,1962,War,An ensemble drama follows soldiers and commanders during the Allied invasion of Normandy.,English
+M00725,The Young Lions,1958,War,Three men experience World War II from different sides and struggle with its moral costs.,English
+M00726,Witness for the Prosecution,1957,Mystery,A courtroom defense becomes complicated when new testimony threatens to overturn the entire case.,English
+M00727,Around the World in 80 Days,1956,Adventure,A wealthy Englishman accepts a wager and races around the world with his servant.,English
+M00728,The Ladykillers,1955,Comedy,A group of criminals rents a room from an elderly woman while planning a robbery.,English
+M00729,The Quiet Man,1952,Romance,An American boxer returns to Ireland and falls for a woman while clashing with her stubborn brother.,English
+M00730,The Asphalt Jungle,1950,Crime,A group of criminals plans a carefully organized jewelry robbery that begins to unravel.,English
+M00731,The Bicycle Thief,1948,Drama,A poor father searches Rome for the bicycle he needs to keep his job.,English
+M00732,The Red Shoes,1948,Drama,A young ballerina must choose between love and the demanding artistic life of a famous company.,English
+M00733,The Lost Weekend,1945,Drama,A writer's alcoholism spirals over several days while people close to him try to help.,English
+M00734,Laura,1944,Mystery,A detective investigating a woman's murder becomes fascinated by the person she was.,English
+M00735,Bride of Frankenstein,1935,Horror,A scientist is forced to consider creating a companion for the creature he brought to life.,English
+M00736,The Guns of Navarone,1961,War,Allied commandos undertake a dangerous mission to destroy giant guns guarding a strategic island.,English
+M00737,The Train,1964,War,A French resistance fighter tries to stop a train carrying valuable art out of occupied France.,English
+M00738,Das Boot,1981,War,A German submarine crew endures claustrophobic danger during the Battle of the Atlantic.,English
+M00739,The Accused,1988,Drama,A young woman seeks justice after an assault while confronting a difficult legal system.,English
+M00740,The English Patient,1996,Romance,A badly injured man recalls a passionate wartime relationship while being cared for in an Italian monastery.,English
+M00741,The Zone of Interest,2023,Drama,A family lives beside Auschwitz while maintaining an unsettling sense of ordinary domestic life.,English
+M00742,The Magnificent Ambersons,1942,Drama,A wealthy family struggles as social change transforms their town and their privileged way of life.,English
+M00743,Yankee Doodle Dandy,1942,Music,A performer looks back on his career and the patriotic stage shows that made him famous.,English
+M00744,Gentleman's Agreement,1947,Drama,A journalist pretends to be Jewish to investigate antisemitism in American society.,English
+M00745,Harvey,1950,Comedy,"A gentle man insists his closest companion is an invisible giant rabbit, confusing everyone around him.",English
+M00746,The Wages of Fear,1953,Thriller,Desperate workers accept a deadly job transporting unstable explosives through dangerous terrain.,English
+M00747,The Court Jester,1955,Comedy,A reluctant hero becomes involved in a royal conspiracy and must impersonate a court official.,English
+M00748,The Killing,1956,Crime,A carefully planned racetrack robbery begins to collapse because of human greed and bad luck.,English
+M00749,Anatomy of a Murder,1959,Mystery,A small-town lawyer defends a soldier accused of murder in a complex courtroom case.,English
+M00750,Lolita,1962,Drama,A complicated and destructive obsession develops around a young girl and a much older man.,English
+M00751,The Pawnbroker,1964,Drama,A Holocaust survivor living in New York struggles with trauma and emotional isolation.,English
+M00752,All That Jazz,1979,Drama,A driven choreographer pushes his body and relationships to the limit while creating a new show.,English
+M00753,"Paris, Texas",1984,Drama,A mysterious drifter tries to reconnect with his young son and repair a broken family.,English
+M00754,The Favourite,2018,Drama,Two women compete for influence over an ailing queen in eighteenth-century England.,English
+M00755,The Hunger Games: The Ballad of Songbirds & Snakes,2023,Science Fiction,A young Coriolanus Snow mentors a tribute decades before becoming Panem's ruler.,English
+M00756,Harry Potter and the Chamber of Secrets,2002,Fantasy,Harry returns to Hogwarts where a mysterious chamber is opened and students are threatened.,English
+M00757,Harry Potter and the Order of the Phoenix,2007,Fantasy,Harry forms a secret student group while the magical government denies Voldemort has returned.,English
+M00758,Harry Potter and the Half-Blood Prince,2009,Fantasy,Harry studies a mysterious textbook while Dumbledore prepares him for a dangerous confrontation.,English
+M00759,Harry Potter and the Deathly Hallows: Part 1,2010,Fantasy,Harry and his friends leave Hogwarts to find the objects needed to defeat Voldemort.,English
+M00760,Harry Potter and the Deathly Hallows: Part 2,2011,Fantasy,The final battle at Hogwarts determines the fate of the wizarding world.,English
+M00761,Spider-Man 3,2007,Action,Peter Parker faces new enemies while a mysterious substance begins changing his behavior.,English
+M00762,Spider-Man: Homecoming,2017,Action,A young Spider-Man tries to prove himself while confronting a powerful weapons dealer.,English
+M00763,Thor,2011,Action,A powerful but arrogant god is banished to Earth and learns humility.,English
+M00764,Thor: The Dark World,2013,Action,Thor protects the universe when an ancient enemy seeks a powerful cosmic artifact.,English
+M00765,Iron Man 2,2010,Action,Tony Stark faces rivals and a dangerous inventor after revealing his identity.,English
+M00766,Iron Man 3,2013,Action,Tony Stark confronts a terrorist threat while struggling with the aftermath of a major battle.,English
+M00767,Ant-Man,2015,Action,A thief becomes a shrinking superhero after receiving an advanced suit from its inventor.,English
+M00768,Ant-Man and the Wasp,2018,Action,Scott Lang joins Hope van Dyne on a mission involving the mysterious Quantum Realm.,English
+M00769,Black Widow,2021,Action,Natasha Romanoff confronts people from her past while uncovering a dangerous conspiracy.,English
+M00770,Eternals,2021,Science Fiction,Ancient heroes emerge from hiding when a cosmic threat puts Earth in danger.,English
+M00771,The Marvels,2023,Action,Three heroes discover their powers are mysteriously connected and must work together.,English
+M00772,Man of Steel,2013,Action,Clark Kent discovers his origins and chooses how to use his extraordinary powers.,English
+M00773,Batman v Superman: Dawn of Justice,2016,Action,Batman and Superman become rivals while a larger threat emerges.,English
+M00774,Wonder Woman,2017,Action,An Amazon warrior leaves her island to help stop a devastating world war.,English
+M00775,Aquaman,2018,Action,A reluctant heir to Atlantis must claim his throne and prevent a war between worlds.,English
+M00776,Shazam!,2019,Comedy,A teenager gains magical powers and learns that becoming a hero requires more than strength.,English
+M00777,The Suicide Squad,2021,Action,A team of dangerous criminals is sent on a secret mission with little chance of survival.,English
+M00778,Jumanji: Welcome to the Jungle,2017,Adventure,Four teenagers are pulled into a video game and must complete its dangerous quest.,English
+M00779,The Greatest Showman,2017,Music,A visionary showman builds a spectacular entertainment empire while pursuing acceptance and fame.,English
+M00780,Erin Brockovich,2000,Drama,A determined legal assistant uncovers evidence of environmental contamination affecting a community.,English
+M00781,Fury,2014,War,A tank crew fights across Germany during the final months of World War II.,English
+M00782,Master and Commander: The Far Side of the World,2003,Adventure,A British naval captain pursues an enemy ship across the Pacific during the Napoleonic Wars.,English
+M00783,National Treasure,2004,Adventure,A historian searches for a hidden treasure using clues embedded in American history.,English
+M00784,The Mask of Zorro,1998,Adventure,A younger swordsman inherits the identity of Zorro and takes on a corrupt governor.,English
+M00785,The Count of Monte Cristo,2002,Adventure,A man betrayed and imprisoned for years escapes and plots an elaborate revenge.,English
+M00786,Kingdom of Heaven,2005,Drama,A blacksmith becomes a knight and is drawn into the defense of Jerusalem.,English
+M00787,Troy,2004,Action,Greek armies sail to Troy after a prince takes a queen whose presence threatens both kingdoms.,English
+M00788,Glory,1989,War,One of the first Black Union regiments fights during the American Civil War.,English
+M00789,Gettysburg,1993,War,Union and Confederate soldiers converge on Gettysburg for one of the Civil War's decisive battles.,English
+M00790,The Patriot,2000,War,A reluctant farmer joins the American Revolution after his family is threatened.,English
+M00791,Braveheart,1995,Drama,A Scottish warrior leads a rebellion against English rule after personal tragedy.,English
+M00792,The Apartment of Dreams,1938,Drama,A young architect struggles between professional ambition and the expectations of his family.,English
+M00793,The Letter,1940,Drama,A woman becomes entangled in a dangerous legal case after a shocking shooting.,English
+M00794,The Killers,1946,Crime,An insurance investigator examines why a former boxer allowed himself to be killed.,English
+M00795,Amour,2012,Drama,An elderly couple faces the difficult realities of love and caregiving after a devastating illness.,English
+M00796,Drive My Car,2021,Drama,A theater director travels to Hiroshima and forms an unexpected bond with his quiet driver.,English
+M00797,Portrait of a Lady on Fire,2019,Romance,A painter commissioned to create a wedding portrait develops a deep connection with her subject.,English
+M00798,Amour Fou,2014,Drama,A man and his lover become caught in a tragic relationship shaped by obsession and social expectations.,English
+M00799,The Naked City,1948,Crime,Police investigators follow a murder case through the streets and ordinary lives of postwar New York.,English
+M00800,Ace in the Hole,1951,Drama,An ambitious reporter exploits a trapped man's misfortune to create a sensational national story.,English

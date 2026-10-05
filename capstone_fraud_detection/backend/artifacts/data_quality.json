@@ -1,0 +1,22 @@
+{
+  "rows": 20000,
+  "duplicate_transaction_ids": 0,
+  "missing_transaction_id": 0,
+  "missing_customer_id": 0,
+  "missing_amount": 0,
+  "non_positive_amount": 0,
+  "hour_out_of_range": 0,
+  "velocity_below_one": 0,
+  "invalid_label": 0,
+  "currencies": [
+    "NGN"
+  ],
+  "rows_rejected": 0,
+  "fraud_rate": 0.0779,
+  "fraud_count": 1557,
+  "unavailable_contract_fields": [
+    "transaction_timestamp",
+    "merchant_id",
+    "device_id"
+  ]
+}

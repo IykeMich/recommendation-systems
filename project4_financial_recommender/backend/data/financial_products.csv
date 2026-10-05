@@ -1,0 +1,21 @@
+product_id,name,category,risk_level,min_income,description
+FP001,Savings Booster,savings,low,0,Savings Booster designed for savings needs.
+FP002,Goal Savings,savings,low,0,Goal Savings designed for savings needs.
+FP003,Fixed Deposit,investment,low,10000,Fixed Deposit designed for investment needs.
+FP004,Travel Card,card,medium,0,Travel Card designed for card needs.
+FP005,Cashback Card,card,medium,0,Cashback Card designed for card needs.
+FP006,Salary Advance,loan,medium,10000,Salary Advance designed for loan needs.
+FP007,Personal Loan,loan,medium,50000,Personal Loan designed for loan needs.
+FP008,SME Working Capital,business,medium,100000,SME Working Capital designed for business needs.
+FP009,Business Account,business,low,0,Business Account designed for business needs.
+FP010,Premium Account,banking,low,100000,Premium Account designed for banking needs.
+FP011,Investment Basket,investment,medium,50000,Investment Basket designed for investment needs.
+FP012,Education Plan,investment,low,10000,Education Plan designed for investment needs.
+FP013,Emergency Fund,savings,low,0,Emergency Fund designed for savings needs.
+FP014,Merchant POS,business,medium,10000,Merchant POS designed for business needs.
+FP015,Invoice Finance,business,high,100000,Invoice Finance designed for business needs.
+FP016,Home Loan,loan,high,500000,Home Loan designed for loan needs.
+FP017,Auto Loan,loan,high,250000,Auto Loan designed for loan needs.
+FP018,Wealth Advisory,investment,medium,1000000,Wealth Advisory designed for investment needs.
+FP019,Student Account,banking,low,0,Student Account designed for banking needs.
+FP020,Digital Wallet,payments,low,0,Digital Wallet designed for payments needs.

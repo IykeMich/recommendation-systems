@@ -1,0 +1,125 @@
+{
+  "model_type": "logistic_regression_ranker",
+  "model_version": "ranker-20260930T140735Z",
+  "trained_at": "2026-09-30T14:07:35+00:00",
+  "label_rule": "positive = ['apply']; 8 sampled eligible products per positive",
+  "eligibility_rules_version": "2026-09-30.1",
+  "eligibility_rules": [
+    {
+      "rule_id": "min_income",
+      "description": "Monthly income must be at least the product's minimum income."
+    },
+    {
+      "rule_id": "risk_suitability",
+      "description": "High-risk products are not offered to users with a low risk profile."
+    }
+  ],
+  "num_interactions": 8585,
+  "num_training_rows": 7272,
+  "num_users": 1200,
+  "num_products": 20,
+  "top_coefficients": [
+    {
+      "feature": "cat__employment_x_category_self_employed|investment",
+      "coefficient": -0.2886
+    },
+    {
+      "feature": "cat__employment_x_category_business_owner|investment",
+      "coefficient": 0.2693
+    },
+    {
+      "feature": "cat__employment_x_category_student|payments",
+      "coefficient": -0.2329
+    },
+    {
+      "feature": "cat__employment_x_category_business_owner|card",
+      "coefficient": 0.2177
+    },
+    {
+      "feature": "cat__employment_x_category_salary|card",
+      "coefficient": -0.1797
+    },
+    {
+      "feature": "cat__employment_x_category_business_owner|loan",
+      "coefficient": -0.1789
+    },
+    {
+      "feature": "cat__employment_x_category_student|savings",
+      "coefficient": 0.1766
+    },
+    {
+      "feature": "cat__employment_x_category_business_owner|business",
+      "coefficient": -0.1744
+    },
+    {
+      "feature": "cat__risk_fit_medium|high",
+      "coefficient": -0.1694
+    },
+    {
+      "feature": "cat__risk_fit_high|medium",
+      "coefficient": -0.1656
+    },
+    {
+      "feature": "cat__employment_x_category_business_owner|payments",
+      "coefficient": 0.1554
+    },
+    {
+      "feature": "cat__employment_x_category_salary|loan",
+      "coefficient": 0.1485
+    }
+  ],
+  "evaluation": {
+    "protocol": "temporal holdout: train on the earliest 80% of events, rank the full catalog for each application in the last 20%",
+    "k": 5,
+    "cutoff": "2025-10-14T13:21:19.800000+00:00",
+    "train_events": 6868,
+    "test_requests": 174,
+    "applied_products_that_were_ineligible": 0,
+    "mean_eligible_products_per_request": 18.48,
+    "strategies": {
+      "random_eligible": {
+        "recall@5": 0.2701,
+        "ndcg@5": 0.1372,
+        "coverage": 1.0,
+        "eligibility_violation_rate": 0.0,
+        "requests_with_violation": 0.0,
+        "empty_recommendation_rate": 0.0
+      },
+      "popularity_eligible": {
+        "recall@5": 0.2644,
+        "ndcg@5": 0.1448,
+        "coverage": 0.45,
+        "eligibility_violation_rate": 0.0,
+        "requests_with_violation": 0.0,
+        "empty_recommendation_rate": 0.0
+      },
+      "ranker_without_eligibility": {
+        "recall@5": 0.2644,
+        "ndcg@5": 0.1502,
+        "coverage": 1.0,
+        "eligibility_violation_rate": 0.054,
+        "requests_with_violation": 0.2299,
+        "empty_recommendation_rate": 0.0
+      },
+      "eligibility_then_ranking": {
+        "recall@5": 0.2701,
+        "ndcg@5": 0.1526,
+        "coverage": 1.0,
+        "eligibility_violation_rate": 0.0,
+        "requests_with_violation": 0.0,
+        "empty_recommendation_rate": 0.0
+      }
+    },
+    "eligibility_rate_by_risk_profile": {
+      "high": 0.9639,
+      "low": 0.8306,
+      "medium": 0.961
+    },
+    "eligibility_rate_by_income_quartile": {
+      "Q1 (lowest)": 0.8598,
+      "Q2": 0.9233,
+      "Q3": 0.945,
+      "Q4 (highest)": 0.953
+    }
+  }
+}

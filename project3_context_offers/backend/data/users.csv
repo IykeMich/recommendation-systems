@@ -1,0 +1,1001 @@
+user_id,segment,age_band,preferred_category,device_type,region
+R00001,fitness,55+,Baby Care,mobile,Port Harcourt
+R00002,professional,45-54,Toys & Games,tablet,Port Harcourt
+R00003,creator,18-24,Food & Beverage,tablet,Ibadan
+R00004,business,35-44,Travel,web,Abuja
+R00005,student,55+,Electronics,mobile,Ibadan
+R00006,family,18-24,Home Care,tablet,Enugu
+R00007,student,55+,Toys & Games,mobile,Lagos
+R00008,creator,25-34,Food & Beverage,tablet,Lagos
+R00009,business,45-54,Office & School,tablet,Ibadan
+R00010,creator,55+,Beauty,tablet,Enugu
+R00011,fitness,18-24,Food & Beverage,mobile,Ibadan
+R00012,student,55+,Food & Beverage,web,Abuja
+R00013,student,45-54,Food & Beverage,web,Abuja
+R00014,professional,55+,Appliances,mobile,Port Harcourt
+R00015,fitness,55+,Apparel & Footwear,web,Enugu
+R00016,business,25-34,Beauty,tablet,Port Harcourt
+R00017,creator,25-34,Office & School,web,Lagos
+R00018,professional,18-24,Electronics,tablet,Ibadan
+R00019,fitness,55+,Travel,tablet,Port Harcourt
+R00020,professional,35-44,Electronics,mobile,Abuja
+R00021,student,55+,Home Care,web,Abuja
+R00022,creator,25-34,Home & Kitchen,mobile,Abuja
+R00023,fitness,18-24,Apparel & Footwear,mobile,Lagos
+R00024,fitness,25-34,Food & Beverage,mobile,Abuja
+R00025,business,45-54,Electronics,tablet,Abuja
+R00026,business,55+,Office & School,tablet,Abuja
+R00027,business,25-34,Home & Furniture,tablet,Port Harcourt
+R00028,family,25-34,Home & Furniture,mobile,Abuja
+R00029,business,45-54,Beauty,tablet,Ibadan
+R00030,creator,25-34,Electronics,mobile,Port Harcourt
+R00031,student,18-24,Office & School,mobile,Port Harcourt
+R00032,creator,35-44,Appliances,tablet,Ibadan
+R00033,family,35-44,Home Care,web,Enugu
+R00034,family,45-54,Pet Care,web,Enugu
+R00035,student,45-54,Food & Beverage,mobile,Abuja
+R00036,student,18-24,Personal Care,mobile,Enugu
+R00037,professional,35-44,Apparel & Footwear,mobile,Lagos
+R00038,business,55+,Electronics,mobile,Lagos
+R00039,creator,25-34,Food & Beverage,web,Abuja
+R00040,student,35-44,Electronics,mobile,Lagos
+R00041,business,18-24,Apparel & Footwear,web,Lagos
+R00042,business,45-54,Electronics,web,Port Harcourt
+R00043,fitness,25-34,Apparel & Footwear,mobile,Lagos
+R00044,student,18-24,Office & School,mobile,Lagos
+R00045,creator,35-44,Apparel & Footwear,mobile,Port Harcourt
+R00046,fitness,35-44,Beauty,tablet,Enugu
+R00047,family,25-34,Electronics,tablet,Port Harcourt
+R00048,business,35-44,Toys & Games,tablet,Port Harcourt
+R00049,professional,25-34,Baby Care,tablet,Lagos
+R00050,fitness,35-44,Home Care,mobile,Lagos
+R00051,family,18-24,Food & Beverage,mobile,Enugu
+R00052,creator,18-24,Electronics,web,Lagos
+R00053,creator,18-24,Home Care,tablet,Port Harcourt
+R00054,creator,35-44,Personal Care,web,Enugu
+R00055,fitness,18-24,Toys & Games,tablet,Ibadan
+R00056,fitness,18-24,Beauty,web,Enugu
+R00057,student,25-34,Pet Care,tablet,Abuja
+R00058,business,45-54,Travel,mobile,Port Harcourt
+R00059,professional,55+,Electronics,tablet,Ibadan
+R00060,creator,45-54,Electronics,tablet,Abuja
+R00061,family,25-34,Food & Beverage,web,Lagos
+R00062,professional,25-34,Food & Beverage,web,Lagos
+R00063,family,45-54,Toys & Games,mobile,Ibadan
+R00064,professional,25-34,Home & Kitchen,mobile,Abuja
+R00065,student,18-24,Food & Beverage,web,Ibadan
+R00066,creator,18-24,Apparel & Footwear,mobile,Enugu
+R00067,student,18-24,Food & Beverage,tablet,Enugu
+R00068,family,35-44,Food & Beverage,tablet,Enugu
+R00069,creator,55+,Apparel & Footwear,mobile,Ibadan
+R00070,student,25-34,Food & Beverage,tablet,Abuja
+R00071,creator,25-34,Home Care,web,Enugu
+R00072,student,18-24,Apparel & Footwear,mobile,Port Harcourt
+R00073,business,55+,Electronics,tablet,Ibadan
+R00074,student,35-44,Electronics,web,Ibadan
+R00075,family,45-54,Home Care,mobile,Ibadan
+R00076,professional,55+,Apparel & Footwear,web,Abuja
+R00077,business,18-24,Pet Care,tablet,Abuja
+R00078,fitness,35-44,Food & Beverage,web,Enugu
+R00079,family,25-34,Appliances,tablet,Lagos
+R00080,fitness,55+,Food & Beverage,web,Lagos
+R00081,business,55+,Home & Furniture,mobile,Port Harcourt
+R00082,fitness,35-44,Home Care,tablet,Enugu
+R00083,family,25-34,Home Care,mobile,Ibadan
+R00084,family,45-54,Office & School,web,Abuja
+R00085,fitness,18-24,Pet Care,web,Enugu
+R00086,business,45-54,Electronics,mobile,Port Harcourt
+R00087,fitness,45-54,Food & Beverage,mobile,Enugu
+R00088,business,25-34,Office & School,web,Enugu
+R00089,family,25-34,Electronics,tablet,Ibadan
+R00090,family,35-44,Personal Care,mobile,Ibadan
+R00091,family,55+,Home Care,mobile,Lagos
+R00092,fitness,25-34,Apparel & Footwear,web,Lagos
+R00093,student,18-24,Home Care,mobile,Port Harcourt
+R00094,creator,55+,Electronics,mobile,Lagos
+R00095,fitness,45-54,Office & School,tablet,Port Harcourt
+R00096,fitness,25-34,Food & Beverage,tablet,Abuja
+R00097,creator,35-44,Electronics,mobile,Lagos
+R00098,creator,35-44,Home & Furniture,mobile,Ibadan
+R00099,professional,35-44,Electronics,mobile,Port Harcourt
+R00100,creator,25-34,Beauty,mobile,Enugu
+R00101,professional,55+,Travel,tablet,Enugu
+R00102,fitness,55+,Food & Beverage,tablet,Lagos
+R00103,business,25-34,Home Care,tablet,Lagos
+R00104,professional,55+,Appliances,tablet,Abuja
+R00105,family,18-24,Electronics,tablet,Lagos
+R00106,creator,55+,Personal Care,tablet,Ibadan
+R00107,professional,25-34,Apparel & Footwear,web,Abuja
+R00108,creator,45-54,Beauty,mobile,Port Harcourt
+R00109,family,55+,Food & Beverage,mobile,Enugu
+R00110,professional,18-24,Electronics,mobile,Enugu
+R00111,family,18-24,Personal Care,mobile,Abuja
+R00112,student,25-34,Home Care,mobile,Enugu
+R00113,family,55+,Apparel & Footwear,tablet,Abuja
+R00114,professional,25-34,Electronics,mobile,Lagos
+R00115,creator,55+,Pet Care,mobile,Ibadan
+R00116,student,35-44,Apparel & Footwear,tablet,Abuja
+R00117,fitness,35-44,Apparel & Footwear,tablet,Lagos
+R00118,fitness,18-24,Home & Furniture,mobile,Abuja
+R00119,business,55+,Electronics,tablet,Abuja
+R00120,business,25-34,Electronics,web,Lagos
+R00121,fitness,18-24,Pet Care,mobile,Port Harcourt
+R00122,business,45-54,Personal Care,web,Abuja
+R00123,family,35-44,Food & Beverage,web,Enugu
+R00124,creator,55+,Beauty,tablet,Abuja
+R00125,business,18-24,Home & Furniture,web,Port Harcourt
+R00126,family,18-24,Apparel & Footwear,mobile,Ibadan
+R00127,family,45-54,Toys & Games,tablet,Ibadan
+R00128,professional,25-34,Home & Furniture,tablet,Abuja
+R00129,student,45-54,Food & Beverage,tablet,Enugu
+R00130,student,25-34,Food & Beverage,tablet,Abuja
+R00131,professional,18-24,Electronics,web,Ibadan
+R00132,fitness,25-34,Home & Kitchen,tablet,Port Harcourt
+R00133,fitness,45-54,Apparel & Footwear,mobile,Ibadan
+R00134,family,35-44,Home Care,tablet,Enugu
+R00135,family,25-34,Food & Beverage,mobile,Ibadan
+R00136,business,55+,Food & Beverage,web,Abuja
+R00137,student,55+,Beauty,mobile,Enugu
+R00138,fitness,35-44,Personal Care,mobile,Port Harcourt
+R00139,fitness,55+,Apparel & Footwear,web,Ibadan
+R00140,fitness,35-44,Personal Care,mobile,Ibadan
+R00141,family,35-44,Home & Furniture,mobile,Abuja
+R00142,student,45-54,Electronics,web,Abuja
+R00143,fitness,35-44,Food & Beverage,web,Lagos
+R00144,student,45-54,Personal Care,web,Ibadan
+R00145,student,18-24,Electronics,web,Lagos
+R00146,creator,45-54,Office & School,web,Port Harcourt
+R00147,business,45-54,Electronics,web,Port Harcourt
+R00148,professional,18-24,Electronics,mobile,Ibadan
+R00149,business,55+,Electronics,web,Abuja
+R00150,family,45-54,Baby Care,tablet,Ibadan
+R00151,professional,25-34,Appliances,mobile,Port Harcourt
+R00152,professional,55+,Apparel & Footwear,tablet,Ibadan
+R00153,family,18-24,Personal Care,web,Enugu
+R00154,business,45-54,Personal Care,mobile,Enugu
+R00155,business,55+,Electronics,web,Abuja
+R00156,professional,35-44,Appliances,web,Port Harcourt
+R00157,professional,25-34,Home & Furniture,web,Enugu
+R00158,student,55+,Baby Care,mobile,Ibadan
+R00159,business,45-54,Office & School,mobile,Abuja
+R00160,family,35-44,Food & Beverage,tablet,Ibadan
+R00161,family,25-34,Electronics,tablet,Abuja
+R00162,fitness,35-44,Food & Beverage,tablet,Enugu
+R00163,student,55+,Food & Beverage,tablet,Lagos
+R00164,creator,25-34,Appliances,mobile,Enugu
+R00165,student,18-24,Appliances,tablet,Lagos
+R00166,creator,25-34,Travel,mobile,Lagos
+R00167,business,18-24,Apparel & Footwear,tablet,Ibadan
+R00168,business,55+,Travel,tablet,Lagos
+R00169,business,18-24,Office & School,mobile,Port Harcourt
+R00170,fitness,55+,Personal Care,tablet,Lagos
+R00171,professional,55+,Electronics,mobile,Abuja
+R00172,family,35-44,Home Care,mobile,Ibadan
+R00173,professional,45-54,Travel,mobile,Enugu
+R00174,creator,35-44,Electronics,web,Ibadan
+R00175,creator,55+,Electronics,mobile,Abuja
+R00176,student,35-44,Food & Beverage,tablet,Ibadan
+R00177,professional,25-34,Office & School,web,Enugu
+R00178,business,55+,Apparel & Footwear,tablet,Port Harcourt
+R00179,student,45-54,Toys & Games,mobile,Abuja
+R00180,student,55+,Food & Beverage,tablet,Enugu
+R00181,business,18-24,Electronics,mobile,Abuja
+R00182,student,18-24,Food & Beverage,mobile,Lagos
+R00183,creator,35-44,Beauty,mobile,Lagos
+R00184,fitness,45-54,Appliances,tablet,Lagos
+R00185,creator,18-24,Office & School,mobile,Enugu
+R00186,family,35-44,Pet Care,mobile,Lagos
+R00187,fitness,25-34,Home Care,tablet,Port Harcourt
+R00188,student,45-54,Apparel & Footwear,tablet,Ibadan
+R00189,professional,35-44,Apparel & Footwear,tablet,Port Harcourt
+R00190,family,25-34,Toys & Games,web,Lagos
+R00191,professional,18-24,Electronics,mobile,Lagos
+R00192,creator,55+,Apparel & Footwear,web,Enugu
+R00193,business,18-24,Appliances,mobile,Abuja
+R00194,business,25-34,Home & Furniture,web,Enugu
+R00195,business,55+,Electronics,tablet,Port Harcourt
+R00196,fitness,45-54,Electronics,mobile,Ibadan
+R00197,creator,35-44,Personal Care,tablet,Enugu
+R00198,fitness,45-54,Food & Beverage,tablet,Lagos
+R00199,business,45-54,Personal Care,tablet,Port Harcourt
+R00200,student,35-44,Beauty,mobile,Enugu
+R00201,fitness,35-44,Apparel & Footwear,web,Port Harcourt
+R00202,creator,35-44,Electronics,tablet,Abuja
+R00203,family,45-54,Food & Beverage,tablet,Lagos
+R00204,creator,25-34,Pet Care,web,Ibadan
+R00205,professional,18-24,Home & Kitchen,mobile,Abuja
+R00206,professional,35-44,Baby Care,tablet,Lagos
+R00207,fitness,25-34,Personal Care,tablet,Lagos
+R00208,student,45-54,Food & Beverage,web,Lagos
+R00209,fitness,25-34,Apparel & Footwear,tablet,Lagos
+R00210,creator,18-24,Office & School,mobile,Port Harcourt
+R00211,fitness,25-34,Food & Beverage,tablet,Port Harcourt
+R00212,fitness,25-34,Personal Care,tablet,Port Harcourt
+R00213,professional,55+,Baby Care,web,Lagos
+R00214,professional,18-24,Electronics,tablet,Ibadan
+R00215,fitness,18-24,Toys & Games,web,Ibadan
+R00216,creator,55+,Apparel & Footwear,mobile,Enugu
+R00217,fitness,18-24,Apparel & Footwear,mobile,Port Harcourt
+R00218,fitness,55+,Personal Care,web,Enugu
+R00219,business,18-24,Travel,mobile,Abuja
+R00220,family,35-44,Baby Care,web,Port Harcourt
+R00221,professional,25-34,Beauty,tablet,Lagos
+R00222,family,25-34,Food & Beverage,web,Lagos
+R00223,professional,55+,Beauty,tablet,Port Harcourt
+R00224,professional,35-44,Apparel & Footwear,web,Ibadan
+R00225,fitness,55+,Home & Kitchen,web,Port Harcourt
+R00226,professional,25-34,Personal Care,web,Abuja
+R00227,fitness,35-44,Personal Care,tablet,Abuja
+R00228,fitness,25-34,Apparel & Footwear,mobile,Port Harcourt
+R00229,family,18-24,Food & Beverage,tablet,Ibadan
+R00230,business,25-34,Electronics,web,Abuja
+R00231,professional,45-54,Electronics,tablet,Enugu
+R00232,business,55+,Beauty,mobile,Ibadan
+R00233,business,18-24,Baby Care,web,Port Harcourt
+R00234,creator,55+,Personal Care,web,Lagos
+R00235,family,18-24,Appliances,web,Abuja
+R00236,creator,18-24,Beauty,mobile,Enugu
+R00237,student,35-44,Apparel & Footwear,tablet,Lagos
+R00238,family,45-54,Apparel & Footwear,web,Enugu
+R00239,business,25-34,Home Care,mobile,Port Harcourt
+R00240,professional,18-24,Office & School,mobile,Abuja
+R00241,student,35-44,Home & Furniture,mobile,Enugu
+R00242,professional,55+,Electronics,web,Abuja
+R00243,business,55+,Apparel & Footwear,mobile,Lagos
+R00244,fitness,55+,Apparel & Footwear,mobile,Abuja
+R00245,family,55+,Home Care,web,Abuja
+R00246,business,25-34,Apparel & Footwear,mobile,Lagos
+R00247,business,45-54,Home & Kitchen,mobile,Port Harcourt
+R00248,professional,25-34,Home & Kitchen,mobile,Lagos
+R00249,business,35-44,Personal Care,tablet,Ibadan
+R00250,family,18-24,Appliances,mobile,Port Harcourt
+R00251,professional,45-54,Food & Beverage,tablet,Abuja
+R00252,business,35-44,Electronics,tablet,Lagos
+R00253,family,18-24,Apparel & Footwear,mobile,Lagos
+R00254,family,55+,Personal Care,mobile,Enugu
+R00255,fitness,55+,Food & Beverage,tablet,Ibadan
+R00256,business,55+,Appliances,tablet,Abuja
+R00257,creator,35-44,Food & Beverage,mobile,Abuja
+R00258,fitness,55+,Home & Furniture,tablet,Lagos
+R00259,student,45-54,Electronics,tablet,Enugu
+R00260,fitness,18-24,Home & Kitchen,web,Enugu
+R00261,business,18-24,Food & Beverage,mobile,Enugu
+R00262,business,18-24,Home Care,mobile,Enugu
+R00263,business,35-44,Apparel & Footwear,web,Abuja
+R00264,business,18-24,Travel,mobile,Port Harcourt
+R00265,professional,18-24,Electronics,mobile,Enugu
+R00266,student,18-24,Office & School,mobile,Ibadan
+R00267,family,55+,Baby Care,tablet,Enugu
+R00268,fitness,55+,Food & Beverage,web,Ibadan
+R00269,student,35-44,Apparel & Footwear,web,Enugu
+R00270,student,55+,Home Care,web,Abuja
+R00271,fitness,35-44,Apparel & Footwear,mobile,Port Harcourt
+R00272,student,25-34,Food & Beverage,web,Lagos
+R00273,family,45-54,Personal Care,mobile,Enugu
+R00274,business,45-54,Food & Beverage,mobile,Lagos
+R00275,business,25-34,Travel,web,Port Harcourt
+R00276,fitness,35-44,Home & Kitchen,web,Enugu
+R00277,creator,25-34,Food & Beverage,tablet,Lagos
+R00278,business,18-24,Electronics,mobile,Abuja
+R00279,fitness,55+,Personal Care,tablet,Ibadan
+R00280,professional,25-34,Pet Care,web,Ibadan
+R00281,family,55+,Baby Care,mobile,Port Harcourt
+R00282,creator,18-24,Electronics,tablet,Abuja
+R00283,family,55+,Apparel & Footwear,mobile,Ibadan
+R00284,creator,35-44,Electronics,tablet,Port Harcourt
+R00285,student,45-54,Personal Care,mobile,Abuja
+R00286,professional,25-34,Appliances,web,Lagos
+R00287,professional,55+,Electronics,web,Lagos
+R00288,family,35-44,Home Care,mobile,Abuja
+R00289,business,35-44,Travel,mobile,Abuja
+R00290,family,35-44,Personal Care,web,Lagos
+R00291,professional,35-44,Electronics,web,Ibadan
+R00292,family,18-24,Baby Care,mobile,Abuja
+R00293,fitness,55+,Apparel & Footwear,web,Lagos
+R00294,professional,55+,Appliances,web,Ibadan
+R00295,business,35-44,Appliances,mobile,Enugu
+R00296,professional,45-54,Electronics,tablet,Ibadan
+R00297,professional,45-54,Travel,web,Port Harcourt
+R00298,family,35-44,Pet Care,tablet,Abuja
+R00299,creator,45-54,Apparel & Footwear,tablet,Port Harcourt
+R00300,family,45-54,Food & Beverage,tablet,Lagos
+R00301,fitness,45-54,Home Care,mobile,Enugu
+R00302,professional,25-34,Electronics,mobile,Enugu
+R00303,professional,18-24,Electronics,tablet,Port Harcourt
+R00304,student,35-44,Office & School,web,Ibadan
+R00305,student,45-54,Food & Beverage,web,Port Harcourt
+R00306,professional,35-44,Electronics,tablet,Port Harcourt
+R00307,student,25-34,Food & Beverage,web,Abuja
+R00308,professional,45-54,Food & Beverage,tablet,Abuja
+R00309,student,45-54,Beauty,mobile,Enugu
+R00310,student,35-44,Toys & Games,mobile,Port Harcourt
+R00311,fitness,25-34,Food & Beverage,mobile,Abuja
+R00312,fitness,25-34,Food & Beverage,web,Ibadan
+R00313,student,25-34,Electronics,tablet,Lagos
+R00314,creator,35-44,Electronics,web,Port Harcourt
+R00315,business,25-34,Office & School,mobile,Enugu
+R00316,fitness,35-44,Personal Care,mobile,Enugu
+R00317,family,55+,Home Care,tablet,Enugu
+R00318,professional,55+,Pet Care,tablet,Abuja
+R00319,professional,18-24,Food & Beverage,tablet,Abuja
+R00320,fitness,35-44,Apparel & Footwear,tablet,Abuja
+R00321,professional,35-44,Home & Kitchen,web,Lagos
+R00322,professional,25-34,Pet Care,mobile,Enugu
+R00323,professional,55+,Home & Kitchen,mobile,Enugu
+R00324,creator,25-34,Apparel & Footwear,web,Port Harcourt
+R00325,professional,45-54,Baby Care,tablet,Port Harcourt
+R00326,business,35-44,Electronics,mobile,Lagos
+R00327,student,18-24,Food & Beverage,tablet,Enugu
+R00328,professional,35-44,Home & Kitchen,mobile,Ibadan
+R00329,professional,18-24,Electronics,mobile,Enugu
+R00330,business,25-34,Home & Furniture,web,Lagos
+R00331,student,45-54,Toys & Games,tablet,Port Harcourt
+R00332,business,25-34,Travel,tablet,Port Harcourt
+R00333,creator,35-44,Apparel & Footwear,web,Port Harcourt
+R00334,professional,45-54,Office & School,tablet,Port Harcourt
+R00335,professional,55+,Electronics,web,Lagos
+R00336,family,35-44,Travel,web,Lagos
+R00337,student,25-34,Apparel & Footwear,web,Enugu
+R00338,professional,18-24,Apparel & Footwear,tablet,Ibadan
+R00339,creator,25-34,Electronics,mobile,Lagos
+R00340,family,35-44,Home Care,web,Enugu
+R00341,family,45-54,Toys & Games,mobile,Enugu
+R00342,creator,35-44,Apparel & Footwear,mobile,Enugu
+R00343,creator,25-34,Beauty,mobile,Ibadan
+R00344,business,18-24,Personal Care,mobile,Port Harcourt
+R00345,student,18-24,Apparel & Footwear,mobile,Port Harcourt
+R00346,student,45-54,Pet Care,tablet,Enugu
+R00347,family,25-34,Electronics,mobile,Port Harcourt
+R00348,student,18-24,Home & Kitchen,tablet,Abuja
+R00349,business,25-34,Home & Kitchen,tablet,Port Harcourt
+R00350,student,18-24,Food & Beverage,web,Ibadan
+R00351,fitness,45-54,Food & Beverage,tablet,Enugu
+R00352,family,55+,Pet Care,mobile,Port Harcourt
+R00353,family,18-24,Pet Care,tablet,Port Harcourt
+R00354,creator,45-54,Beauty,tablet,Lagos
+R00355,creator,45-54,Home & Kitchen,mobile,Ibadan
+R00356,business,35-44,Home & Furniture,mobile,Abuja
+R00357,business,45-54,Home & Kitchen,mobile,Ibadan
+R00358,family,25-34,Food & Beverage,web,Port Harcourt
+R00359,student,35-44,Apparel & Footwear,tablet,Abuja
+R00360,business,25-34,Office & School,web,Enugu
+R00361,professional,25-34,Toys & Games,mobile,Ibadan
+R00362,student,35-44,Food & Beverage,tablet,Ibadan
+R00363,fitness,55+,Home Care,web,Enugu
+R00364,creator,55+,Apparel & Footwear,tablet,Ibadan
+R00365,family,35-44,Travel,mobile,Lagos
+R00366,family,35-44,Pet Care,mobile,Port Harcourt
+R00367,family,45-54,Apparel & Footwear,tablet,Enugu
+R00368,fitness,55+,Electronics,mobile,Ibadan
+R00369,student,25-34,Apparel & Footwear,mobile,Ibadan
+R00370,business,55+,Food & Beverage,tablet,Port Harcourt
+R00371,business,45-54,Home Care,tablet,Abuja
+R00372,fitness,18-24,Apparel & Footwear,web,Enugu
+R00373,professional,18-24,Apparel & Footwear,tablet,Enugu
+R00374,business,18-24,Office & School,tablet,Port Harcourt
+R00375,family,55+,Toys & Games,web,Enugu
+R00376,student,25-34,Apparel & Footwear,tablet,Ibadan
+R00377,professional,25-34,Electronics,tablet,Lagos
+R00378,fitness,55+,Home Care,mobile,Ibadan
+R00379,fitness,45-54,Apparel & Footwear,mobile,Abuja
+R00380,creator,35-44,Home Care,mobile,Port Harcourt
+R00381,creator,55+,Appliances,mobile,Port Harcourt
+R00382,business,35-44,Electronics,mobile,Enugu
+R00383,student,55+,Pet Care,web,Port Harcourt
+R00384,professional,18-24,Electronics,mobile,Lagos
+R00385,student,18-24,Food & Beverage,mobile,Enugu
+R00386,creator,18-24,Electronics,tablet,Enugu
+R00387,professional,35-44,Office & School,mobile,Ibadan
+R00388,fitness,55+,Personal Care,tablet,Abuja
+R00389,business,45-54,Personal Care,web,Port Harcourt
+R00390,student,35-44,Food & Beverage,tablet,Ibadan
+R00391,professional,25-34,Electronics,web,Port Harcourt
+R00392,professional,55+,Electronics,web,Ibadan
+R00393,family,55+,Food & Beverage,web,Ibadan
+R00394,student,25-34,Food & Beverage,tablet,Ibadan
+R00395,family,55+,Electronics,web,Abuja
+R00396,student,25-34,Apparel & Footwear,mobile,Ibadan
+R00397,fitness,45-54,Personal Care,web,Lagos
+R00398,student,45-54,Personal Care,tablet,Ibadan
+R00399,family,18-24,Personal Care,mobile,Abuja
+R00400,fitness,18-24,Food & Beverage,mobile,Abuja
+R00401,professional,45-54,Electronics,web,Enugu
+R00402,fitness,35-44,Home Care,web,Abuja
+R00403,family,35-44,Beauty,web,Enugu
+R00404,business,35-44,Home Care,tablet,Ibadan
+R00405,business,45-54,Food & Beverage,tablet,Abuja
+R00406,professional,35-44,Home & Furniture,tablet,Abuja
+R00407,family,35-44,Baby Care,tablet,Abuja
+R00408,family,18-24,Food & Beverage,mobile,Lagos
+R00409,family,18-24,Personal Care,tablet,Ibadan
+R00410,family,45-54,Food & Beverage,mobile,Abuja
+R00411,business,18-24,Baby Care,web,Lagos
+R00412,fitness,45-54,Electronics,tablet,Ibadan
+R00413,student,35-44,Beauty,mobile,Port Harcourt
+R00414,student,55+,Apparel & Footwear,mobile,Ibadan
+R00415,fitness,55+,Travel,web,Port Harcourt
+R00416,professional,25-34,Electronics,web,Port Harcourt
+R00417,family,35-44,Travel,mobile,Enugu
+R00418,creator,35-44,Home Care,web,Enugu
+R00419,fitness,55+,Food & Beverage,tablet,Abuja
+R00420,professional,55+,Electronics,web,Abuja
+R00421,student,55+,Baby Care,web,Enugu
+R00422,family,45-54,Electronics,mobile,Port Harcourt
+R00423,family,35-44,Home Care,mobile,Abuja
+R00424,family,45-54,Personal Care,web,Ibadan
+R00425,professional,25-34,Electronics,tablet,Lagos
+R00426,fitness,18-24,Toys & Games,web,Abuja
+R00427,creator,25-34,Beauty,web,Abuja
+R00428,student,18-24,Electronics,mobile,Lagos
+R00429,student,45-54,Electronics,web,Lagos
+R00430,creator,18-24,Personal Care,web,Lagos
+R00431,creator,55+,Electronics,tablet,Ibadan
+R00432,student,35-44,Apparel & Footwear,tablet,Lagos
+R00433,fitness,55+,Office & School,mobile,Lagos
+R00434,family,18-24,Home & Furniture,tablet,Abuja
+R00435,professional,18-24,Electronics,web,Ibadan
+R00436,creator,45-54,Personal Care,web,Enugu
+R00437,business,35-44,Electronics,web,Abuja
+R00438,professional,25-34,Electronics,web,Lagos
+R00439,creator,25-34,Beauty,tablet,Lagos
+R00440,student,35-44,Personal Care,mobile,Ibadan
+R00441,family,45-54,Pet Care,mobile,Ibadan
+R00442,creator,18-24,Apparel & Footwear,tablet,Ibadan
+R00443,professional,25-34,Food & Beverage,web,Port Harcourt
+R00444,family,35-44,Personal Care,mobile,Lagos
+R00445,creator,55+,Home & Kitchen,tablet,Port Harcourt
+R00446,family,55+,Food & Beverage,mobile,Enugu
+R00447,family,55+,Food & Beverage,web,Ibadan
+R00448,professional,55+,Home & Furniture,mobile,Enugu
+R00449,student,35-44,Food & Beverage,mobile,Enugu
+R00450,creator,45-54,Home Care,tablet,Abuja
+R00451,family,35-44,Food & Beverage,tablet,Ibadan
+R00452,professional,18-24,Toys & Games,mobile,Enugu
+R00453,family,35-44,Home Care,tablet,Port Harcourt
+R00454,business,55+,Office & School,mobile,Port Harcourt
+R00455,business,18-24,Electronics,web,Abuja
+R00456,family,55+,Toys & Games,mobile,Port Harcourt
+R00457,business,55+,Apparel & Footwear,mobile,Enugu
+R00458,professional,25-34,Appliances,tablet,Enugu
+R00459,creator,25-34,Beauty,tablet,Enugu
+R00460,family,18-24,Food & Beverage,web,Ibadan
+R00461,business,25-34,Food & Beverage,tablet,Abuja
+R00462,professional,45-54,Electronics,tablet,Port Harcourt
+R00463,creator,55+,Apparel & Footwear,mobile,Enugu
+R00464,creator,35-44,Home & Furniture,mobile,Ibadan
+R00465,student,18-24,Office & School,web,Abuja
+R00466,student,18-24,Food & Beverage,mobile,Ibadan
+R00467,creator,18-24,Electronics,tablet,Lagos
+R00468,student,35-44,Electronics,tablet,Abuja
+R00469,student,25-34,Food & Beverage,web,Ibadan
+R00470,student,25-34,Personal Care,web,Lagos
+R00471,fitness,18-24,Food & Beverage,tablet,Abuja
+R00472,student,25-34,Toys & Games,mobile,Port Harcourt
+R00473,business,35-44,Beauty,mobile,Lagos
+R00474,family,35-44,Apparel & Footwear,web,Abuja
+R00475,professional,18-24,Office & School,web,Enugu
+R00476,student,18-24,Apparel & Footwear,mobile,Ibadan
+R00477,business,25-34,Office & School,tablet,Ibadan
+R00478,student,55+,Baby Care,web,Lagos
+R00479,fitness,35-44,Personal Care,tablet,Lagos
+R00480,professional,25-34,Travel,mobile,Lagos
+R00481,creator,35-44,Toys & Games,tablet,Port Harcourt
+R00482,creator,35-44,Baby Care,mobile,Abuja
+R00483,creator,18-24,Food & Beverage,web,Enugu
+R00484,business,25-34,Personal Care,mobile,Lagos
+R00485,family,35-44,Baby Care,web,Abuja
+R00486,business,55+,Electronics,web,Abuja
+R00487,professional,55+,Personal Care,mobile,Port Harcourt
+R00488,fitness,55+,Apparel & Footwear,mobile,Abuja
+R00489,business,55+,Electronics,web,Port Harcourt
+R00490,student,18-24,Electronics,tablet,Port Harcourt
+R00491,professional,45-54,Electronics,tablet,Ibadan
+R00492,fitness,25-34,Apparel & Footwear,tablet,Port Harcourt
+R00493,student,45-54,Apparel & Footwear,tablet,Port Harcourt
+R00494,creator,55+,Personal Care,mobile,Port Harcourt
+R00495,creator,55+,Apparel & Footwear,web,Lagos
+R00496,family,35-44,Food & Beverage,web,Port Harcourt
+R00497,professional,45-54,Electronics,mobile,Enugu
+R00498,business,55+,Beauty,mobile,Ibadan
+R00499,fitness,45-54,Travel,tablet,Port Harcourt
+R00500,family,18-24,Home Care,web,Abuja
+R00501,professional,18-24,Appliances,tablet,Lagos
+R00502,creator,55+,Electronics,mobile,Lagos
+R00503,business,18-24,Electronics,tablet,Port Harcourt
+R00504,professional,18-24,Electronics,mobile,Lagos
+R00505,business,25-34,Apparel & Footwear,web,Port Harcourt
+R00506,fitness,25-34,Food & Beverage,tablet,Lagos
+R00507,student,25-34,Beauty,tablet,Enugu
+R00508,fitness,55+,Apparel & Footwear,web,Abuja
+R00509,business,25-34,Office & School,mobile,Ibadan
+R00510,professional,55+,Home & Kitchen,mobile,Abuja
+R00511,creator,45-54,Appliances,web,Port Harcourt
+R00512,creator,55+,Electronics,web,Enugu
+R00513,fitness,45-54,Food & Beverage,mobile,Ibadan
+R00514,creator,18-24,Beauty,web,Ibadan
+R00515,professional,45-54,Home & Kitchen,tablet,Lagos
+R00516,professional,25-34,Apparel & Footwear,web,Lagos
+R00517,family,35-44,Electronics,web,Port Harcourt
+R00518,business,35-44,Home & Furniture,mobile,Port Harcourt
+R00519,business,55+,Apparel & Footwear,web,Port Harcourt
+R00520,professional,35-44,Apparel & Footwear,tablet,Port Harcourt
+R00521,fitness,35-44,Food & Beverage,web,Port Harcourt
+R00522,family,35-44,Personal Care,tablet,Enugu
+R00523,business,25-34,Travel,mobile,Ibadan
+R00524,fitness,55+,Toys & Games,mobile,Lagos
+R00525,business,35-44,Electronics,mobile,Enugu
+R00526,student,35-44,Electronics,mobile,Enugu
+R00527,business,18-24,Home Care,tablet,Ibadan
+R00528,student,18-24,Apparel & Footwear,mobile,Enugu
+R00529,creator,18-24,Apparel & Footwear,mobile,Port Harcourt
+R00530,creator,45-54,Electronics,tablet,Enugu
+R00531,student,55+,Food & Beverage,mobile,Port Harcourt
+R00532,creator,35-44,Beauty,tablet,Abuja
+R00533,fitness,18-24,Food & Beverage,web,Enugu
+R00534,professional,35-44,Home & Kitchen,mobile,Abuja
+R00535,professional,55+,Food & Beverage,web,Lagos
+R00536,family,55+,Baby Care,tablet,Port Harcourt
+R00537,student,25-34,Apparel & Footwear,web,Abuja
+R00538,student,18-24,Office & School,web,Port Harcourt
+R00539,fitness,45-54,Food & Beverage,tablet,Lagos
+R00540,creator,45-54,Apparel & Footwear,tablet,Ibadan
+R00541,fitness,18-24,Home & Furniture,web,Ibadan
+R00542,fitness,55+,Food & Beverage,web,Port Harcourt
+R00543,business,25-34,Home Care,tablet,Port Harcourt
+R00544,business,18-24,Apparel & Footwear,tablet,Port Harcourt
+R00545,family,25-34,Food & Beverage,web,Port Harcourt
+R00546,student,45-54,Electronics,mobile,Port Harcourt
+R00547,professional,35-44,Office & School,mobile,Port Harcourt
+R00548,student,35-44,Home & Furniture,mobile,Abuja
+R00549,creator,55+,Appliances,tablet,Lagos
+R00550,professional,35-44,Appliances,tablet,Enugu
+R00551,professional,35-44,Food & Beverage,tablet,Abuja
+R00552,creator,18-24,Beauty,mobile,Abuja
+R00553,creator,45-54,Office & School,tablet,Ibadan
+R00554,business,45-54,Office & School,tablet,Enugu
+R00555,family,55+,Food & Beverage,mobile,Abuja
+R00556,professional,25-34,Home & Kitchen,web,Ibadan
+R00557,fitness,35-44,Food & Beverage,web,Port Harcourt
+R00558,professional,45-54,Electronics,web,Lagos
+R00559,fitness,55+,Beauty,mobile,Lagos
+R00560,student,25-34,Baby Care,mobile,Ibadan
+R00561,family,45-54,Electronics,tablet,Port Harcourt
+R00562,professional,18-24,Toys & Games,tablet,Lagos
+R00563,business,18-24,Office & School,web,Enugu
+R00564,student,45-54,Apparel & Footwear,mobile,Abuja
+R00565,business,35-44,Electronics,web,Abuja
+R00566,family,35-44,Home Care,tablet,Enugu
+R00567,family,55+,Food & Beverage,tablet,Port Harcourt
+R00568,creator,18-24,Apparel & Footwear,mobile,Port Harcourt
+R00569,student,18-24,Beauty,web,Abuja
+R00570,family,55+,Food & Beverage,web,Lagos
+R00571,creator,35-44,Food & Beverage,mobile,Port Harcourt
+R00572,fitness,55+,Food & Beverage,mobile,Lagos
+R00573,creator,35-44,Apparel & Footwear,web,Abuja
+R00574,creator,25-34,Toys & Games,mobile,Lagos
+R00575,professional,35-44,Appliances,mobile,Enugu
+R00576,professional,25-34,Beauty,tablet,Lagos
+R00577,student,18-24,Food & Beverage,tablet,Ibadan
+R00578,business,25-34,Office & School,mobile,Lagos
+R00579,business,55+,Home & Kitchen,mobile,Lagos
+R00580,student,18-24,Food & Beverage,tablet,Enugu
+R00581,professional,25-34,Home Care,web,Abuja
+R00582,student,45-54,Apparel & Footwear,mobile,Abuja
+R00583,business,55+,Electronics,tablet,Enugu
+R00584,business,18-24,Personal Care,mobile,Enugu
+R00585,creator,45-54,Beauty,web,Port Harcourt
+R00586,professional,35-44,Apparel & Footwear,tablet,Abuja
+R00587,student,35-44,Electronics,web,Port Harcourt
+R00588,professional,25-34,Apparel & Footwear,mobile,Lagos
+R00589,professional,55+,Beauty,tablet,Lagos
+R00590,fitness,45-54,Toys & Games,mobile,Port Harcourt
+R00591,fitness,18-24,Food & Beverage,mobile,Lagos
+R00592,student,45-54,Travel,mobile,Lagos
+R00593,fitness,45-54,Food & Beverage,web,Abuja
+R00594,fitness,45-54,Apparel & Footwear,tablet,Lagos
+R00595,student,35-44,Travel,web,Port Harcourt
+R00596,fitness,18-24,Food & Beverage,tablet,Abuja
+R00597,family,35-44,Office & School,web,Ibadan
+R00598,fitness,55+,Appliances,mobile,Port Harcourt
+R00599,family,35-44,Electronics,web,Port Harcourt
+R00600,family,55+,Appliances,web,Enugu
+R00601,fitness,35-44,Personal Care,web,Abuja
+R00602,fitness,18-24,Food & Beverage,web,Abuja
+R00603,creator,18-24,Home & Kitchen,web,Lagos
+R00604,creator,18-24,Beauty,web,Lagos
+R00605,creator,55+,Beauty,mobile,Lagos
+R00606,creator,45-54,Home Care,mobile,Ibadan
+R00607,creator,55+,Beauty,web,Abuja
+R00608,fitness,25-34,Personal Care,mobile,Enugu
+R00609,creator,35-44,Home Care,tablet,Abuja
+R00610,professional,45-54,Travel,tablet,Lagos
+R00611,creator,25-34,Apparel & Footwear,tablet,Abuja
+R00612,business,35-44,Food & Beverage,tablet,Abuja
+R00613,business,35-44,Beauty,tablet,Ibadan
+R00614,family,45-54,Beauty,mobile,Ibadan
+R00615,professional,45-54,Home Care,mobile,Ibadan
+R00616,professional,18-24,Electronics,web,Abuja
+R00617,business,55+,Toys & Games,mobile,Lagos
+R00618,fitness,35-44,Food & Beverage,mobile,Ibadan
+R00619,business,55+,Beauty,web,Abuja
+R00620,student,25-34,Apparel & Footwear,web,Enugu
+R00621,creator,45-54,Apparel & Footwear,mobile,Port Harcourt
+R00622,student,18-24,Food & Beverage,tablet,Lagos
+R00623,creator,25-34,Home & Furniture,tablet,Abuja
+R00624,business,25-34,Electronics,mobile,Port Harcourt
+R00625,creator,55+,Apparel & Footwear,web,Ibadan
+R00626,professional,55+,Electronics,web,Ibadan
+R00627,business,55+,Apparel & Footwear,mobile,Lagos
+R00628,business,55+,Home & Furniture,tablet,Abuja
+R00629,business,35-44,Electronics,web,Enugu
+R00630,professional,35-44,Food & Beverage,tablet,Ibadan
+R00631,professional,55+,Home & Kitchen,web,Port Harcourt
+R00632,business,18-24,Baby Care,tablet,Enugu
+R00633,creator,35-44,Home Care,web,Abuja
+R00634,professional,35-44,Electronics,mobile,Lagos
+R00635,professional,25-34,Home & Kitchen,tablet,Lagos
+R00636,creator,25-34,Personal Care,web,Port Harcourt
+R00637,fitness,18-24,Personal Care,web,Port Harcourt
+R00638,professional,45-54,Home & Furniture,tablet,Lagos
+R00639,business,55+,Home & Furniture,web,Enugu
+R00640,student,45-54,Apparel & Footwear,tablet,Ibadan
+R00641,family,45-54,Food & Beverage,mobile,Enugu
+R00642,business,35-44,Office & School,mobile,Port Harcourt
+R00643,student,18-24,Apparel & Footwear,mobile,Abuja
+R00644,creator,35-44,Apparel & Footwear,web,Port Harcourt
+R00645,creator,35-44,Apparel & Footwear,mobile,Enugu
+R00646,fitness,18-24,Electronics,web,Port Harcourt
+R00647,family,35-44,Home Care,mobile,Ibadan
+R00648,professional,55+,Electronics,tablet,Ibadan
+R00649,business,18-24,Electronics,mobile,Abuja
+R00650,business,18-24,Appliances,tablet,Ibadan
+R00651,creator,45-54,Apparel & Footwear,web,Ibadan
+R00652,student,25-34,Food & Beverage,web,Lagos
+R00653,fitness,45-54,Travel,tablet,Lagos
+R00654,family,35-44,Toys & Games,tablet,Enugu
+R00655,fitness,35-44,Personal Care,mobile,Ibadan
+R00656,professional,55+,Electronics,mobile,Enugu
+R00657,fitness,18-24,Toys & Games,tablet,Lagos
+R00658,professional,18-24,Food & Beverage,tablet,Abuja
+R00659,business,25-34,Electronics,mobile,Abuja
+R00660,creator,35-44,Beauty,tablet,Enugu
+R00661,professional,45-54,Electronics,web,Port Harcourt
+R00662,professional,55+,Food & Beverage,tablet,Abuja
+R00663,business,55+,Travel,tablet,Abuja
+R00664,business,45-54,Personal Care,web,Ibadan
+R00665,fitness,18-24,Food & Beverage,tablet,Ibadan
+R00666,professional,25-34,Appliances,mobile,Port Harcourt
+R00667,student,55+,Toys & Games,tablet,Abuja
+R00668,student,45-54,Electronics,mobile,Abuja
+R00669,student,18-24,Office & School,tablet,Enugu
+R00670,business,55+,Home & Furniture,web,Enugu
+R00671,fitness,25-34,Home & Kitchen,web,Abuja
+R00672,creator,35-44,Personal Care,tablet,Port Harcourt
+R00673,creator,25-34,Electronics,web,Lagos
+R00674,family,35-44,Home & Kitchen,tablet,Ibadan
+R00675,professional,35-44,Apparel & Footwear,mobile,Abuja
+R00676,family,25-34,Pet Care,tablet,Lagos
+R00677,professional,45-54,Office & School,web,Abuja
+R00678,student,55+,Electronics,web,Enugu
+R00679,fitness,45-54,Beauty,mobile,Ibadan
+R00680,student,55+,Travel,mobile,Abuja
+R00681,student,55+,Beauty,mobile,Abuja
+R00682,business,55+,Apparel & Footwear,tablet,Abuja
+R00683,family,18-24,Food & Beverage,mobile,Enugu
+R00684,professional,25-34,Apparel & Footwear,tablet,Port Harcourt
+R00685,student,35-44,Toys & Games,tablet,Enugu
+R00686,family,18-24,Home Care,tablet,Abuja
+R00687,student,45-54,Apparel & Footwear,mobile,Port Harcourt
+R00688,fitness,35-44,Personal Care,mobile,Abuja
+R00689,creator,35-44,Appliances,web,Ibadan
+R00690,creator,25-34,Appliances,tablet,Enugu
+R00691,student,18-24,Apparel & Footwear,tablet,Port Harcourt
+R00692,professional,45-54,Electronics,web,Ibadan
+R00693,student,25-34,Apparel & Footwear,mobile,Enugu
+R00694,fitness,25-34,Office & School,mobile,Enugu
+R00695,fitness,55+,Food & Beverage,web,Enugu
+R00696,family,18-24,Apparel & Footwear,web,Enugu
+R00697,business,45-54,Home Care,mobile,Port Harcourt
+R00698,professional,55+,Appliances,mobile,Abuja
+R00699,family,55+,Food & Beverage,tablet,Lagos
+R00700,family,45-54,Baby Care,mobile,Port Harcourt
+R00701,student,25-34,Food & Beverage,mobile,Enugu
+R00702,business,25-34,Personal Care,tablet,Enugu
+R00703,fitness,18-24,Personal Care,tablet,Abuja
+R00704,business,55+,Electronics,web,Abuja
+R00705,fitness,18-24,Home Care,web,Ibadan
+R00706,student,18-24,Electronics,tablet,Enugu
+R00707,business,18-24,Electronics,mobile,Abuja
+R00708,creator,25-34,Electronics,tablet,Abuja
+R00709,professional,18-24,Home Care,mobile,Ibadan
+R00710,creator,35-44,Electronics,mobile,Enugu
+R00711,family,18-24,Toys & Games,web,Port Harcourt
+R00712,fitness,45-54,Food & Beverage,web,Lagos
+R00713,professional,35-44,Food & Beverage,web,Port Harcourt
+R00714,creator,45-54,Toys & Games,mobile,Lagos
+R00715,family,55+,Office & School,web,Enugu
+R00716,family,45-54,Appliances,tablet,Abuja
+R00717,fitness,45-54,Home & Kitchen,tablet,Lagos
+R00718,family,25-34,Food & Beverage,tablet,Enugu
+R00719,family,35-44,Appliances,mobile,Enugu
+R00720,professional,55+,Electronics,mobile,Ibadan
+R00721,student,55+,Food & Beverage,mobile,Ibadan
+R00722,family,25-34,Beauty,tablet,Abuja
+R00723,creator,25-34,Electronics,tablet,Lagos
+R00724,professional,18-24,Appliances,mobile,Port Harcourt
+R00725,student,25-34,Home Care,mobile,Ibadan
+R00726,professional,35-44,Baby Care,tablet,Port Harcourt
+R00727,family,55+,Food & Beverage,tablet,Ibadan
+R00728,student,55+,Office & School,mobile,Abuja
+R00729,family,45-54,Apparel & Footwear,tablet,Ibadan
+R00730,professional,45-54,Travel,mobile,Abuja
+R00731,family,18-24,Home Care,tablet,Lagos
+R00732,student,25-34,Electronics,tablet,Ibadan
+R00733,professional,18-24,Electronics,mobile,Lagos
+R00734,student,55+,Home Care,tablet,Lagos
+R00735,fitness,18-24,Personal Care,tablet,Port Harcourt
+R00736,professional,35-44,Personal Care,mobile,Enugu
+R00737,professional,25-34,Appliances,tablet,Lagos
+R00738,business,55+,Travel,web,Ibadan
+R00739,creator,35-44,Electronics,web,Enugu
+R00740,family,45-54,Food & Beverage,web,Abuja
+R00741,family,35-44,Pet Care,web,Ibadan
+R00742,fitness,45-54,Personal Care,tablet,Port Harcourt
+R00743,family,25-34,Food & Beverage,mobile,Ibadan
+R00744,fitness,35-44,Apparel & Footwear,web,Port Harcourt
+R00745,professional,25-34,Beauty,web,Port Harcourt
+R00746,family,18-24,Toys & Games,web,Port Harcourt
+R00747,family,25-34,Personal Care,mobile,Enugu
+R00748,fitness,25-34,Home Care,mobile,Enugu
+R00749,fitness,45-54,Apparel & Footwear,mobile,Ibadan
+R00750,creator,35-44,Apparel & Footwear,web,Abuja
+R00751,student,25-34,Food & Beverage,tablet,Abuja
+R00752,business,18-24,Apparel & Footwear,tablet,Abuja
+R00753,student,55+,Food & Beverage,web,Ibadan
+R00754,business,35-44,Food & Beverage,tablet,Port Harcourt
+R00755,business,18-24,Electronics,mobile,Port Harcourt
+R00756,creator,35-44,Apparel & Footwear,tablet,Lagos
+R00757,creator,18-24,Electronics,mobile,Abuja
+R00758,student,25-34,Apparel & Footwear,mobile,Port Harcourt
+R00759,fitness,18-24,Home & Kitchen,tablet,Lagos
+R00760,professional,18-24,Electronics,web,Enugu
+R00761,family,45-54,Home Care,tablet,Enugu
+R00762,professional,18-24,Travel,tablet,Port Harcourt
+R00763,business,45-54,Apparel & Footwear,mobile,Port Harcourt
+R00764,fitness,55+,Food & Beverage,tablet,Enugu
+R00765,fitness,25-34,Personal Care,mobile,Enugu
+R00766,family,18-24,Home & Furniture,tablet,Abuja
+R00767,family,45-54,Food & Beverage,tablet,Abuja
+R00768,creator,45-54,Apparel & Footwear,mobile,Lagos
+R00769,professional,25-34,Home & Kitchen,web,Lagos
+R00770,student,45-54,Travel,tablet,Lagos
+R00771,business,18-24,Toys & Games,tablet,Lagos
+R00772,student,35-44,Home Care,tablet,Abuja
+R00773,fitness,25-34,Personal Care,tablet,Abuja
+R00774,family,25-34,Home Care,web,Enugu
+R00775,business,45-54,Personal Care,web,Port Harcourt
+R00776,professional,18-24,Electronics,tablet,Lagos
+R00777,creator,55+,Electronics,mobile,Enugu
+R00778,business,18-24,Electronics,web,Abuja
+R00779,creator,25-34,Appliances,mobile,Enugu
+R00780,family,55+,Food & Beverage,mobile,Ibadan
+R00781,student,18-24,Pet Care,web,Abuja
+R00782,student,25-34,Food & Beverage,tablet,Lagos
+R00783,student,25-34,Pet Care,mobile,Ibadan
+R00784,family,55+,Food & Beverage,web,Abuja
+R00785,creator,25-34,Apparel & Footwear,tablet,Port Harcourt
+R00786,business,25-34,Beauty,web,Lagos
+R00787,student,35-44,Personal Care,mobile,Lagos
+R00788,student,55+,Apparel & Footwear,tablet,Enugu
+R00789,student,45-54,Home Care,mobile,Ibadan
+R00790,family,55+,Home Care,web,Port Harcourt
+R00791,professional,18-24,Appliances,mobile,Lagos
+R00792,professional,25-34,Food & Beverage,web,Abuja
+R00793,business,18-24,Beauty,tablet,Ibadan
+R00794,business,55+,Electronics,web,Abuja
+R00795,business,35-44,Personal Care,web,Ibadan
+R00796,creator,25-34,Baby Care,web,Lagos
+R00797,family,55+,Home Care,tablet,Port Harcourt
+R00798,student,45-54,Food & Beverage,tablet,Ibadan
+R00799,family,35-44,Food & Beverage,mobile,Lagos
+R00800,professional,45-54,Electronics,mobile,Enugu
+R00801,fitness,45-54,Personal Care,tablet,Port Harcourt
+R00802,business,45-54,Baby Care,mobile,Lagos
+R00803,family,25-34,Food & Beverage,tablet,Port Harcourt
+R00804,fitness,45-54,Apparel & Footwear,mobile,Abuja
+R00805,student,25-34,Food & Beverage,tablet,Port Harcourt
+R00806,business,55+,Beauty,tablet,Port Harcourt
+R00807,fitness,45-54,Food & Beverage,tablet,Port Harcourt
+R00808,fitness,25-34,Baby Care,mobile,Ibadan
+R00809,professional,45-54,Food & Beverage,mobile,Lagos
+R00810,family,45-54,Apparel & Footwear,mobile,Enugu
+R00811,professional,45-54,Personal Care,tablet,Ibadan
+R00812,student,55+,Apparel & Footwear,mobile,Ibadan
+R00813,professional,55+,Electronics,mobile,Enugu
+R00814,fitness,18-24,Personal Care,mobile,Ibadan
+R00815,family,45-54,Home Care,tablet,Ibadan
+R00816,student,18-24,Food & Beverage,tablet,Port Harcourt
+R00817,student,35-44,Apparel & Footwear,mobile,Port Harcourt
+R00818,creator,55+,Apparel & Footwear,mobile,Abuja
+R00819,business,35-44,Electronics,mobile,Ibadan
+R00820,creator,35-44,Food & Beverage,tablet,Enugu
+R00821,creator,55+,Beauty,mobile,Enugu
+R00822,creator,55+,Apparel & Footwear,mobile,Ibadan
+R00823,creator,45-54,Electronics,mobile,Port Harcourt
+R00824,student,18-24,Personal Care,mobile,Ibadan
+R00825,professional,45-54,Electronics,web,Port Harcourt
+R00826,fitness,35-44,Personal Care,web,Enugu
+R00827,fitness,55+,Pet Care,mobile,Enugu
+R00828,fitness,55+,Apparel & Footwear,web,Lagos
+R00829,student,18-24,Electronics,tablet,Port Harcourt
+R00830,creator,18-24,Home & Furniture,mobile,Lagos
+R00831,creator,55+,Beauty,mobile,Ibadan
+R00832,creator,45-54,Electronics,web,Ibadan
+R00833,fitness,18-24,Home & Kitchen,mobile,Port Harcourt
+R00834,professional,25-34,Appliances,tablet,Ibadan
+R00835,creator,35-44,Home Care,mobile,Lagos
+R00836,professional,45-54,Electronics,web,Port Harcourt
+R00837,family,18-24,Apparel & Footwear,web,Port Harcourt
+R00838,professional,35-44,Electronics,web,Lagos
+R00839,student,35-44,Food & Beverage,tablet,Ibadan
+R00840,professional,55+,Apparel & Footwear,mobile,Enugu
+R00841,family,18-24,Food & Beverage,mobile,Ibadan
+R00842,family,45-54,Pet Care,tablet,Lagos
+R00843,creator,45-54,Apparel & Footwear,mobile,Port Harcourt
+R00844,family,18-24,Travel,mobile,Lagos
+R00845,student,55+,Personal Care,mobile,Ibadan
+R00846,creator,45-54,Office & School,mobile,Lagos
+R00847,fitness,18-24,Personal Care,mobile,Port Harcourt
+R00848,professional,18-24,Electronics,tablet,Port Harcourt
+R00849,creator,18-24,Food & Beverage,web,Enugu
+R00850,fitness,25-34,Baby Care,mobile,Enugu
+R00851,business,18-24,Office & School,mobile,Ibadan
+R00852,creator,45-54,Electronics,mobile,Lagos
+R00853,family,18-24,Home Care,mobile,Enugu
+R00854,family,45-54,Toys & Games,tablet,Enugu
+R00855,fitness,45-54,Food & Beverage,mobile,Enugu
+R00856,professional,25-34,Food & Beverage,mobile,Abuja
+R00857,family,55+,Electronics,web,Abuja
+R00858,professional,18-24,Food & Beverage,web,Lagos
+R00859,business,45-54,Home & Furniture,mobile,Lagos
+R00860,family,25-34,Food & Beverage,tablet,Lagos
+R00861,student,35-44,Home Care,mobile,Ibadan
+R00862,professional,25-34,Home Care,tablet,Lagos
+R00863,family,18-24,Baby Care,tablet,Ibadan
+R00864,student,55+,Pet Care,web,Ibadan
+R00865,family,55+,Personal Care,mobile,Lagos
+R00866,student,18-24,Food & Beverage,web,Lagos
+R00867,family,25-34,Toys & Games,web,Ibadan
+R00868,business,35-44,Electronics,web,Ibadan
+R00869,student,25-34,Food & Beverage,web,Port Harcourt
+R00870,creator,25-34,Electronics,tablet,Enugu
+R00871,creator,45-54,Beauty,mobile,Lagos
+R00872,professional,55+,Appliances,tablet,Lagos
+R00873,student,45-54,Apparel & Footwear,mobile,Abuja
+R00874,student,18-24,Apparel & Footwear,tablet,Lagos
+R00875,family,18-24,Food & Beverage,tablet,Enugu
+R00876,student,25-34,Electronics,web,Port Harcourt
+R00877,family,55+,Home Care,web,Enugu
+R00878,professional,25-34,Electronics,web,Abuja
+R00879,student,25-34,Toys & Games,tablet,Enugu
+R00880,student,35-44,Baby Care,tablet,Abuja
+R00881,fitness,25-34,Apparel & Footwear,web,Lagos
+R00882,student,55+,Food & Beverage,web,Port Harcourt
+R00883,student,35-44,Food & Beverage,mobile,Lagos
+R00884,creator,45-54,Food & Beverage,mobile,Abuja
+R00885,business,25-34,Electronics,tablet,Lagos
+R00886,business,45-54,Travel,mobile,Lagos
+R00887,business,55+,Beauty,mobile,Ibadan
+R00888,professional,45-54,Appliances,tablet,Enugu
+R00889,student,35-44,Apparel & Footwear,mobile,Port Harcourt
+R00890,business,18-24,Toys & Games,tablet,Lagos
+R00891,creator,25-34,Electronics,mobile,Lagos
+R00892,business,45-54,Appliances,mobile,Abuja
+R00893,creator,18-24,Apparel & Footwear,tablet,Port Harcourt
+R00894,family,45-54,Home Care,tablet,Abuja
+R00895,student,35-44,Home & Furniture,tablet,Ibadan
+R00896,business,35-44,Personal Care,mobile,Lagos
+R00897,creator,55+,Electronics,tablet,Port Harcourt
+R00898,business,55+,Office & School,tablet,Lagos
+R00899,business,18-24,Food & Beverage,tablet,Abuja
+R00900,student,18-24,Home & Kitchen,web,Enugu
+R00901,family,35-44,Beauty,tablet,Port Harcourt
+R00902,fitness,18-24,Home Care,web,Lagos
+R00903,creator,18-24,Electronics,mobile,Lagos
+R00904,business,35-44,Office & School,mobile,Enugu
+R00905,family,45-54,Pet Care,web,Abuja
+R00906,creator,55+,Apparel & Footwear,tablet,Port Harcourt
+R00907,creator,55+,Electronics,web,Lagos
+R00908,creator,25-34,Apparel & Footwear,mobile,Port Harcourt
+R00909,fitness,35-44,Office & School,web,Port Harcourt
+R00910,business,35-44,Electronics,web,Enugu
+R00911,fitness,18-24,Food & Beverage,web,Abuja
+R00912,fitness,45-54,Beauty,mobile,Abuja
+R00913,business,45-54,Apparel & Footwear,web,Lagos
+R00914,family,18-24,Food & Beverage,mobile,Port Harcourt
+R00915,student,35-44,Electronics,tablet,Abuja
+R00916,business,35-44,Toys & Games,mobile,Ibadan
+R00917,business,25-34,Electronics,mobile,Abuja
+R00918,business,35-44,Electronics,web,Port Harcourt
+R00919,family,45-54,Beauty,tablet,Lagos
+R00920,fitness,35-44,Office & School,tablet,Lagos
+R00921,business,55+,Electronics,tablet,Abuja
+R00922,professional,35-44,Food & Beverage,tablet,Enugu
+R00923,family,35-44,Baby Care,mobile,Port Harcourt
+R00924,creator,55+,Home & Kitchen,tablet,Abuja
+R00925,family,25-34,Appliances,web,Abuja
+R00926,business,55+,Apparel & Footwear,mobile,Port Harcourt
+R00927,business,18-24,Office & School,mobile,Enugu
+R00928,family,18-24,Toys & Games,web,Enugu
+R00929,business,18-24,Electronics,mobile,Ibadan
+R00930,fitness,45-54,Food & Beverage,tablet,Enugu
+R00931,fitness,35-44,Pet Care,mobile,Enugu
+R00932,professional,55+,Home Care,tablet,Port Harcourt
+R00933,business,35-44,Electronics,web,Ibadan
+R00934,business,18-24,Home Care,tablet,Lagos
+R00935,fitness,25-34,Food & Beverage,tablet,Ibadan
+R00936,creator,45-54,Food & Beverage,mobile,Enugu
+R00937,student,55+,Electronics,mobile,Ibadan
+R00938,creator,35-44,Electronics,tablet,Abuja
+R00939,professional,18-24,Home & Kitchen,web,Enugu
+R00940,fitness,55+,Personal Care,mobile,Abuja
+R00941,business,55+,Electronics,web,Lagos
+R00942,creator,35-44,Electronics,tablet,Port Harcourt
+R00943,fitness,18-24,Personal Care,mobile,Port Harcourt
+R00944,professional,18-24,Food & Beverage,web,Port Harcourt
+R00945,creator,55+,Apparel & Footwear,mobile,Ibadan
+R00946,professional,45-54,Electronics,web,Enugu
+R00947,creator,45-54,Personal Care,tablet,Lagos
+R00948,creator,18-24,Travel,tablet,Ibadan
+R00949,student,55+,Office & School,mobile,Lagos
+R00950,creator,45-54,Apparel & Footwear,tablet,Ibadan
+R00951,fitness,18-24,Electronics,web,Ibadan
+R00952,creator,45-54,Home Care,tablet,Port Harcourt
+R00953,fitness,25-34,Baby Care,web,Abuja
+R00954,family,35-44,Home Care,tablet,Abuja
+R00955,fitness,35-44,Apparel & Footwear,web,Enugu
+R00956,fitness,55+,Home & Kitchen,mobile,Abuja
+R00957,student,35-44,Home Care,mobile,Enugu
+R00958,business,35-44,Office & School,mobile,Ibadan
+R00959,student,45-54,Beauty,web,Port Harcourt
+R00960,family,35-44,Home Care,web,Lagos
+R00961,business,55+,Beauty,tablet,Lagos
+R00962,family,55+,Toys & Games,web,Ibadan
+R00963,fitness,25-34,Toys & Games,web,Abuja
+R00964,business,35-44,Food & Beverage,tablet,Ibadan
+R00965,business,45-54,Home Care,web,Abuja
+R00966,fitness,55+,Personal Care,tablet,Port Harcourt
+R00967,family,55+,Toys & Games,mobile,Enugu
+R00968,student,55+,Pet Care,web,Ibadan
+R00969,business,45-54,Electronics,mobile,Abuja
+R00970,professional,45-54,Home Care,tablet,Enugu
+R00971,business,18-24,Apparel & Footwear,web,Abuja
+R00972,business,35-44,Electronics,web,Lagos
+R00973,fitness,55+,Apparel & Footwear,tablet,Lagos
+R00974,business,18-24,Personal Care,mobile,Lagos
+R00975,family,45-54,Office & School,tablet,Port Harcourt
+R00976,professional,35-44,Electronics,mobile,Port Harcourt
+R00977,fitness,55+,Personal Care,tablet,Enugu
+R00978,fitness,25-34,Electronics,tablet,Abuja
+R00979,fitness,35-44,Travel,mobile,Lagos
+R00980,student,55+,Office & School,tablet,Abuja
+R00981,student,25-34,Apparel & Footwear,mobile,Port Harcourt
+R00982,creator,45-54,Apparel & Footwear,tablet,Enugu
+R00983,family,45-54,Home Care,tablet,Ibadan
+R00984,family,35-44,Home & Furniture,web,Lagos
+R00985,student,55+,Toys & Games,web,Enugu
+R00986,creator,35-44,Toys & Games,mobile,Port Harcourt
+R00987,student,45-54,Food & Beverage,mobile,Port Harcourt
+R00988,business,35-44,Electronics,tablet,Port Harcourt
+R00989,creator,55+,Electronics,web,Ibadan
+R00990,creator,18-24,Beauty,tablet,Ibadan
+R00991,family,35-44,Toys & Games,tablet,Enugu
+R00992,business,55+,Apparel & Footwear,mobile,Abuja
+R00993,professional,45-54,Electronics,tablet,Enugu
+R00994,creator,25-34,Appliances,tablet,Lagos
+R00995,student,18-24,Travel,tablet,Enugu
+R00996,professional,55+,Travel,mobile,Abuja
+R00997,professional,25-34,Electronics,mobile,Abuja
+R00998,business,25-34,Baby Care,web,Lagos
+R00999,family,18-24,Food & Beverage,tablet,Lagos
+R01000,student,25-34,Personal Care,tablet,Port Harcourt

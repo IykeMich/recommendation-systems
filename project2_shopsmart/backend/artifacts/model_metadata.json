@@ -1,0 +1,41 @@
+{
+  "model_type": "adaptive_hybrid",
+  "content_share": {
+    "max": 0.8,
+    "min": 0.2,
+    "history_size": 20
+  },
+  "trained_at": "2026-10-01T14:00:32+00:00",
+  "event_weights": {
+    "view": 1.0,
+    "cart": 3.0,
+    "purchase": 6.0
+  },
+  "num_events": 27830,
+  "num_users": 1001,
+  "num_items": 598,
+  "sparsity": 0.9672,
+  "evaluation": {
+    "protocol": "leave-one-positive-out (latest cart/purchase per user)",
+    "k": 10,
+    "evaluated_users": 973,
+    "hybrid": {
+      "recall@10": 0.4286,
+      "precision@10": 0.0429,
+      "ndcg@10": 0.2799,
+      "coverage": 0.9916
+    },
+    "item_item": {
+      "recall@10": 0.3977,
+      "precision@10": 0.0398,
+      "ndcg@10": 0.252,
+      "coverage": 0.9866
+    },
+    "popularity_baseline": {
+      "recall@10": 0.0904,
+      "precision@10": 0.009,
+      "ndcg@10": 0.047,
+      "coverage": 0.0301
+    }
+  }
+}

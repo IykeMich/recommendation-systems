@@ -1,0 +1,1201 @@
+user_id,age_band,monthly_income,employment,risk_profile,region,existing_products
+F00001,35-44,1442372.68,salary,high,Ibadan,1
+F00002,35-44,131164.48,student,medium,Abuja,4
+F00003,35-44,2465409.91,salary,low,Port Harcourt,1
+F00004,45-54,943556.84,self_employed,medium,Port Harcourt,2
+F00005,25-34,1379792.41,business_owner,low,Abuja,4
+F00006,18-24,1461437.77,self_employed,medium,Abuja,3
+F00007,45-54,691175.46,business_owner,medium,Ibadan,1
+F00008,18-24,2175524.43,self_employed,high,Abuja,0
+F00009,45-54,2384701.65,salary,low,Ibadan,0
+F00010,45-54,2146807.69,salary,low,Lagos,2
+F00011,25-34,2255136.03,self_employed,medium,Lagos,0
+F00012,25-34,1521742.23,salary,high,Ibadan,4
+F00013,45-54,868247.94,salary,low,Lagos,5
+F00014,45-54,2400499.14,student,low,Ibadan,2
+F00015,35-44,1150136.86,student,medium,Abuja,5
+F00016,25-34,2401316.05,salary,high,Ibadan,5
+F00017,55+,502538.79,self_employed,medium,Lagos,5
+F00018,25-34,686540.33,self_employed,low,Ibadan,2
+F00019,35-44,1275868.07,business_owner,low,Abuja,5
+F00020,55+,1563629.74,salary,low,Ibadan,0
+F00021,55+,1505864.6,business_owner,medium,Abuja,4
+F00022,55+,2416478.85,salary,high,Abuja,1
+F00023,25-34,2385827.71,student,low,Port Harcourt,1
+F00024,25-34,1532808.33,salary,low,Port Harcourt,0
+F00025,55+,756194.59,student,low,Lagos,5
+F00026,18-24,2382828.45,student,high,Port Harcourt,1
+F00027,55+,1351745.62,self_employed,low,Ibadan,4
+F00028,18-24,1773755.14,student,low,Ibadan,3
+F00029,55+,2299649.89,business_owner,low,Abuja,3
+F00030,25-34,967959.11,business_owner,high,Ibadan,1
+F00031,18-24,303691.95,salary,medium,Abuja,1
+F00032,55+,108114.02,student,medium,Port Harcourt,3
+F00033,25-34,2208775.28,self_employed,medium,Abuja,1
+F00034,45-54,980369.0,salary,low,Lagos,2
+F00035,18-24,1965968.67,self_employed,low,Ibadan,1
+F00036,45-54,543565.83,business_owner,high,Ibadan,1
+F00037,35-44,1329981.77,student,high,Lagos,0
+F00038,35-44,226417.02,salary,high,Port Harcourt,2
+F00039,35-44,2145788.82,student,low,Ibadan,2
+F00040,25-34,1465779.94,salary,high,Lagos,1
+F00041,35-44,182704.25,salary,low,Lagos,1
+F00042,45-54,1449833.51,self_employed,high,Lagos,5
+F00043,55+,622693.06,self_employed,high,Abuja,0
+F00044,25-34,569693.32,salary,low,Abuja,0
+F00045,25-34,1179809.95,salary,low,Port Harcourt,0
+F00046,55+,450828.98,student,medium,Port Harcourt,5
+F00047,18-24,1422518.34,business_owner,medium,Lagos,3
+F00048,45-54,1805472.11,self_employed,low,Ibadan,4
+F00049,45-54,146612.72,salary,high,Lagos,3
+F00050,18-24,2061908.48,business_owner,low,Ibadan,3
+F00051,55+,927803.03,student,medium,Port Harcourt,0
+F00052,45-54,1298432.49,business_owner,low,Abuja,4
+F00053,25-34,747637.76,self_employed,high,Abuja,3
+F00054,25-34,1475393.09,student,high,Ibadan,0
+F00055,18-24,986755.68,student,medium,Ibadan,0
+F00056,25-34,1243805.51,self_employed,low,Lagos,2
+F00057,55+,1248317.19,student,low,Lagos,5
+F00058,55+,1640017.91,student,low,Abuja,2
+F00059,25-34,169821.14,self_employed,high,Ibadan,0
+F00060,35-44,469685.77,salary,high,Lagos,1
+F00061,35-44,681704.54,student,low,Lagos,0
+F00062,35-44,216956.62,student,medium,Abuja,1
+F00063,18-24,361119.13,self_employed,medium,Lagos,0
+F00064,35-44,558921.48,student,high,Abuja,2
+F00065,55+,481421.13,salary,high,Abuja,5
+F00066,35-44,1440334.05,business_owner,medium,Port Harcourt,3
+F00067,55+,1457540.83,business_owner,medium,Port Harcourt,2
+F00068,55+,2026177.65,salary,medium,Ibadan,0
+F00069,35-44,2335880.32,self_employed,medium,Ibadan,3
+F00070,45-54,431395.49,salary,low,Port Harcourt,3
+F00071,35-44,1478648.23,business_owner,medium,Ibadan,2
+F00072,18-24,790867.72,business_owner,high,Ibadan,4
+F00073,55+,2427638.89,student,high,Ibadan,2
+F00074,35-44,1672048.57,business_owner,high,Abuja,3
+F00075,45-54,448610.52,student,medium,Port Harcourt,2
+F00076,35-44,228214.55,student,high,Lagos,4
+F00077,18-24,504578.11,student,low,Port Harcourt,2
+F00078,25-34,939821.21,salary,low,Lagos,3
+F00079,35-44,540815.47,business_owner,medium,Abuja,0
+F00080,18-24,181431.16,salary,medium,Port Harcourt,3
+F00081,55+,1863865.74,self_employed,high,Port Harcourt,0
+F00082,35-44,649626.9,self_employed,high,Abuja,4
+F00083,25-34,2096733.51,student,medium,Lagos,1
+F00084,18-24,2016253.2,student,high,Port Harcourt,4
+F00085,45-54,1217843.08,student,low,Port Harcourt,5
+F00086,25-34,1675991.71,self_employed,medium,Lagos,5
+F00087,45-54,858564.4,student,high,Abuja,0
+F00088,18-24,598137.86,business_owner,high,Port Harcourt,3
+F00089,55+,163402.22,student,medium,Abuja,1
+F00090,35-44,1976593.64,business_owner,high,Ibadan,2
+F00091,18-24,2068956.7,self_employed,medium,Ibadan,2
+F00092,45-54,1475671.11,business_owner,high,Lagos,1
+F00093,18-24,166622.58,student,low,Abuja,2
+F00094,55+,813301.17,self_employed,high,Lagos,1
+F00095,55+,2030160.99,business_owner,low,Ibadan,1
+F00096,55+,772721.43,self_employed,medium,Lagos,2
+F00097,18-24,2185613.29,salary,low,Lagos,1
+F00098,55+,1248782.92,self_employed,high,Abuja,3
+F00099,55+,938063.03,business_owner,high,Ibadan,1
+F00100,18-24,2276469.88,self_employed,low,Abuja,0
+F00101,25-34,513709.11,student,low,Lagos,2
+F00102,35-44,946668.93,salary,medium,Abuja,0
+F00103,18-24,1513882.48,salary,high,Abuja,2
+F00104,45-54,350495.89,salary,low,Abuja,1
+F00105,45-54,1135007.52,student,high,Lagos,3
+F00106,18-24,2308150.77,student,medium,Ibadan,1
+F00107,55+,1911879.23,student,high,Lagos,4
+F00108,55+,628188.45,salary,high,Ibadan,5
+F00109,35-44,436941.61,self_employed,medium,Ibadan,4
+F00110,55+,1366975.66,self_employed,high,Lagos,1
+F00111,45-54,1147275.61,salary,low,Ibadan,3
+F00112,55+,2323747.51,self_employed,low,Abuja,4
+F00113,25-34,2093672.83,salary,low,Lagos,1
+F00114,25-34,1903043.73,business_owner,medium,Port Harcourt,5
+F00115,55+,2313209.37,business_owner,medium,Ibadan,0
+F00116,18-24,1839497.34,self_employed,high,Port Harcourt,5
+F00117,18-24,2470752.24,salary,low,Port Harcourt,3
+F00118,55+,1294865.7,self_employed,medium,Port Harcourt,3
+F00119,35-44,594122.87,student,medium,Lagos,1
+F00120,35-44,442462.5,student,low,Abuja,4
+F00121,55+,993165.99,student,high,Abuja,1
+F00122,55+,1441900.18,business_owner,low,Lagos,1
+F00123,18-24,2372192.98,self_employed,high,Abuja,5
+F00124,55+,1408332.96,self_employed,high,Lagos,4
+F00125,25-34,1946405.04,salary,low,Lagos,1
+F00126,18-24,402776.74,business_owner,medium,Abuja,2
+F00127,55+,1290479.88,business_owner,high,Port Harcourt,5
+F00128,55+,1936857.39,student,medium,Abuja,4
+F00129,25-34,465630.95,business_owner,low,Abuja,2
+F00130,45-54,202833.55,student,high,Abuja,3
+F00131,55+,2461666.07,self_employed,high,Abuja,5
+F00132,55+,2048923.16,business_owner,medium,Port Harcourt,4
+F00133,18-24,1739069.71,business_owner,low,Lagos,0
+F00134,18-24,1632507.86,business_owner,high,Abuja,5
+F00135,35-44,664868.45,student,medium,Lagos,2
+F00136,25-34,1904449.42,salary,high,Port Harcourt,2
+F00137,55+,1151246.68,self_employed,high,Abuja,5
+F00138,55+,705124.57,self_employed,low,Lagos,4
+F00139,18-24,1054929.99,student,high,Abuja,5
+F00140,55+,943362.52,student,low,Lagos,3
+F00141,55+,1046526.27,business_owner,medium,Abuja,0
+F00142,18-24,978896.99,student,low,Ibadan,4
+F00143,25-34,459256.75,business_owner,low,Ibadan,5
+F00144,35-44,2354391.01,self_employed,high,Port Harcourt,2
+F00145,45-54,561028.72,salary,high,Port Harcourt,0
+F00146,25-34,470394.72,salary,medium,Ibadan,4
+F00147,45-54,2153618.0,business_owner,medium,Port Harcourt,5
+F00148,45-54,264423.1,self_employed,medium,Lagos,1
+F00149,25-34,1249667.51,self_employed,high,Port Harcourt,1
+F00150,25-34,1816971.74,salary,high,Abuja,5
+F00151,18-24,311283.04,salary,high,Ibadan,2
+F00152,18-24,1123664.1,self_employed,high,Lagos,0
+F00153,45-54,1138088.86,salary,high,Ibadan,1
+F00154,45-54,270736.41,student,high,Abuja,2
+F00155,55+,2475130.37,business_owner,low,Ibadan,1
+F00156,25-34,200139.42,self_employed,high,Ibadan,4
+F00157,18-24,1686669.98,self_employed,low,Abuja,0
+F00158,35-44,1339535.03,salary,low,Ibadan,3
+F00159,18-24,2291984.41,salary,high,Port Harcourt,5
+F00160,18-24,780612.41,business_owner,high,Lagos,1
+F00161,45-54,469889.53,self_employed,medium,Lagos,4
+F00162,55+,1989995.07,business_owner,high,Ibadan,4
+F00163,55+,1567778.35,business_owner,medium,Ibadan,0
+F00164,18-24,348971.54,self_employed,low,Port Harcourt,1
+F00165,35-44,2387533.04,business_owner,low,Ibadan,2
+F00166,35-44,353966.46,salary,low,Abuja,3
+F00167,45-54,775556.31,self_employed,medium,Ibadan,5
+F00168,25-34,1953179.98,self_employed,low,Lagos,3
+F00169,55+,2485726.45,student,high,Ibadan,1
+F00170,45-54,1069506.95,student,high,Port Harcourt,3
+F00171,25-34,920726.16,self_employed,medium,Ibadan,5
+F00172,25-34,1276259.57,business_owner,medium,Ibadan,0
+F00173,35-44,888403.84,self_employed,medium,Ibadan,4
+F00174,55+,185033.61,business_owner,high,Abuja,3
+F00175,55+,1307726.48,salary,low,Abuja,0
+F00176,25-34,1327090.68,salary,high,Abuja,1
+F00177,55+,2027403.51,self_employed,medium,Port Harcourt,2
+F00178,35-44,1392495.82,business_owner,high,Ibadan,3
+F00179,35-44,1692361.9,self_employed,medium,Ibadan,5
+F00180,45-54,820670.37,salary,low,Abuja,0
+F00181,45-54,1135401.41,salary,high,Port Harcourt,2
+F00182,18-24,1425337.54,self_employed,low,Abuja,5
+F00183,25-34,1567070.77,salary,low,Abuja,3
+F00184,18-24,2033624.21,business_owner,medium,Ibadan,3
+F00185,35-44,767750.51,self_employed,high,Abuja,0
+F00186,35-44,1618972.3,student,high,Lagos,1
+F00187,45-54,2102529.87,salary,high,Lagos,0
+F00188,45-54,481367.97,student,low,Abuja,3
+F00189,25-34,2065168.07,salary,high,Abuja,1
+F00190,55+,2240404.18,business_owner,high,Port Harcourt,3
+F00191,35-44,1044729.14,student,low,Port Harcourt,1
+F00192,25-34,2042027.25,business_owner,high,Lagos,2
+F00193,45-54,1424569.81,salary,low,Ibadan,2
+F00194,35-44,386208.92,salary,medium,Port Harcourt,3
+F00195,45-54,1948929.39,self_employed,low,Abuja,5
+F00196,45-54,2463219.92,salary,medium,Lagos,2
+F00197,35-44,435578.76,student,low,Abuja,0
+F00198,18-24,1693304.07,salary,low,Ibadan,3
+F00199,55+,1490882.01,salary,high,Ibadan,1
+F00200,25-34,1673757.84,self_employed,high,Port Harcourt,3
+F00201,25-34,670755.38,salary,low,Lagos,0
+F00202,18-24,2203683.05,salary,medium,Abuja,3
+F00203,25-34,2074584.92,salary,medium,Ibadan,1
+F00204,45-54,2360392.58,self_employed,medium,Port Harcourt,4
+F00205,55+,2483703.75,student,medium,Port Harcourt,3
+F00206,25-34,1072918.52,self_employed,low,Port Harcourt,2
+F00207,35-44,1660470.5,business_owner,medium,Port Harcourt,3
+F00208,55+,89893.95,self_employed,medium,Ibadan,3
+F00209,18-24,796871.55,salary,low,Ibadan,3
+F00210,18-24,198264.29,self_employed,medium,Lagos,2
+F00211,18-24,808154.74,self_employed,high,Port Harcourt,2
+F00212,35-44,528923.29,student,high,Lagos,2
+F00213,35-44,680106.22,student,high,Port Harcourt,5
+F00214,35-44,110953.83,salary,medium,Abuja,1
+F00215,18-24,765413.58,business_owner,medium,Lagos,3
+F00216,45-54,952193.01,student,low,Port Harcourt,1
+F00217,45-54,956940.92,student,low,Lagos,5
+F00218,18-24,1200237.29,salary,medium,Lagos,2
+F00219,18-24,704320.76,self_employed,low,Lagos,1
+F00220,25-34,1973477.91,business_owner,low,Port Harcourt,1
+F00221,25-34,2025548.34,self_employed,medium,Port Harcourt,0
+F00222,45-54,2349279.29,business_owner,low,Lagos,3
+F00223,18-24,518024.4,business_owner,medium,Abuja,3
+F00224,25-34,276073.99,self_employed,high,Port Harcourt,0
+F00225,25-34,2167026.01,student,high,Port Harcourt,3
+F00226,45-54,1239760.53,business_owner,high,Ibadan,0
+F00227,55+,2155144.69,business_owner,medium,Port Harcourt,4
+F00228,55+,478878.72,self_employed,low,Port Harcourt,1
+F00229,55+,834095.12,student,medium,Ibadan,2
+F00230,35-44,376181.32,business_owner,high,Lagos,1
+F00231,55+,1619069.29,business_owner,medium,Ibadan,3
+F00232,18-24,1435335.41,self_employed,high,Port Harcourt,2
+F00233,25-34,961091.72,business_owner,high,Ibadan,1
+F00234,35-44,214979.92,student,high,Ibadan,5
+F00235,35-44,1563919.59,student,high,Port Harcourt,5
+F00236,18-24,2111327.3,student,low,Ibadan,0
+F00237,18-24,623097.9,business_owner,high,Port Harcourt,0
+F00238,18-24,2393054.4,student,medium,Ibadan,0
+F00239,55+,698209.71,business_owner,low,Abuja,1
+F00240,25-34,145166.72,salary,high,Ibadan,3
+F00241,35-44,1939529.37,student,medium,Port Harcourt,2
+F00242,55+,1687888.38,self_employed,medium,Ibadan,2
+F00243,55+,120577.29,student,high,Ibadan,1
+F00244,25-34,589440.13,salary,high,Abuja,5
+F00245,45-54,2251555.62,self_employed,high,Port Harcourt,0
+F00246,35-44,89811.68,salary,high,Lagos,3
+F00247,25-34,1004231.58,student,medium,Lagos,0
+F00248,35-44,98577.08,salary,high,Lagos,5
+F00249,35-44,2208291.21,self_employed,high,Ibadan,2
+F00250,25-34,163407.53,student,medium,Lagos,0
+F00251,35-44,949439.35,self_employed,medium,Ibadan,2
+F00252,18-24,478618.65,student,low,Abuja,4
+F00253,18-24,284318.66,self_employed,medium,Ibadan,4
+F00254,35-44,1929298.12,student,low,Abuja,4
+F00255,35-44,99884.59,business_owner,high,Lagos,5
+F00256,18-24,677195.47,self_employed,high,Port Harcourt,5
+F00257,55+,1151643.66,self_employed,low,Lagos,5
+F00258,45-54,852398.24,student,low,Ibadan,5
+F00259,55+,1704495.18,business_owner,high,Lagos,1
+F00260,25-34,1370091.72,salary,high,Lagos,2
+F00261,55+,311205.44,self_employed,high,Port Harcourt,0
+F00262,45-54,1247343.15,self_employed,medium,Ibadan,0
+F00263,18-24,1088903.35,self_employed,high,Abuja,4
+F00264,18-24,2161569.27,salary,low,Abuja,4
+F00265,45-54,2360763.16,salary,medium,Port Harcourt,5
+F00266,18-24,1234976.75,student,medium,Ibadan,1
+F00267,35-44,2133140.96,business_owner,medium,Abuja,1
+F00268,18-24,163305.1,student,high,Lagos,0
+F00269,55+,1620460.79,salary,high,Port Harcourt,2
+F00270,25-34,569192.22,student,high,Ibadan,2
+F00271,18-24,365950.99,business_owner,low,Lagos,0
+F00272,25-34,199857.36,salary,low,Port Harcourt,0
+F00273,45-54,1521457.89,self_employed,medium,Ibadan,5
+F00274,55+,1451359.77,student,medium,Abuja,0
+F00275,25-34,2086239.41,self_employed,medium,Lagos,1
+F00276,45-54,1777667.69,self_employed,medium,Ibadan,5
+F00277,55+,194656.93,business_owner,high,Lagos,1
+F00278,45-54,87295.92,salary,low,Abuja,4
+F00279,25-34,1475439.67,salary,low,Ibadan,2
+F00280,45-54,1864199.99,self_employed,medium,Ibadan,2
+F00281,25-34,2036349.04,business_owner,medium,Ibadan,5
+F00282,55+,1595980.86,business_owner,medium,Ibadan,1
+F00283,35-44,761600.77,student,high,Lagos,1
+F00284,55+,1546833.66,student,low,Port Harcourt,3
+F00285,35-44,2457314.43,self_employed,high,Port Harcourt,5
+F00286,35-44,1581406.06,salary,high,Ibadan,3
+F00287,55+,2057677.76,business_owner,medium,Port Harcourt,1
+F00288,55+,2381916.91,student,medium,Port Harcourt,0
+F00289,55+,1873880.7,student,low,Ibadan,1
+F00290,18-24,1717474.55,business_owner,low,Port Harcourt,0
+F00291,35-44,1159858.43,salary,low,Lagos,0
+F00292,35-44,130340.78,business_owner,high,Lagos,3
+F00293,35-44,772383.69,business_owner,low,Ibadan,4
+F00294,35-44,1573341.08,student,medium,Lagos,4
+F00295,45-54,1362031.06,student,low,Port Harcourt,3
+F00296,25-34,459549.44,salary,high,Ibadan,3
+F00297,25-34,1231639.85,salary,high,Abuja,4
+F00298,55+,645439.84,student,medium,Ibadan,0
+F00299,18-24,1853280.62,salary,low,Abuja,0
+F00300,25-34,1310859.85,business_owner,low,Port Harcourt,5
+F00301,35-44,1028603.38,salary,low,Lagos,4
+F00302,35-44,1974898.78,self_employed,low,Abuja,1
+F00303,35-44,2267163.68,salary,medium,Ibadan,2
+F00304,18-24,2091621.23,self_employed,medium,Ibadan,3
+F00305,18-24,1311567.34,student,medium,Port Harcourt,2
+F00306,35-44,675039.63,business_owner,medium,Lagos,2
+F00307,45-54,1692689.12,self_employed,high,Abuja,3
+F00308,18-24,154908.1,student,low,Abuja,0
+F00309,55+,2352292.4,student,high,Lagos,5
+F00310,55+,344397.41,student,high,Ibadan,2
+F00311,35-44,1093386.91,business_owner,low,Abuja,3
+F00312,35-44,2417848.73,salary,low,Lagos,3
+F00313,45-54,546592.83,business_owner,low,Port Harcourt,2
+F00314,18-24,453499.2,self_employed,high,Port Harcourt,4
+F00315,18-24,1209807.34,salary,high,Abuja,1
+F00316,25-34,1703919.55,student,high,Port Harcourt,1
+F00317,45-54,693844.58,salary,medium,Lagos,5
+F00318,55+,616406.19,self_employed,low,Lagos,3
+F00319,25-34,1247064.8,self_employed,high,Abuja,3
+F00320,55+,1187881.66,self_employed,medium,Port Harcourt,1
+F00321,18-24,1551354.02,business_owner,medium,Abuja,5
+F00322,55+,2047633.02,self_employed,high,Abuja,5
+F00323,35-44,1396201.22,salary,low,Port Harcourt,3
+F00324,25-34,812596.36,salary,high,Lagos,0
+F00325,25-34,711546.63,salary,low,Abuja,2
+F00326,25-34,2051752.73,self_employed,high,Lagos,1
+F00327,45-54,732309.25,salary,high,Port Harcourt,4
+F00328,45-54,1388864.03,self_employed,high,Abuja,3
+F00329,45-54,508573.5,student,medium,Ibadan,4
+F00330,55+,1236804.84,self_employed,high,Port Harcourt,0
+F00331,55+,1980750.96,salary,high,Ibadan,3
+F00332,55+,1236263.73,self_employed,high,Port Harcourt,0
+F00333,35-44,1059751.81,business_owner,medium,Abuja,2
+F00334,25-34,1230208.68,student,low,Ibadan,3
+F00335,55+,576115.19,student,high,Ibadan,4
+F00336,25-34,1195343.17,business_owner,medium,Port Harcourt,3
+F00337,18-24,2007407.39,business_owner,medium,Abuja,0
+F00338,55+,430513.17,business_owner,medium,Lagos,2
+F00339,45-54,1835253.24,self_employed,high,Abuja,3
+F00340,18-24,344295.21,salary,high,Lagos,2
+F00341,55+,1295341.2,self_employed,high,Lagos,4
+F00342,35-44,502156.12,business_owner,high,Abuja,3
+F00343,45-54,1852545.98,self_employed,high,Port Harcourt,0
+F00344,45-54,1476555.56,business_owner,high,Lagos,2
+F00345,18-24,1885590.6,self_employed,high,Port Harcourt,5
+F00346,25-34,575239.88,business_owner,medium,Port Harcourt,4
+F00347,35-44,1970281.95,business_owner,low,Lagos,2
+F00348,35-44,799344.61,business_owner,high,Ibadan,1
+F00349,55+,903953.33,student,low,Port Harcourt,3
+F00350,18-24,148268.61,salary,medium,Port Harcourt,2
+F00351,35-44,126305.76,self_employed,medium,Port Harcourt,4
+F00352,45-54,797135.68,self_employed,high,Ibadan,5
+F00353,25-34,1708203.14,self_employed,low,Lagos,1
+F00354,18-24,1781329.38,self_employed,high,Abuja,0
+F00355,18-24,1332263.69,salary,low,Abuja,2
+F00356,45-54,1105269.22,salary,medium,Abuja,0
+F00357,35-44,1533400.28,self_employed,high,Ibadan,2
+F00358,35-44,92666.33,student,medium,Abuja,4
+F00359,45-54,1715370.52,self_employed,low,Ibadan,4
+F00360,45-54,1772355.26,business_owner,low,Port Harcourt,5
+F00361,25-34,394285.93,business_owner,high,Abuja,4
+F00362,55+,724184.55,self_employed,high,Port Harcourt,2
+F00363,35-44,1863258.42,salary,low,Lagos,1
+F00364,25-34,1873718.19,self_employed,low,Abuja,4
+F00365,18-24,1375038.6,salary,medium,Port Harcourt,4
+F00366,55+,610187.01,student,medium,Abuja,3
+F00367,35-44,990125.97,student,medium,Ibadan,0
+F00368,45-54,1551002.75,student,high,Abuja,3
+F00369,55+,438185.13,salary,medium,Lagos,3
+F00370,45-54,2198750.83,self_employed,medium,Ibadan,1
+F00371,18-24,586367.65,business_owner,high,Port Harcourt,1
+F00372,45-54,121084.9,self_employed,high,Ibadan,0
+F00373,35-44,2289788.35,self_employed,medium,Abuja,2
+F00374,45-54,1755953.83,student,medium,Lagos,4
+F00375,18-24,1488351.49,student,medium,Port Harcourt,2
+F00376,25-34,1216256.82,student,high,Abuja,5
+F00377,35-44,736567.53,self_employed,low,Abuja,0
+F00378,25-34,2353868.42,business_owner,high,Port Harcourt,5
+F00379,18-24,892354.73,salary,low,Abuja,5
+F00380,55+,753518.45,self_employed,high,Port Harcourt,4
+F00381,18-24,1070874.21,self_employed,low,Abuja,0
+F00382,55+,319995.85,salary,medium,Abuja,3
+F00383,45-54,1011898.54,salary,medium,Port Harcourt,5
+F00384,55+,2202218.03,student,high,Lagos,3
+F00385,18-24,2461472.79,self_employed,low,Port Harcourt,3
+F00386,55+,1753572.83,salary,medium,Ibadan,2
+F00387,18-24,851338.64,self_employed,medium,Ibadan,1
+F00388,55+,234767.96,self_employed,medium,Lagos,1
+F00389,55+,508218.82,salary,medium,Port Harcourt,3
+F00390,55+,1927564.49,salary,medium,Abuja,5
+F00391,45-54,605315.26,student,medium,Abuja,2
+F00392,45-54,2321907.08,self_employed,low,Lagos,1
+F00393,18-24,462024.45,business_owner,high,Lagos,3
+F00394,35-44,1123087.45,salary,medium,Port Harcourt,1
+F00395,18-24,564295.36,salary,low,Lagos,4
+F00396,25-34,2197808.36,self_employed,low,Port Harcourt,4
+F00397,55+,2038586.4,business_owner,high,Ibadan,1
+F00398,45-54,2439237.02,self_employed,medium,Ibadan,5
+F00399,45-54,806863.01,salary,low,Lagos,1
+F00400,35-44,927175.52,self_employed,medium,Ibadan,0
+F00401,45-54,2209405.81,salary,medium,Lagos,3
+F00402,55+,2211047.11,business_owner,high,Ibadan,5
+F00403,45-54,888504.66,salary,medium,Ibadan,2
+F00404,55+,1984055.97,salary,medium,Port Harcourt,0
+F00405,18-24,1313388.25,student,low,Abuja,0
+F00406,25-34,606964.88,student,low,Ibadan,5
+F00407,55+,1458193.74,business_owner,high,Lagos,5
+F00408,55+,1583422.82,business_owner,medium,Lagos,4
+F00409,45-54,367148.26,self_employed,medium,Ibadan,3
+F00410,45-54,1764527.36,self_employed,medium,Abuja,5
+F00411,55+,993156.65,salary,medium,Abuja,5
+F00412,25-34,499851.87,self_employed,medium,Lagos,4
+F00413,45-54,1628794.1,student,low,Abuja,5
+F00414,55+,81586.45,salary,medium,Port Harcourt,1
+F00415,25-34,532553.88,self_employed,low,Abuja,0
+F00416,25-34,2460435.64,student,medium,Lagos,3
+F00417,55+,2408350.07,salary,medium,Ibadan,0
+F00418,25-34,1237119.72,self_employed,low,Port Harcourt,0
+F00419,18-24,2480264.06,student,medium,Abuja,2
+F00420,45-54,2456889.02,student,low,Ibadan,1
+F00421,45-54,786415.25,self_employed,medium,Abuja,1
+F00422,45-54,463596.21,student,medium,Port Harcourt,0
+F00423,25-34,990151.9,student,medium,Lagos,0
+F00424,35-44,1542669.23,salary,medium,Port Harcourt,0
+F00425,25-34,705899.66,business_owner,medium,Abuja,2
+F00426,35-44,1410305.71,self_employed,low,Lagos,0
+F00427,55+,2082466.97,student,medium,Lagos,5
+F00428,45-54,82511.1,student,high,Lagos,0
+F00429,25-34,823073.54,business_owner,medium,Port Harcourt,5
+F00430,18-24,618505.63,business_owner,medium,Abuja,2
+F00431,18-24,371979.86,self_employed,medium,Lagos,3
+F00432,55+,1310535.14,student,high,Lagos,5
+F00433,45-54,534896.6,salary,medium,Port Harcourt,0
+F00434,18-24,1183008.77,self_employed,medium,Lagos,3
+F00435,45-54,1119865.79,business_owner,low,Lagos,5
+F00436,18-24,185026.89,business_owner,low,Port Harcourt,2
+F00437,45-54,98485.04,self_employed,medium,Port Harcourt,1
+F00438,25-34,1195525.86,business_owner,medium,Lagos,0
+F00439,25-34,1054080.12,self_employed,low,Lagos,1
+F00440,45-54,315775.34,self_employed,medium,Port Harcourt,3
+F00441,45-54,1092869.07,self_employed,low,Abuja,0
+F00442,45-54,1256885.69,salary,low,Port Harcourt,1
+F00443,55+,2022342.16,self_employed,high,Abuja,5
+F00444,55+,1902510.16,salary,low,Port Harcourt,3
+F00445,25-34,1295898.06,student,high,Abuja,3
+F00446,25-34,2104232.12,salary,high,Ibadan,5
+F00447,35-44,617707.17,student,high,Port Harcourt,2
+F00448,18-24,2182580.29,salary,high,Lagos,5
+F00449,55+,1734665.11,student,high,Abuja,5
+F00450,45-54,2350643.13,business_owner,low,Port Harcourt,1
+F00451,55+,2095684.54,salary,low,Abuja,5
+F00452,55+,1098608.96,business_owner,high,Port Harcourt,5
+F00453,55+,1066811.75,student,medium,Port Harcourt,1
+F00454,45-54,332982.15,business_owner,medium,Ibadan,2
+F00455,18-24,1827906.2,business_owner,medium,Abuja,1
+F00456,55+,2312228.44,student,low,Abuja,1
+F00457,55+,1099658.24,salary,high,Port Harcourt,2
+F00458,45-54,2164995.21,student,high,Lagos,1
+F00459,45-54,2167524.79,self_employed,high,Port Harcourt,3
+F00460,35-44,2352495.99,business_owner,low,Abuja,0
+F00461,18-24,985057.37,salary,low,Lagos,0
+F00462,35-44,298658.97,self_employed,medium,Ibadan,2
+F00463,35-44,1111470.46,student,low,Abuja,1
+F00464,18-24,607671.36,self_employed,low,Abuja,5
+F00465,45-54,755044.46,business_owner,high,Abuja,5
+F00466,18-24,950265.94,salary,medium,Lagos,2
+F00467,45-54,718801.53,student,medium,Lagos,5
+F00468,45-54,378760.62,self_employed,medium,Port Harcourt,0
+F00469,25-34,304284.3,business_owner,high,Port Harcourt,5
+F00470,35-44,162092.07,student,high,Abuja,1
+F00471,18-24,1291499.21,self_employed,low,Ibadan,1
+F00472,45-54,2219820.43,salary,medium,Ibadan,4
+F00473,25-34,1123800.68,student,medium,Port Harcourt,4
+F00474,35-44,2376908.9,business_owner,low,Lagos,3
+F00475,35-44,756731.37,business_owner,medium,Lagos,2
+F00476,45-54,984631.68,student,low,Port Harcourt,2
+F00477,18-24,1225769.16,salary,medium,Lagos,2
+F00478,18-24,102699.47,business_owner,medium,Abuja,4
+F00479,25-34,2392402.13,business_owner,medium,Abuja,1
+F00480,55+,2261791.35,business_owner,high,Lagos,4
+F00481,35-44,1368145.65,salary,low,Abuja,2
+F00482,18-24,2174222.04,salary,medium,Port Harcourt,3
+F00483,45-54,1378905.43,self_employed,high,Port Harcourt,4
+F00484,25-34,1967129.03,student,low,Abuja,3
+F00485,55+,2263452.46,self_employed,high,Lagos,4
+F00486,35-44,816019.15,self_employed,low,Port Harcourt,2
+F00487,45-54,178614.88,self_employed,low,Ibadan,0
+F00488,18-24,243387.57,salary,low,Ibadan,4
+F00489,35-44,1822280.39,salary,low,Lagos,5
+F00490,25-34,122835.7,business_owner,low,Ibadan,3
+F00491,35-44,713464.21,salary,medium,Ibadan,5
+F00492,45-54,1178820.95,business_owner,low,Abuja,4
+F00493,45-54,1652563.46,student,medium,Abuja,4
+F00494,45-54,340034.0,business_owner,high,Lagos,5
+F00495,25-34,2024336.02,self_employed,medium,Ibadan,1
+F00496,35-44,1747581.08,student,high,Lagos,3
+F00497,18-24,1573886.43,self_employed,low,Port Harcourt,4
+F00498,55+,1801708.01,salary,high,Lagos,1
+F00499,55+,101728.49,business_owner,low,Port Harcourt,4
+F00500,25-34,295073.63,salary,high,Port Harcourt,3
+F00501,55+,186398.06,business_owner,medium,Ibadan,5
+F00502,25-34,1794276.89,self_employed,medium,Port Harcourt,4
+F00503,45-54,1759430.82,salary,high,Ibadan,5
+F00504,55+,1837954.13,student,low,Port Harcourt,3
+F00505,18-24,591429.64,salary,medium,Abuja,3
+F00506,25-34,1682541.25,student,medium,Lagos,5
+F00507,25-34,1947748.8,salary,high,Ibadan,2
+F00508,18-24,459249.45,salary,high,Abuja,4
+F00509,18-24,1488718.31,business_owner,low,Ibadan,3
+F00510,25-34,938510.28,business_owner,low,Port Harcourt,4
+F00511,45-54,269558.93,business_owner,high,Port Harcourt,0
+F00512,25-34,484454.43,self_employed,low,Port Harcourt,3
+F00513,55+,1865094.29,salary,medium,Ibadan,3
+F00514,55+,2422911.81,business_owner,high,Port Harcourt,3
+F00515,45-54,2216748.17,student,high,Ibadan,4
+F00516,25-34,1507494.83,self_employed,low,Port Harcourt,0
+F00517,18-24,2484114.91,business_owner,low,Lagos,2
+F00518,18-24,2439907.9,self_employed,high,Port Harcourt,3
+F00519,55+,882501.71,self_employed,high,Ibadan,1
+F00520,45-54,502941.73,student,medium,Lagos,1
+F00521,55+,1605817.02,salary,medium,Lagos,0
+F00522,25-34,1582013.65,self_employed,medium,Ibadan,4
+F00523,45-54,1490729.14,business_owner,low,Lagos,0
+F00524,45-54,807583.85,self_employed,medium,Lagos,2
+F00525,18-24,1930375.11,self_employed,medium,Lagos,1
+F00526,18-24,1843702.32,business_owner,high,Lagos,0
+F00527,45-54,2264475.61,business_owner,low,Port Harcourt,2
+F00528,25-34,565165.22,self_employed,low,Abuja,0
+F00529,25-34,1625063.57,student,high,Ibadan,0
+F00530,35-44,513922.57,student,high,Lagos,3
+F00531,25-34,1656383.11,student,low,Abuja,5
+F00532,55+,1073651.99,business_owner,medium,Ibadan,1
+F00533,45-54,1785167.26,student,medium,Abuja,3
+F00534,55+,300459.08,student,medium,Lagos,3
+F00535,18-24,1228342.28,salary,medium,Abuja,1
+F00536,25-34,1829021.2,business_owner,high,Abuja,1
+F00537,18-24,2443128.06,student,high,Port Harcourt,0
+F00538,45-54,523421.46,salary,medium,Abuja,0
+F00539,18-24,2284445.65,salary,medium,Lagos,2
+F00540,55+,1009611.36,business_owner,low,Abuja,1
+F00541,55+,588327.35,student,low,Port Harcourt,2
+F00542,45-54,846494.83,student,high,Port Harcourt,1
+F00543,55+,1001726.2,salary,medium,Ibadan,3
+F00544,55+,1364315.54,student,low,Abuja,5
+F00545,18-24,1471404.59,self_employed,medium,Ibadan,3
+F00546,18-24,1384080.85,salary,low,Ibadan,4
+F00547,55+,1738047.38,salary,medium,Lagos,3
+F00548,45-54,500054.43,self_employed,low,Ibadan,5
+F00549,45-54,1089160.36,salary,low,Ibadan,0
+F00550,55+,1018678.22,salary,high,Ibadan,2
+F00551,18-24,552363.56,salary,low,Lagos,5
+F00552,55+,1429008.51,self_employed,high,Lagos,1
+F00553,45-54,1664605.25,self_employed,medium,Port Harcourt,0
+F00554,25-34,512552.91,self_employed,low,Port Harcourt,3
+F00555,25-34,526319.62,self_employed,high,Ibadan,1
+F00556,55+,231917.78,student,high,Port Harcourt,0
+F00557,55+,1689293.92,student,low,Ibadan,0
+F00558,25-34,1035230.26,business_owner,high,Port Harcourt,1
+F00559,25-34,99868.36,business_owner,low,Lagos,0
+F00560,35-44,2361334.46,student,low,Abuja,1
+F00561,45-54,426728.33,business_owner,medium,Port Harcourt,4
+F00562,25-34,2203287.57,business_owner,high,Ibadan,2
+F00563,55+,2164999.96,student,high,Lagos,0
+F00564,45-54,2040535.62,salary,low,Lagos,0
+F00565,35-44,2021104.44,student,medium,Lagos,0
+F00566,55+,2252613.13,self_employed,medium,Port Harcourt,1
+F00567,55+,1835747.27,student,low,Port Harcourt,5
+F00568,18-24,1212125.11,salary,medium,Ibadan,0
+F00569,25-34,768225.71,student,medium,Lagos,4
+F00570,25-34,2170240.86,business_owner,high,Port Harcourt,3
+F00571,18-24,325584.55,salary,medium,Abuja,1
+F00572,18-24,2320121.48,salary,high,Lagos,2
+F00573,18-24,849036.19,student,medium,Abuja,4
+F00574,18-24,411299.92,student,high,Port Harcourt,1
+F00575,25-34,147506.59,self_employed,medium,Lagos,1
+F00576,35-44,1763475.58,business_owner,high,Ibadan,5
+F00577,45-54,967021.71,business_owner,high,Abuja,5
+F00578,25-34,1343242.0,business_owner,high,Lagos,0
+F00579,35-44,1327077.21,salary,medium,Port Harcourt,5
+F00580,45-54,871420.82,salary,medium,Abuja,1
+F00581,55+,834778.8,student,medium,Abuja,3
+F00582,45-54,2374401.36,salary,high,Lagos,5
+F00583,25-34,1592096.9,self_employed,medium,Abuja,1
+F00584,18-24,2308159.57,self_employed,high,Port Harcourt,1
+F00585,25-34,856031.22,self_employed,low,Ibadan,4
+F00586,18-24,587839.63,student,medium,Abuja,2
+F00587,55+,1650952.01,student,high,Lagos,4
+F00588,45-54,2392748.3,self_employed,medium,Abuja,3
+F00589,35-44,1456680.91,self_employed,low,Ibadan,2
+F00590,35-44,1000617.49,self_employed,low,Port Harcourt,5
+F00591,25-34,2397740.88,salary,high,Abuja,5
+F00592,25-34,2321789.91,business_owner,high,Port Harcourt,0
+F00593,55+,1565404.74,self_employed,medium,Lagos,1
+F00594,18-24,673458.34,student,low,Abuja,0
+F00595,55+,914116.18,salary,high,Abuja,2
+F00596,25-34,1646447.7,student,low,Lagos,4
+F00597,25-34,1540494.28,student,medium,Abuja,1
+F00598,25-34,355368.43,business_owner,low,Abuja,4
+F00599,18-24,2261236.96,student,medium,Lagos,5
+F00600,18-24,2194765.12,salary,high,Port Harcourt,1
+F00601,25-34,2259472.25,business_owner,high,Ibadan,2
+F00602,18-24,825261.05,salary,high,Port Harcourt,2
+F00603,45-54,238259.12,self_employed,high,Port Harcourt,5
+F00604,45-54,872249.91,self_employed,high,Ibadan,0
+F00605,55+,1434453.46,salary,high,Ibadan,3
+F00606,55+,442648.64,student,medium,Abuja,5
+F00607,18-24,2356904.08,student,low,Ibadan,0
+F00608,35-44,848845.96,self_employed,medium,Ibadan,5
+F00609,18-24,1868189.12,business_owner,medium,Abuja,1
+F00610,25-34,1128728.9,student,low,Lagos,0
+F00611,18-24,245944.55,self_employed,low,Ibadan,1
+F00612,25-34,656807.17,self_employed,low,Ibadan,3
+F00613,25-34,307312.36,salary,high,Ibadan,1
+F00614,35-44,1400219.11,student,low,Ibadan,2
+F00615,45-54,500925.71,business_owner,low,Abuja,0
+F00616,25-34,861619.15,self_employed,high,Abuja,0
+F00617,25-34,2006357.99,business_owner,high,Port Harcourt,4
+F00618,45-54,2048886.44,business_owner,medium,Abuja,0
+F00619,45-54,1944976.56,business_owner,low,Abuja,1
+F00620,18-24,247186.03,business_owner,low,Lagos,4
+F00621,35-44,2181711.1,student,medium,Lagos,5
+F00622,35-44,1140730.02,student,high,Lagos,2
+F00623,18-24,2284938.43,salary,medium,Lagos,4
+F00624,55+,1861494.23,salary,medium,Ibadan,0
+F00625,55+,862734.79,self_employed,high,Ibadan,0
+F00626,45-54,2395183.74,student,low,Abuja,3
+F00627,25-34,406976.79,self_employed,high,Lagos,5
+F00628,45-54,2259670.76,student,high,Abuja,0
+F00629,35-44,325753.28,salary,high,Ibadan,2
+F00630,25-34,1904175.69,student,medium,Ibadan,0
+F00631,45-54,1842255.18,self_employed,low,Abuja,0
+F00632,45-54,2206525.31,self_employed,medium,Ibadan,0
+F00633,35-44,769808.89,business_owner,medium,Port Harcourt,3
+F00634,35-44,1473462.84,business_owner,high,Abuja,5
+F00635,55+,1488520.54,salary,high,Port Harcourt,4
+F00636,35-44,1897649.97,business_owner,medium,Port Harcourt,2
+F00637,25-34,2084326.73,student,low,Ibadan,5
+F00638,18-24,2220069.84,self_employed,low,Abuja,2
+F00639,35-44,1550203.65,student,medium,Abuja,1
+F00640,45-54,2471529.72,salary,high,Ibadan,0
+F00641,25-34,1581315.22,salary,medium,Ibadan,0
+F00642,35-44,209178.34,student,high,Abuja,0
+F00643,55+,1958198.86,student,low,Port Harcourt,3
+F00644,25-34,2379221.78,student,medium,Ibadan,2
+F00645,45-54,202616.13,self_employed,high,Lagos,1
+F00646,18-24,1855409.5,student,high,Lagos,1
+F00647,55+,1777275.43,salary,high,Port Harcourt,3
+F00648,35-44,893083.2,business_owner,medium,Abuja,1
+F00649,45-54,544084.61,salary,low,Ibadan,1
+F00650,25-34,1027287.31,self_employed,medium,Ibadan,4
+F00651,45-54,749785.08,student,high,Abuja,1
+F00652,45-54,399796.95,self_employed,medium,Lagos,2
+F00653,45-54,537314.26,student,low,Abuja,5
+F00654,55+,545065.48,salary,medium,Port Harcourt,0
+F00655,55+,1515819.29,self_employed,medium,Ibadan,1
+F00656,35-44,1945733.94,business_owner,medium,Port Harcourt,4
+F00657,25-34,2114684.66,self_employed,medium,Port Harcourt,2
+F00658,18-24,2160950.66,self_employed,low,Ibadan,4
+F00659,35-44,2084225.09,salary,high,Port Harcourt,5
+F00660,18-24,1100089.83,salary,high,Lagos,3
+F00661,45-54,1372381.45,salary,high,Lagos,5
+F00662,45-54,1939631.05,self_employed,medium,Port Harcourt,5
+F00663,25-34,1930595.73,salary,high,Lagos,1
+F00664,35-44,618069.98,student,high,Ibadan,4
+F00665,25-34,1736291.3,student,low,Ibadan,1
+F00666,25-34,1443044.32,business_owner,high,Ibadan,5
+F00667,18-24,1693594.44,business_owner,low,Port Harcourt,0
+F00668,35-44,1630195.24,self_employed,low,Lagos,5
+F00669,25-34,694778.52,self_employed,low,Port Harcourt,1
+F00670,45-54,1329329.29,salary,high,Lagos,1
+F00671,25-34,1815273.6,student,medium,Port Harcourt,1
+F00672,18-24,863148.97,student,high,Port Harcourt,5
+F00673,35-44,101294.59,self_employed,medium,Ibadan,4
+F00674,35-44,442201.9,self_employed,high,Port Harcourt,0
+F00675,35-44,1831567.0,student,low,Abuja,4
+F00676,25-34,928448.98,self_employed,medium,Abuja,4
+F00677,55+,2318466.12,student,high,Lagos,5
+F00678,25-34,1573939.59,student,low,Lagos,3
+F00679,35-44,578558.62,student,high,Port Harcourt,2
+F00680,45-54,1907091.72,student,high,Ibadan,0
+F00681,18-24,1219100.54,student,medium,Lagos,2
+F00682,55+,658815.33,salary,low,Lagos,4
+F00683,45-54,2096771.29,business_owner,low,Lagos,0
+F00684,18-24,99462.45,business_owner,high,Port Harcourt,4
+F00685,45-54,161620.79,student,medium,Port Harcourt,5
+F00686,45-54,1319515.52,salary,low,Lagos,0
+F00687,45-54,554738.87,business_owner,high,Lagos,0
+F00688,45-54,1087623.24,business_owner,high,Abuja,1
+F00689,25-34,2078583.99,student,high,Abuja,3
+F00690,45-54,1755605.8,salary,medium,Abuja,3
+F00691,18-24,1371824.45,student,high,Lagos,4
+F00692,25-34,1573711.81,business_owner,medium,Ibadan,0
+F00693,35-44,1502785.99,business_owner,low,Lagos,0
+F00694,35-44,1169525.94,self_employed,low,Lagos,1
+F00695,25-34,1315529.2,business_owner,low,Ibadan,1
+F00696,25-34,337048.26,salary,high,Abuja,5
+F00697,18-24,2074417.57,salary,medium,Ibadan,4
+F00698,35-44,433001.21,self_employed,medium,Port Harcourt,2
+F00699,25-34,2164900.18,student,medium,Abuja,1
+F00700,25-34,2426062.63,self_employed,medium,Ibadan,1
+F00701,18-24,2267559.61,business_owner,medium,Lagos,0
+F00702,45-54,1122900.62,salary,low,Ibadan,1
+F00703,18-24,1727000.75,business_owner,high,Port Harcourt,1
+F00704,18-24,140145.25,student,low,Port Harcourt,2
+F00705,55+,1495396.58,self_employed,low,Lagos,2
+F00706,18-24,2152335.84,self_employed,medium,Port Harcourt,4
+F00707,45-54,2294423.65,business_owner,low,Port Harcourt,5
+F00708,18-24,1182318.84,student,low,Port Harcourt,0
+F00709,25-34,1671202.64,self_employed,medium,Abuja,0
+F00710,18-24,1577920.59,student,low,Lagos,5
+F00711,25-34,1750270.36,business_owner,high,Lagos,2
+F00712,55+,1852533.84,business_owner,medium,Abuja,4
+F00713,55+,1574369.46,salary,high,Port Harcourt,4
+F00714,55+,458930.85,business_owner,high,Port Harcourt,0
+F00715,18-24,1745659.4,student,low,Ibadan,3
+F00716,55+,842856.09,self_employed,high,Port Harcourt,4
+F00717,55+,2254651.26,business_owner,medium,Abuja,0
+F00718,55+,413148.85,salary,medium,Port Harcourt,5
+F00719,45-54,1491293.31,salary,low,Abuja,3
+F00720,55+,1441241.81,business_owner,medium,Lagos,5
+F00721,55+,1351681.34,business_owner,high,Port Harcourt,0
+F00722,55+,526031.83,student,low,Abuja,2
+F00723,25-34,1316331.17,salary,low,Ibadan,3
+F00724,25-34,1799675.38,salary,low,Ibadan,0
+F00725,45-54,2209353.85,student,high,Lagos,1
+F00726,25-34,2163824.17,salary,high,Ibadan,5
+F00727,18-24,2282195.75,student,high,Port Harcourt,5
+F00728,35-44,517913.09,business_owner,high,Ibadan,3
+F00729,45-54,1912258.99,student,low,Abuja,5
+F00730,25-34,1440925.14,student,high,Lagos,2
+F00731,45-54,2073701.99,business_owner,medium,Lagos,3
+F00732,25-34,1841397.16,self_employed,low,Port Harcourt,3
+F00733,45-54,1655170.41,self_employed,medium,Lagos,4
+F00734,55+,2232297.2,business_owner,high,Abuja,2
+F00735,18-24,249389.19,salary,medium,Abuja,0
+F00736,18-24,840414.73,salary,high,Lagos,1
+F00737,35-44,833232.3,business_owner,medium,Ibadan,4
+F00738,35-44,594453.56,student,low,Abuja,4
+F00739,45-54,1550774.4,business_owner,high,Port Harcourt,2
+F00740,45-54,2347766.83,student,low,Ibadan,4
+F00741,35-44,1797663.06,salary,low,Ibadan,0
+F00742,25-34,114564.57,salary,high,Abuja,1
+F00743,25-34,387613.2,salary,low,Ibadan,5
+F00744,18-24,806222.57,salary,low,Ibadan,1
+F00745,18-24,470966.21,self_employed,high,Abuja,3
+F00746,18-24,2095030.45,business_owner,low,Ibadan,4
+F00747,18-24,538300.82,self_employed,high,Ibadan,5
+F00748,25-34,1153284.67,salary,medium,Abuja,4
+F00749,18-24,760120.99,student,high,Port Harcourt,3
+F00750,25-34,863612.04,business_owner,low,Lagos,4
+F00751,45-54,2402924.82,self_employed,high,Lagos,4
+F00752,55+,141027.49,student,low,Port Harcourt,2
+F00753,25-34,1082752.22,salary,high,Ibadan,0
+F00754,25-34,1265981.56,self_employed,low,Lagos,5
+F00755,18-24,371680.54,salary,low,Ibadan,4
+F00756,45-54,1741049.78,business_owner,low,Ibadan,3
+F00757,25-34,2112317.99,business_owner,high,Abuja,5
+F00758,45-54,616807.85,business_owner,medium,Abuja,5
+F00759,18-24,776216.95,student,low,Lagos,2
+F00760,55+,483958.23,business_owner,medium,Lagos,1
+F00761,25-34,1540195.88,self_employed,low,Port Harcourt,3
+F00762,45-54,490959.65,business_owner,medium,Abuja,3
+F00763,45-54,1438708.89,self_employed,medium,Lagos,5
+F00764,45-54,674320.4,business_owner,medium,Abuja,0
+F00765,18-24,1072121.88,business_owner,high,Ibadan,4
+F00766,25-34,1325264.58,self_employed,high,Lagos,3
+F00767,25-34,1407142.92,student,high,Lagos,2
+F00768,55+,173163.36,self_employed,medium,Abuja,3
+F00769,18-24,1667397.29,business_owner,low,Port Harcourt,3
+F00770,45-54,2266338.97,student,low,Ibadan,4
+F00771,45-54,1208690.34,business_owner,high,Lagos,2
+F00772,45-54,2443455.9,student,medium,Lagos,2
+F00773,25-34,1289393.21,business_owner,low,Port Harcourt,2
+F00774,18-24,1907914.81,student,low,Abuja,5
+F00775,18-24,1883060.79,student,medium,Ibadan,1
+F00776,55+,334068.15,self_employed,high,Lagos,5
+F00777,25-34,2266713.11,student,high,Ibadan,0
+F00778,45-54,964115.64,business_owner,medium,Ibadan,1
+F00779,25-34,1641934.58,student,medium,Lagos,3
+F00780,18-24,420972.19,student,low,Ibadan,5
+F00781,35-44,415841.93,student,low,Lagos,4
+F00782,45-54,2467186.86,self_employed,high,Lagos,1
+F00783,45-54,2096207.9,salary,high,Port Harcourt,4
+F00784,55+,158067.87,salary,medium,Lagos,5
+F00785,18-24,1518493.55,business_owner,high,Port Harcourt,5
+F00786,35-44,141252.54,student,low,Ibadan,5
+F00787,25-34,98501.09,student,medium,Lagos,3
+F00788,45-54,158055.74,business_owner,high,Port Harcourt,0
+F00789,45-54,409902.23,student,high,Port Harcourt,5
+F00790,35-44,817419.04,self_employed,medium,Abuja,2
+F00791,35-44,1655092.17,student,high,Port Harcourt,3
+F00792,18-24,1236630.13,business_owner,medium,Port Harcourt,4
+F00793,18-24,1739869.26,student,high,Ibadan,3
+F00794,35-44,603064.3,self_employed,high,Ibadan,4
+F00795,25-34,1156413.0,business_owner,high,Port Harcourt,1
+F00796,45-54,2439506.86,salary,high,Abuja,4
+F00797,55+,2488105.35,self_employed,medium,Abuja,5
+F00798,18-24,2324622.33,self_employed,low,Lagos,1
+F00799,25-34,254011.62,student,low,Lagos,5
+F00800,25-34,1067868.08,self_employed,medium,Ibadan,1
+F00801,45-54,1500660.02,self_employed,low,Ibadan,4
+F00802,25-34,1580692.31,salary,high,Abuja,0
+F00803,35-44,380250.32,business_owner,high,Port Harcourt,1
+F00804,55+,1391416.05,business_owner,high,Lagos,5
+F00805,45-54,361288.66,business_owner,low,Port Harcourt,3
+F00806,25-34,529699.78,self_employed,low,Ibadan,2
+F00807,35-44,424737.8,student,high,Lagos,2
+F00808,55+,1095152.55,business_owner,high,Port Harcourt,1
+F00809,35-44,2009365.36,self_employed,high,Abuja,0
+F00810,25-34,1968017.22,student,high,Ibadan,3
+F00811,25-34,389073.39,salary,high,Lagos,3
+F00812,18-24,1997198.12,student,low,Ibadan,2
+F00813,18-24,954356.7,self_employed,high,Abuja,2
+F00814,35-44,1176663.76,student,high,Lagos,4
+F00815,45-54,219341.22,student,high,Ibadan,1
+F00816,45-54,444384.37,self_employed,low,Port Harcourt,3
+F00817,18-24,1423527.35,salary,low,Ibadan,0
+F00818,25-34,941243.82,self_employed,medium,Lagos,1
+F00819,18-24,939412.21,salary,high,Abuja,0
+F00820,55+,1648276.64,self_employed,high,Ibadan,1
+F00821,45-54,2362573.1,business_owner,high,Lagos,1
+F00822,25-34,2252927.48,salary,low,Ibadan,4
+F00823,25-34,661877.9,business_owner,low,Lagos,0
+F00824,18-24,2075647.53,business_owner,medium,Port Harcourt,3
+F00825,45-54,2449527.22,salary,high,Abuja,0
+F00826,18-24,956761.72,business_owner,high,Abuja,5
+F00827,35-44,1095844.63,business_owner,high,Ibadan,0
+F00828,55+,2376469.67,business_owner,low,Abuja,2
+F00829,25-34,101792.45,business_owner,medium,Lagos,3
+F00830,35-44,622916.26,student,high,Lagos,0
+F00831,18-24,1060199.13,student,high,Lagos,2
+F00832,45-54,394652.04,self_employed,high,Lagos,2
+F00833,55+,2383242.33,student,medium,Ibadan,5
+F00834,18-24,176852.26,student,medium,Abuja,0
+F00835,25-34,2327833.16,student,high,Abuja,3
+F00836,18-24,240699.97,self_employed,medium,Lagos,0
+F00837,35-44,557844.19,salary,high,Lagos,3
+F00838,35-44,2448098.73,self_employed,low,Ibadan,0
+F00839,18-24,1884896.03,student,high,Ibadan,5
+F00840,55+,212532.41,self_employed,medium,Ibadan,4
+F00841,35-44,1351655.66,self_employed,low,Lagos,2
+F00842,25-34,119839.84,self_employed,medium,Abuja,3
+F00843,25-34,365525.45,salary,low,Ibadan,4
+F00844,18-24,2226348.31,salary,medium,Port Harcourt,3
+F00845,25-34,2258686.02,business_owner,high,Lagos,3
+F00846,18-24,435570.54,student,medium,Ibadan,3
+F00847,45-54,2194442.11,student,high,Port Harcourt,5
+F00848,35-44,881014.97,salary,medium,Lagos,4
+F00849,45-54,237505.53,student,medium,Abuja,5
+F00850,25-34,529446.46,business_owner,medium,Abuja,4
+F00851,35-44,1464732.35,student,low,Ibadan,0
+F00852,45-54,1865305.66,salary,high,Abuja,4
+F00853,45-54,1147831.09,salary,medium,Lagos,5
+F00854,45-54,2078123.36,self_employed,high,Ibadan,1
+F00855,45-54,1195110.42,salary,high,Lagos,1
+F00856,25-34,504665.32,salary,high,Lagos,1
+F00857,35-44,2325565.97,student,medium,Ibadan,4
+F00858,35-44,806377.23,student,low,Ibadan,1
+F00859,25-34,550579.62,student,low,Lagos,3
+F00860,55+,1776793.17,business_owner,high,Lagos,4
+F00861,45-54,2025803.15,business_owner,high,Ibadan,3
+F00862,55+,230322.6,salary,high,Lagos,2
+F00863,35-44,742421.44,salary,medium,Lagos,0
+F00864,35-44,436791.24,student,high,Lagos,2
+F00865,55+,173838.14,self_employed,low,Abuja,0
+F00866,55+,203038.34,self_employed,low,Lagos,1
+F00867,45-54,631877.9,salary,medium,Ibadan,5
+F00868,45-54,1356554.67,business_owner,low,Port Harcourt,3
+F00869,18-24,879581.12,student,high,Port Harcourt,4
+F00870,18-24,1619692.86,salary,medium,Port Harcourt,5
+F00871,18-24,1449442.82,salary,medium,Ibadan,5
+F00872,45-54,1028582.47,business_owner,medium,Lagos,5
+F00873,45-54,1708643.58,self_employed,low,Lagos,3
+F00874,55+,1656189.4,salary,medium,Ibadan,2
+F00875,25-34,517726.74,student,high,Abuja,2
+F00876,55+,2221638.53,salary,high,Abuja,1
+F00877,45-54,2217305.94,self_employed,low,Lagos,3
+F00878,35-44,158426.2,student,low,Ibadan,2
+F00879,18-24,85939.86,business_owner,medium,Lagos,2
+F00880,55+,2423306.46,self_employed,medium,Abuja,3
+F00881,35-44,1878887.0,self_employed,low,Abuja,2
+F00882,45-54,2112298.63,salary,low,Port Harcourt,5
+F00883,45-54,603493.86,self_employed,medium,Ibadan,2
+F00884,55+,1525476.29,business_owner,low,Lagos,4
+F00885,35-44,2441919.2,student,high,Ibadan,0
+F00886,35-44,1560492.62,student,high,Lagos,2
+F00887,45-54,1979359.01,student,high,Port Harcourt,0
+F00888,55+,404665.26,self_employed,low,Ibadan,5
+F00889,35-44,2290360.34,business_owner,medium,Abuja,0
+F00890,18-24,2442681.58,salary,high,Lagos,4
+F00891,25-34,470376.16,salary,medium,Lagos,1
+F00892,18-24,1715443.32,student,low,Ibadan,4
+F00893,35-44,176412.4,self_employed,low,Port Harcourt,3
+F00894,35-44,1640098.67,student,low,Abuja,5
+F00895,18-24,2377437.26,student,medium,Lagos,3
+F00896,35-44,2016915.9,self_employed,low,Port Harcourt,1
+F00897,55+,1659983.01,self_employed,high,Abuja,3
+F00898,18-24,797318.12,business_owner,low,Lagos,2
+F00899,55+,87689.71,salary,low,Abuja,0
+F00900,45-54,2330702.82,business_owner,low,Lagos,0
+F00901,55+,2061558.63,student,medium,Abuja,3
+F00902,55+,1899950.91,self_employed,low,Ibadan,4
+F00903,25-34,1256904.47,self_employed,low,Abuja,3
+F00904,55+,2407828.49,business_owner,high,Port Harcourt,5
+F00905,25-34,85796.51,self_employed,low,Lagos,3
+F00906,25-34,2214580.56,salary,low,Ibadan,2
+F00907,35-44,1941951.49,business_owner,high,Ibadan,3
+F00908,45-54,1557437.85,business_owner,high,Lagos,4
+F00909,18-24,1804925.85,salary,high,Lagos,3
+F00910,35-44,878586.79,self_employed,medium,Port Harcourt,2
+F00911,55+,2446278.5,salary,medium,Abuja,5
+F00912,25-34,1146037.54,salary,high,Ibadan,2
+F00913,25-34,496789.55,business_owner,high,Port Harcourt,1
+F00914,45-54,183699.39,salary,medium,Lagos,1
+F00915,45-54,1872081.94,salary,high,Lagos,1
+F00916,35-44,1107486.54,student,low,Ibadan,2
+F00917,18-24,2250830.72,self_employed,high,Ibadan,3
+F00918,18-24,2215231.52,business_owner,medium,Port Harcourt,3
+F00919,25-34,2131766.07,salary,medium,Abuja,5
+F00920,45-54,2220967.96,self_employed,low,Port Harcourt,2
+F00921,55+,623322.15,self_employed,medium,Port Harcourt,3
+F00922,55+,985912.74,student,medium,Lagos,3
+F00923,18-24,143450.49,student,medium,Port Harcourt,0
+F00924,25-34,530079.35,student,high,Lagos,2
+F00925,25-34,1409742.71,salary,medium,Abuja,2
+F00926,25-34,777337.66,salary,medium,Lagos,5
+F00927,18-24,1811379.46,business_owner,low,Port Harcourt,2
+F00928,55+,389201.46,salary,low,Lagos,5
+F00929,55+,2368248.86,salary,medium,Lagos,2
+F00930,25-34,2381005.89,salary,low,Port Harcourt,0
+F00931,25-34,198003.0,self_employed,medium,Port Harcourt,2
+F00932,35-44,603601.34,business_owner,medium,Ibadan,1
+F00933,45-54,807030.89,student,low,Abuja,3
+F00934,18-24,1882087.92,student,low,Ibadan,3
+F00935,45-54,1274009.15,self_employed,low,Ibadan,1
+F00936,35-44,2096140.88,student,high,Abuja,3
+F00937,18-24,1378548.65,self_employed,medium,Lagos,5
+F00938,25-34,1454864.45,student,high,Port Harcourt,5
+F00939,35-44,2004765.76,salary,high,Port Harcourt,3
+F00940,45-54,2338627.08,salary,medium,Port Harcourt,3
+F00941,25-34,1081060.2,salary,low,Lagos,0
+F00942,35-44,431749.31,student,medium,Ibadan,4
+F00943,35-44,1158669.78,self_employed,low,Abuja,2
+F00944,45-54,314979.14,self_employed,high,Abuja,5
+F00945,18-24,802633.77,business_owner,low,Lagos,1
+F00946,55+,2189652.21,student,low,Lagos,5
+F00947,35-44,1648582.31,self_employed,low,Lagos,5
+F00948,45-54,196648.03,self_employed,medium,Ibadan,4
+F00949,35-44,1423008.58,self_employed,high,Ibadan,1
+F00950,25-34,750014.1,self_employed,low,Port Harcourt,1
+F00951,18-24,554911.01,business_owner,medium,Ibadan,3
+F00952,18-24,2268896.93,student,high,Port Harcourt,2
+F00953,45-54,2267602.5,self_employed,high,Ibadan,3
+F00954,18-24,1933576.09,student,medium,Ibadan,0
+F00955,35-44,1965677.26,self_employed,low,Abuja,0
+F00956,18-24,745103.49,self_employed,low,Lagos,3
+F00957,18-24,2136194.13,salary,medium,Port Harcourt,1
+F00958,55+,1775650.81,self_employed,medium,Port Harcourt,1
+F00959,25-34,1342025.59,self_employed,medium,Abuja,2
+F00960,45-54,1762453.09,salary,low,Lagos,0
+F00961,55+,342244.11,self_employed,high,Port Harcourt,2
+F00962,18-24,498906.03,self_employed,low,Lagos,2
+F00963,35-44,2360740.15,student,low,Port Harcourt,4
+F00964,18-24,1162267.74,self_employed,medium,Ibadan,5
+F00965,55+,1319212.83,business_owner,low,Ibadan,2
+F00966,35-44,427611.4,business_owner,high,Port Harcourt,3
+F00967,55+,1192093.08,student,low,Lagos,3
+F00968,45-54,1165955.15,student,high,Abuja,5
+F00969,35-44,2256357.32,student,low,Abuja,3
+F00970,55+,1456531.46,student,high,Port Harcourt,1
+F00971,45-54,178947.88,student,low,Port Harcourt,1
+F00972,18-24,654513.47,business_owner,low,Port Harcourt,3
+F00973,45-54,459098.37,salary,high,Abuja,1
+F00974,18-24,2121210.96,student,medium,Abuja,4
+F00975,35-44,1077962.18,business_owner,high,Lagos,3
+F00976,55+,1599038.8,salary,low,Abuja,1
+F00977,35-44,505561.65,salary,high,Lagos,5
+F00978,18-24,1088812.93,business_owner,medium,Lagos,4
+F00979,18-24,736212.65,student,high,Port Harcourt,1
+F00980,25-34,129673.88,business_owner,high,Lagos,5
+F00981,35-44,793099.74,salary,medium,Abuja,0
+F00982,18-24,1005813.63,salary,medium,Abuja,3
+F00983,25-34,454487.58,salary,low,Lagos,0
+F00984,45-54,609566.25,salary,medium,Lagos,3
+F00985,45-54,1185992.35,student,low,Lagos,5
+F00986,55+,337109.33,self_employed,high,Abuja,1
+F00987,45-54,1123004.87,self_employed,low,Port Harcourt,1
+F00988,55+,491380.18,self_employed,low,Abuja,0
+F00989,35-44,503223.73,business_owner,medium,Ibadan,0
+F00990,45-54,414826.71,self_employed,low,Abuja,3
+F00991,35-44,1421030.39,salary,high,Ibadan,5
+F00992,55+,1367211.62,student,medium,Ibadan,2
+F00993,35-44,1836383.36,student,high,Lagos,1
+F00994,45-54,315832.54,student,low,Ibadan,3
+F00995,25-34,2158382.02,business_owner,medium,Ibadan,2
+F00996,45-54,1801883.94,salary,medium,Port Harcourt,3
+F00997,18-24,135133.16,self_employed,high,Port Harcourt,5
+F00998,18-24,1339643.36,business_owner,low,Abuja,4
+F00999,18-24,1502053.71,student,medium,Lagos,5
+F01000,55+,687033.87,self_employed,medium,Port Harcourt,4
+F01001,35-44,2390586.05,self_employed,medium,Ibadan,2
+F01002,18-24,859457.52,student,medium,Lagos,1
+F01003,45-54,1741226.13,salary,medium,Port Harcourt,0
+F01004,18-24,1733804.46,student,low,Abuja,2
+F01005,18-24,1790744.45,student,low,Ibadan,4
+F01006,45-54,935495.64,student,low,Ibadan,1
+F01007,55+,179275.24,salary,low,Lagos,3
+F01008,35-44,184538.12,self_employed,low,Abuja,5
+F01009,25-34,2069695.58,business_owner,low,Ibadan,2
+F01010,55+,1307188.92,salary,medium,Ibadan,1
+F01011,35-44,1192653.58,self_employed,high,Lagos,5
+F01012,55+,1886293.16,self_employed,high,Ibadan,5
+F01013,18-24,1261726.31,business_owner,medium,Lagos,2
+F01014,18-24,1058734.22,salary,medium,Ibadan,4
+F01015,25-34,351353.81,business_owner,high,Abuja,2
+F01016,45-54,331744.9,self_employed,medium,Port Harcourt,4
+F01017,45-54,2161742.0,business_owner,medium,Port Harcourt,0
+F01018,35-44,2106386.13,salary,medium,Lagos,1
+F01019,25-34,1312021.89,self_employed,low,Abuja,3
+F01020,25-34,170696.96,business_owner,high,Abuja,2
+F01021,35-44,1264459.33,business_owner,medium,Ibadan,4
+F01022,18-24,2185671.21,business_owner,low,Port Harcourt,5
+F01023,55+,1631881.6,self_employed,low,Lagos,3
+F01024,55+,1709102.01,student,low,Port Harcourt,1
+F01025,55+,992535.93,student,low,Port Harcourt,4
+F01026,18-24,693082.02,student,medium,Ibadan,0
+F01027,35-44,865830.71,salary,medium,Port Harcourt,3
+F01028,35-44,572305.04,business_owner,low,Lagos,0
+F01029,45-54,198023.49,salary,high,Ibadan,2
+F01030,25-34,410690.42,student,high,Port Harcourt,5
+F01031,35-44,936700.86,business_owner,low,Lagos,0
+F01032,55+,1395885.18,student,medium,Port Harcourt,4
+F01033,55+,2293123.92,business_owner,high,Abuja,3
+F01034,25-34,2330668.58,salary,low,Lagos,2
+F01035,45-54,2398325.53,self_employed,low,Abuja,3
+F01036,45-54,362396.03,self_employed,high,Ibadan,1
+F01037,25-34,1057638.16,self_employed,high,Port Harcourt,1
+F01038,35-44,1595352.23,business_owner,high,Lagos,5
+F01039,45-54,1511514.45,salary,medium,Port Harcourt,1
+F01040,18-24,1505658.75,self_employed,high,Ibadan,3
+F01041,35-44,510545.97,self_employed,medium,Abuja,4
+F01042,35-44,1803283.71,salary,high,Abuja,5
+F01043,55+,644552.37,salary,high,Ibadan,1
+F01044,18-24,2114204.86,business_owner,high,Ibadan,2
+F01045,55+,459343.46,student,medium,Port Harcourt,4
+F01046,55+,626981.16,self_employed,medium,Port Harcourt,1
+F01047,55+,838647.6,student,high,Abuja,1
+F01048,25-34,2244816.07,student,medium,Abuja,2
+F01049,55+,512760.69,student,medium,Ibadan,2
+F01050,35-44,2074279.27,self_employed,low,Ibadan,0
+F01051,18-24,1501119.02,salary,low,Abuja,1
+F01052,55+,1559735.99,business_owner,high,Port Harcourt,0
+F01053,45-54,290315.43,student,high,Port Harcourt,3
+F01054,25-34,1031599.49,student,medium,Port Harcourt,1
+F01055,35-44,524949.78,salary,medium,Lagos,0
+F01056,25-34,2346373.59,student,medium,Port Harcourt,2
+F01057,18-24,1560006.38,salary,high,Ibadan,4
+F01058,55+,261276.35,student,medium,Ibadan,3
+F01059,18-24,1664891.9,self_employed,high,Abuja,4
+F01060,18-24,1878979.84,business_owner,low,Port Harcourt,0
+F01061,45-54,1323210.24,student,low,Abuja,4
+F01062,45-54,597193.83,student,low,Abuja,1
+F01063,45-54,1322643.25,salary,high,Ibadan,0
+F01064,18-24,1719327.85,business_owner,high,Ibadan,4
+F01065,55+,1668477.92,self_employed,medium,Ibadan,0
+F01066,45-54,1960248.74,business_owner,high,Port Harcourt,1
+F01067,18-24,1530690.89,salary,low,Abuja,0
+F01068,18-24,392668.31,salary,medium,Lagos,2
+F01069,25-34,1348604.25,self_employed,medium,Ibadan,4
+F01070,45-54,1976785.11,student,low,Ibadan,0
+F01071,25-34,1197004.8,salary,medium,Lagos,2
+F01072,55+,330029.19,salary,high,Port Harcourt,2
+F01073,25-34,650306.8,business_owner,high,Ibadan,2
+F01074,25-34,744722.39,self_employed,low,Lagos,0
+F01075,18-24,1839452.78,business_owner,low,Ibadan,1
+F01076,18-24,454318.14,student,high,Ibadan,3
+F01077,55+,291442.35,student,medium,Port Harcourt,0
+F01078,55+,1913287.95,business_owner,medium,Abuja,1
+F01079,18-24,338875.77,salary,low,Port Harcourt,3
+F01080,18-24,2478991.55,self_employed,medium,Abuja,0
+F01081,25-34,2120599.99,salary,low,Ibadan,2
+F01082,18-24,421610.6,student,low,Port Harcourt,5
+F01083,55+,1137820.18,student,medium,Abuja,4
+F01084,18-24,252676.89,salary,low,Lagos,3
+F01085,45-54,1577560.08,self_employed,low,Port Harcourt,5
+F01086,35-44,2097632.76,business_owner,high,Abuja,5
+F01087,35-44,538235.67,business_owner,high,Lagos,2
+F01088,45-54,944576.48,student,high,Port Harcourt,4
+F01089,45-54,1438948.38,self_employed,high,Lagos,3
+F01090,35-44,1241943.55,self_employed,medium,Abuja,5
+F01091,35-44,460253.64,student,low,Abuja,5
+F01092,25-34,1450024.22,student,high,Ibadan,1
+F01093,55+,1334317.29,student,low,Abuja,2
+F01094,25-34,2032333.09,business_owner,medium,Abuja,4
+F01095,45-54,2284264.76,self_employed,medium,Abuja,4
+F01096,45-54,1747736.52,business_owner,high,Ibadan,2
+F01097,55+,1765629.59,self_employed,high,Ibadan,3
+F01098,35-44,1494037.15,student,medium,Lagos,1
+F01099,55+,1812963.16,student,medium,Lagos,2
+F01100,55+,746493.64,self_employed,medium,Abuja,1
+F01101,25-34,1311751.17,salary,medium,Port Harcourt,2
+F01102,45-54,1653710.96,student,low,Abuja,2
+F01103,35-44,138050.55,self_employed,high,Lagos,3
+F01104,55+,1744201.03,student,low,Lagos,5
+F01105,45-54,1792762.64,self_employed,low,Ibadan,1
+F01106,18-24,1384200.69,salary,high,Lagos,2
+F01107,35-44,1582908.88,business_owner,low,Abuja,0
+F01108,45-54,2396744.71,salary,low,Abuja,0
+F01109,18-24,861471.16,salary,high,Lagos,2
+F01110,45-54,491410.71,self_employed,medium,Port Harcourt,2
+F01111,25-34,1373358.8,salary,medium,Port Harcourt,0
+F01112,18-24,1806338.94,self_employed,high,Abuja,4
+F01113,45-54,1749696.94,student,medium,Lagos,4
+F01114,45-54,2471141.07,business_owner,high,Abuja,3
+F01115,25-34,1746316.66,salary,low,Lagos,0
+F01116,35-44,160911.4,self_employed,high,Abuja,1
+F01117,35-44,294095.67,salary,medium,Port Harcourt,3
+F01118,45-54,443458.99,student,low,Ibadan,1
+F01119,18-24,743538.28,business_owner,low,Abuja,5
+F01120,18-24,1634651.08,business_owner,low,Abuja,0
+F01121,45-54,342358.57,self_employed,high,Lagos,1
+F01122,55+,297495.3,student,low,Lagos,4
+F01123,18-24,1333091.87,student,high,Lagos,5
+F01124,55+,655066.21,self_employed,high,Lagos,4
+F01125,25-34,362881.27,student,low,Lagos,0
+F01126,18-24,1714617.08,student,medium,Lagos,0
+F01127,55+,559246.72,self_employed,high,Ibadan,2
+F01128,25-34,2035270.36,business_owner,high,Ibadan,4
+F01129,25-34,1781697.83,self_employed,medium,Abuja,3
+F01130,25-34,1355241.42,student,low,Ibadan,3
+F01131,55+,405802.6,business_owner,medium,Abuja,0
+F01132,18-24,2088082.64,self_employed,high,Port Harcourt,4
+F01133,25-34,1720046.17,business_owner,medium,Abuja,2
+F01134,18-24,2296834.59,business_owner,low,Ibadan,2
+F01135,35-44,434709.35,self_employed,low,Lagos,3
+F01136,55+,506627.64,business_owner,high,Port Harcourt,4
+F01137,18-24,1176647.41,student,high,Ibadan,1
+F01138,18-24,1462867.8,student,low,Lagos,0
+F01139,55+,2336981.37,student,medium,Port Harcourt,5
+F01140,35-44,317876.93,student,high,Abuja,4
+F01141,55+,605544.78,student,high,Abuja,5
+F01142,35-44,473868.29,business_owner,medium,Port Harcourt,2
+F01143,55+,1651140.73,business_owner,low,Port Harcourt,2
+F01144,45-54,1698544.61,business_owner,low,Lagos,3
+F01145,18-24,1771715.52,self_employed,medium,Abuja,4
+F01146,55+,92319.7,self_employed,high,Lagos,0
+F01147,18-24,119317.48,student,medium,Abuja,4
+F01148,35-44,848187.7,salary,low,Ibadan,4
+F01149,55+,1202987.11,business_owner,medium,Lagos,2
+F01150,55+,1183443.76,business_owner,medium,Port Harcourt,2
+F01151,45-54,2218973.46,student,high,Lagos,4
+F01152,25-34,2380580.59,business_owner,low,Port Harcourt,2
+F01153,35-44,1529035.86,business_owner,high,Port Harcourt,5
+F01154,35-44,382672.94,salary,medium,Port Harcourt,5
+F01155,25-34,1977392.83,salary,high,Lagos,0
+F01156,35-44,101172.88,business_owner,low,Lagos,0
+F01157,25-34,1152112.95,salary,high,Ibadan,3
+F01158,45-54,2375301.57,student,medium,Lagos,4
+F01159,18-24,1161298.14,student,low,Port Harcourt,2
+F01160,45-54,933652.05,business_owner,medium,Ibadan,1
+F01161,35-44,1172134.74,self_employed,low,Port Harcourt,3
+F01162,18-24,2416647.46,business_owner,low,Lagos,5
+F01163,18-24,1137530.95,student,medium,Lagos,0
+F01164,55+,2422299.24,salary,low,Port Harcourt,3
+F01165,55+,639471.47,salary,medium,Ibadan,4
+F01166,18-24,564057.81,salary,low,Abuja,3
+F01167,18-24,905338.59,self_employed,high,Ibadan,4
+F01168,45-54,411784.55,salary,low,Port Harcourt,1
+F01169,35-44,1095398.73,business_owner,high,Abuja,4
+F01170,55+,1463085.02,business_owner,low,Lagos,5
+F01171,25-34,1312556.74,salary,low,Abuja,0
+F01172,45-54,2347521.21,self_employed,low,Ibadan,3
+F01173,55+,656718.81,self_employed,low,Lagos,4
+F01174,25-34,346890.9,self_employed,medium,Lagos,5
+F01175,45-54,1352186.49,student,low,Port Harcourt,4
+F01176,45-54,2459781.47,business_owner,high,Lagos,4
+F01177,25-34,1509932.42,salary,medium,Lagos,5
+F01178,18-24,768906.74,student,medium,Lagos,1
+F01179,45-54,665171.82,business_owner,high,Ibadan,1
+F01180,45-54,1130885.1,student,low,Abuja,3
+F01181,18-24,2362380.08,salary,low,Port Harcourt,2
+F01182,35-44,1500862.74,salary,high,Abuja,1
+F01183,25-34,377204.26,student,medium,Port Harcourt,1
+F01184,25-34,1375150.22,student,medium,Lagos,0
+F01185,18-24,238764.97,student,low,Abuja,2
+F01186,55+,155455.59,business_owner,medium,Abuja,4
+F01187,18-24,2422994.53,salary,low,Port Harcourt,3
+F01188,25-34,858268.04,salary,low,Lagos,0
+F01189,55+,449679.41,student,medium,Lagos,0
+F01190,35-44,647462.34,business_owner,low,Abuja,3
+F01191,55+,2376422.94,student,high,Ibadan,4
+F01192,55+,562244.07,student,high,Abuja,3
+F01193,25-34,762617.82,business_owner,high,Ibadan,5
+F01194,55+,1960101.39,business_owner,medium,Ibadan,2
+F01195,35-44,948031.68,business_owner,high,Lagos,4
+F01196,35-44,1202691.76,salary,high,Ibadan,3
+F01197,35-44,391131.55,self_employed,medium,Abuja,4
+F01198,55+,2129436.77,self_employed,low,Abuja,3
+F01199,45-54,1644600.2,business_owner,medium,Ibadan,1
+F01200,18-24,890722.29,student,high,Ibadan,3

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+feedback/
+backend/data/new_interactions.csv
+backend/aws/build/

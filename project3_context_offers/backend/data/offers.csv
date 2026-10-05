@@ -1,0 +1,121 @@
+offer_id,title,category,discount_pct,min_spend,channel,region,active,expires_at
+O00001,Flash Apparel & Footwear Offer 1,Apparel & Footwear,25,250,web,Lagos,True,2026-11-02
+O00002,Save Electronics Offer 2,Electronics,25,25,both,Lagos,True,2026-09-25
+O00003,Bonus Electronics Offer 3,Electronics,5,100,mobile,Abuja,True,2026-11-08
+O00004,Flash Home Care Offer 4,Home Care,5,250,web,Port Harcourt,True,2026-10-08
+O00005,Save Baby Care Offer 5,Baby Care,25,50,web,all,True,2026-10-31
+O00006,Bonus Home Care Offer 6,Home Care,10,100,web,Abuja,True,2026-10-29
+O00007,Bundle Home & Furniture Offer 7,Home & Furniture,5,25,both,Lagos,True,2026-12-28
+O00008,Save Apparel & Footwear Offer 8,Apparel & Footwear,30,50,mobile,Lagos,True,2026-10-19
+O00009,Bundle Apparel & Footwear Offer 9,Apparel & Footwear,30,25,mobile,Lagos,True,2026-12-03
+O00010,Bundle Electronics Offer 10,Electronics,15,100,both,all,True,2026-10-02
+O00011,Save Home & Furniture Offer 11,Home & Furniture,30,0,web,Abuja,True,2026-10-13
+O00012,Flash Home Care Offer 12,Home Care,10,250,web,Abuja,True,2026-10-10
+O00013,Save Office & School Offer 13,Office & School,30,0,mobile,Lagos,True,2026-12-03
+O00014,Flash Baby Care Offer 14,Baby Care,15,25,web,all,True,2026-11-20
+O00015,Bonus Food & Beverage Offer 15,Food & Beverage,20,100,both,Port Harcourt,True,2026-11-03
+O00016,Bundle Office & School Offer 16,Office & School,5,0,web,all,True,2026-10-25
+O00017,Flash Office & School Offer 17,Office & School,5,100,both,all,True,2026-11-20
+O00018,Bundle Baby Care Offer 18,Baby Care,10,25,mobile,Port Harcourt,True,2026-11-20
+O00019,Save Office & School Offer 19,Office & School,15,100,web,Lagos,True,2026-09-25
+O00020,Bonus Toys & Games Offer 20,Toys & Games,30,50,web,Lagos,True,2026-12-10
+O00021,Bonus Travel Offer 21,Travel,5,25,web,Abuja,True,2026-11-11
+O00022,Save Food & Beverage Offer 22,Food & Beverage,30,0,web,Abuja,True,2026-11-09
+O00023,Bundle Appliances Offer 23,Appliances,10,250,both,Abuja,True,2026-11-14
+O00024,Bundle Pet Care Offer 24,Pet Care,15,25,both,Lagos,True,2026-12-14
+O00025,Bonus Beauty Offer 25,Beauty,30,50,both,Lagos,True,2026-11-17
+O00026,Save Beauty Offer 26,Beauty,5,100,mobile,all,True,2026-10-21
+O00027,Bonus Personal Care Offer 27,Personal Care,20,100,mobile,Port Harcourt,True,2026-12-08
+O00028,Save Travel Offer 28,Travel,5,100,mobile,Port Harcourt,True,2026-10-16
+O00029,Bonus Home & Furniture Offer 29,Home & Furniture,5,0,web,Abuja,True,2026-10-30
+O00030,Save Home Care Offer 30,Home Care,25,50,mobile,Port Harcourt,True,2026-10-24
+O00031,Bonus Beauty Offer 31,Beauty,30,100,both,Abuja,True,2026-11-13
+O00032,Bundle Apparel & Footwear Offer 32,Apparel & Footwear,10,250,mobile,all,True,2026-10-09
+O00033,Flash Home Care Offer 33,Home Care,5,25,web,Port Harcourt,True,2026-12-31
+O00034,Bonus Food & Beverage Offer 34,Food & Beverage,30,0,mobile,Port Harcourt,True,2026-12-21
+O00035,Bonus Baby Care Offer 35,Baby Care,30,0,web,Lagos,True,2026-10-24
+O00036,Bonus Electronics Offer 36,Electronics,25,25,web,Lagos,True,2026-10-30
+O00037,Bundle Personal Care Offer 37,Personal Care,5,100,mobile,Lagos,True,2026-10-19
+O00038,Bonus Electronics Offer 38,Electronics,30,250,both,all,True,2026-10-05
+O00039,Bonus Food & Beverage Offer 39,Food & Beverage,25,250,both,Abuja,True,2026-10-10
+O00040,Save Food & Beverage Offer 40,Food & Beverage,20,100,mobile,all,True,2026-10-12
+O00041,Save Personal Care Offer 41,Personal Care,10,250,mobile,Lagos,True,2026-12-29
+O00042,Save Apparel & Footwear Offer 42,Apparel & Footwear,20,50,both,Port Harcourt,True,2026-09-24
+O00043,Bonus Home & Kitchen Offer 43,Home & Kitchen,10,25,both,all,True,2026-11-29
+O00044,Bundle Food & Beverage Offer 44,Food & Beverage,5,25,web,Port Harcourt,True,2026-12-01
+O00045,Bundle Beauty Offer 45,Beauty,20,50,both,Port Harcourt,True,2026-12-12
+O00046,Bonus Home & Kitchen Offer 46,Home & Kitchen,25,0,mobile,Port Harcourt,True,2026-10-06
+O00047,Save Pet Care Offer 47,Pet Care,5,50,mobile,all,True,2026-11-01
+O00048,Bundle Home Care Offer 48,Home Care,10,0,web,Abuja,True,2026-11-28
+O00049,Save Apparel & Footwear Offer 49,Apparel & Footwear,30,50,both,Port Harcourt,True,2026-12-24
+O00050,Save Beauty Offer 50,Beauty,5,50,web,all,True,2026-11-25
+O00051,Bundle Toys & Games Offer 51,Toys & Games,5,100,both,Abuja,True,2026-11-03
+O00052,Bonus Travel Offer 52,Travel,30,0,web,all,True,2026-12-25
+O00053,Flash Personal Care Offer 53,Personal Care,25,50,web,Abuja,True,2026-12-10
+O00054,Bundle Appliances Offer 54,Appliances,5,100,both,Lagos,True,2026-12-14
+O00055,Save Electronics Offer 55,Electronics,25,50,both,Lagos,True,2026-11-15
+O00056,Bundle Personal Care Offer 56,Personal Care,20,250,mobile,Port Harcourt,True,2026-11-22
+O00057,Save Toys & Games Offer 57,Toys & Games,15,0,web,Port Harcourt,True,2026-11-04
+O00058,Bonus Toys & Games Offer 58,Toys & Games,20,250,mobile,Lagos,True,2026-11-07
+O00059,Flash Home & Kitchen Offer 59,Home & Kitchen,10,25,both,Port Harcourt,True,2026-12-06
+O00060,Bundle Electronics Offer 60,Electronics,25,250,both,Port Harcourt,True,2026-09-29
+O00061,Save Travel Offer 61,Travel,20,25,both,all,True,2026-12-14
+O00062,Save Electronics Offer 62,Electronics,10,250,both,Port Harcourt,True,2026-12-24
+O00063,Flash Home Care Offer 63,Home Care,5,0,both,Abuja,True,2026-10-08
+O00064,Save Apparel & Footwear Offer 64,Apparel & Footwear,5,50,both,Abuja,True,2026-09-28
+O00065,Bonus Home Care Offer 65,Home Care,10,250,both,Lagos,True,2026-11-21
+O00066,Flash Apparel & Footwear Offer 66,Apparel & Footwear,25,250,web,Port Harcourt,True,2026-10-24
+O00067,Bundle Home & Furniture Offer 67,Home & Furniture,20,100,mobile,Port Harcourt,True,2026-12-17
+O00068,Flash Home & Kitchen Offer 68,Home & Kitchen,5,50,both,Port Harcourt,True,2026-10-16
+O00069,Bonus Home Care Offer 69,Home Care,10,100,web,Port Harcourt,True,2026-11-03
+O00070,Save Personal Care Offer 70,Personal Care,5,0,web,Port Harcourt,True,2026-11-14
+O00071,Bundle Toys & Games Offer 71,Toys & Games,5,0,mobile,all,True,2026-09-28
+O00072,Save Electronics Offer 72,Electronics,30,100,both,Port Harcourt,True,2026-12-16
+O00073,Bundle Office & School Offer 73,Office & School,30,25,mobile,Lagos,True,2026-12-12
+O00074,Flash Beauty Offer 74,Beauty,25,100,web,Abuja,True,2026-12-09
+O00075,Flash Food & Beverage Offer 75,Food & Beverage,5,250,web,Lagos,True,2026-11-13
+O00076,Bundle Food & Beverage Offer 76,Food & Beverage,30,250,web,Port Harcourt,True,2026-10-31
+O00077,Flash Personal Care Offer 77,Personal Care,20,25,both,all,True,2026-10-06
+O00078,Save Baby Care Offer 78,Baby Care,15,0,web,Abuja,True,2026-10-16
+O00079,Save Travel Offer 79,Travel,15,50,web,Abuja,True,2026-10-25
+O00080,Save Office & School Offer 80,Office & School,15,0,mobile,all,True,2026-10-22
+O00081,Bundle Appliances Offer 81,Appliances,30,100,mobile,Port Harcourt,True,2026-11-10
+O00082,Bundle Electronics Offer 82,Electronics,10,50,web,Port Harcourt,True,2026-12-16
+O00083,Save Food & Beverage Offer 83,Food & Beverage,20,25,mobile,Abuja,True,2026-11-15
+O00084,Bundle Apparel & Footwear Offer 84,Apparel & Footwear,20,0,both,all,True,2026-12-05
+O00085,Bonus Food & Beverage Offer 85,Food & Beverage,10,50,mobile,Abuja,True,2026-12-18
+O00086,Bundle Beauty Offer 86,Beauty,5,250,web,Abuja,True,2026-10-02
+O00087,Flash Office & School Offer 87,Office & School,25,50,both,Abuja,True,2026-12-25
+O00088,Flash Appliances Offer 88,Appliances,5,250,mobile,all,True,2026-12-12
+O00089,Save Electronics Offer 89,Electronics,20,50,mobile,Port Harcourt,True,2026-12-11
+O00090,Bundle Personal Care Offer 90,Personal Care,30,0,both,Abuja,True,2026-11-21
+O00091,Bonus Home & Furniture Offer 91,Home & Furniture,5,50,web,all,True,2026-10-10
+O00092,Bonus Electronics Offer 92,Electronics,20,0,web,Lagos,True,2026-11-08
+O00093,Flash Beauty Offer 93,Beauty,20,100,mobile,Port Harcourt,True,2026-12-11
+O00094,Flash Food & Beverage Offer 94,Food & Beverage,15,25,web,all,True,2026-12-25
+O00095,Bundle Home & Kitchen Offer 95,Home & Kitchen,5,100,both,Abuja,True,2026-10-01
+O00096,Save Pet Care Offer 96,Pet Care,20,100,web,Port Harcourt,True,2026-12-09
+O00097,Bonus Travel Offer 97,Travel,25,100,web,Abuja,True,2026-12-21
+O00098,Bundle Food & Beverage Offer 98,Food & Beverage,25,100,both,Port Harcourt,True,2026-10-29
+O00099,Flash Electronics Offer 99,Electronics,10,25,both,Port Harcourt,True,2026-10-07
+O00100,Bonus Apparel & Footwear Offer 100,Apparel & Footwear,30,50,web,Abuja,True,2026-10-31
+O00101,Bonus Toys & Games Offer 101,Toys & Games,25,0,web,Port Harcourt,True,2026-12-25
+O00102,Save Apparel & Footwear Offer 102,Apparel & Footwear,25,100,web,all,True,2026-10-30
+O00103,Flash Pet Care Offer 103,Pet Care,30,0,mobile,Port Harcourt,True,2026-12-27
+O00104,Save Electronics Offer 104,Electronics,5,25,mobile,Port Harcourt,True,2026-11-25
+O00105,Bonus Baby Care Offer 105,Baby Care,5,50,web,all,True,2026-11-30
+O00106,Flash Appliances Offer 106,Appliances,5,0,web,Abuja,True,2026-12-14
+O00107,Save Electronics Offer 107,Electronics,10,250,web,Lagos,True,2026-11-06
+O00108,Bonus Food & Beverage Offer 108,Food & Beverage,10,50,mobile,Abuja,True,2026-12-10
+O00109,Flash Electronics Offer 109,Electronics,5,25,mobile,all,True,2026-12-19
+O00110,Flash Apparel & Footwear Offer 110,Apparel & Footwear,10,100,mobile,all,True,2026-10-03
+O00111,Flash Food & Beverage Offer 111,Food & Beverage,30,0,web,all,True,2026-11-27
+O00112,Flash Pet Care Offer 112,Pet Care,5,100,mobile,Port Harcourt,True,2026-09-25
+O00113,Bonus Appliances Offer 113,Appliances,10,50,both,Port Harcourt,True,2026-12-09
+O00114,Bundle Apparel & Footwear Offer 114,Apparel & Footwear,10,0,mobile,Lagos,True,2026-11-27
+O00115,Bundle Food & Beverage Offer 115,Food & Beverage,5,0,both,all,True,2026-09-28
+O00116,Bundle Electronics Offer 116,Electronics,20,250,mobile,Port Harcourt,True,2026-10-16
+O00117,Save Personal Care Offer 117,Personal Care,30,25,both,Abuja,True,2026-12-12
+O00118,Bundle Food & Beverage Offer 118,Food & Beverage,30,0,mobile,Port Harcourt,True,2026-12-01
+O00119,Bundle Home & Kitchen Offer 119,Home & Kitchen,30,50,both,Lagos,True,2026-10-13
+O00120,Bonus Apparel & Footwear Offer 120,Apparel & Footwear,5,100,web,Abuja,True,2026-12-06
