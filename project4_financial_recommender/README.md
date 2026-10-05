@@ -203,8 +203,12 @@ Feedback event:
 
 * **Backend** (any Python host, e.g. Render or Railway): set the service's root directory to
   `project4_financial_recommender/backend`, install with `pip install -r requirements.txt`, and
-  start with `uvicorn api.main:app --host 0.0.0.0 --port $PORT`. Set `CORS_ORIGINS` to the
-  frontend's URL (comma-separated; it defaults to the local dev server on port 3004). `artifacts/` is committed, so the
-  API starts without training; if it is missing, the API trains on startup.
+  start with `uvicorn api.main:app --host 0.0.0.0 --port $PORT`. Localhost on any port and any `https://*.vercel.app` URL are always allowed;
+  set `CORS_ORIGINS` (comma-separated) only for a custom frontend domain. `artifacts/` is committed, so the
+  API starts without training; if it is missing, the API trains on startup. Use Python 3.11:
+  `requirements.txt` pins the versions `artifacts/ranker.joblib` was trained with, so retrain after
+  upgrading scikit-learn or numpy. On Render, the repo's `render.yaml` defines this service as
+  `financial-recommender-api`. Feedback, new interactions and retrained artifacts go to local
+  disk, which resets on every redeploy or restart.
 * **Frontend** (e.g. Vercel): root directory `project4_financial_recommender/frontend`, with
   `NEXT_PUBLIC_API_URL` set to the backend URL. `/about` is static and needs no backend.

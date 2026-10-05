@@ -32,12 +32,15 @@ movies.csv → genres + description text → TF-IDF vectors → cosine similarit
 | `docs/api-contract.md` | The stable API contract the frontend relies on |
 
 Everything the backend reads lives inside `backend/`, so deploying or bundling
-that folder never leaves data behind. For hosting, set the backend service's
-root directory to `project1_movie_recommender/backend` and start it with
-`uvicorn api.main:app --host 0.0.0.0 --port $PORT`; the frontend's root
-directory is `project1_movie_recommender/frontend` (set `NEXT_PUBLIC_API_BASE_URL`
-to the deployed API, and add the frontend's origin to `allow_origins` in
-`backend/api/main.py`, which only allows `localhost:3001` today).
+that folder never leaves data behind. For hosting (e.g. Render; the repo's
+`render.yaml` defines this service as `reclab-movie-api`), set the backend service's
+root directory to `project1_movie_recommender/backend`, install with
+`pip install -r requirements.txt` on Python 3.11, and start it with
+`uvicorn api.main:app --host 0.0.0.0 --port $PORT`. Localhost on any port and any `https://*.vercel.app` URL are always allowed,
+so `CORS_ORIGINS` (comma-separated) is only needed for a custom frontend domain.
+The frontend's root directory is `project1_movie_recommender/frontend`, with
+`NEXT_PUBLIC_API_BASE_URL` set to the deployed API. Events posted to the API are
+held in memory only, so they reset whenever the service restarts.
 
 ## Run it locally
 

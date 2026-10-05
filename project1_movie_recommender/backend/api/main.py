@@ -6,6 +6,7 @@ Serves the Next.js playground UI with two toy recommenders built from the CSVs i
 - Project 2 (retail): an item-item collaborative baseline with a popularity cold-start fallback.
 Everything is loaded and precomputed in memory at import time; nothing is persisted.
 """
+import os
 from pathlib import Path
 import pandas as pd
 from fastapi import FastAPI, HTTPException
@@ -34,10 +35,15 @@ movie_similarity = cosine_similarity(movie_matrix)
 
 app = FastAPI(title="RecLab Recommendation API")
 
-# Allow the local Next.js frontend to call this API from the browser.
+# Let the Next.js frontend call this API from the browser. Always allowed: any localhost / 127.0.0.1
+# port (local testing) and any https://*.vercel.app URL (Vercel production and preview deployments).
+# Other deployed frontends (e.g. a custom domain) go in CORS_ORIGINS, comma-separated.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3001", "http://127.0.0.1:3001"],
+    allow_origins=[
+        origin.strip().rstrip("/") for origin in os.environ.get("CORS_ORIGINS", "").split(",") if origin.strip()
+    ],
+    allow_origin_regex=r"http://(localhost|127\.0\.0\.1)(:\d+)?|https://[a-z0-9-]+\.vercel\.app",
     allow_methods=["*"],
     allow_headers=["*"],
 )

@@ -174,9 +174,11 @@ most. The data is synthetic and built to cluster by category, so real behavior i
 * **Frontend → Vercel:** import the repo and set **Root Directory** to `project2_shopsmart/frontend`.
   Set the environment variable `NEXT_PUBLIC_API_URL` to the backend's public URL. It is inlined at build time, so redeploy after changing it.
 * **Backend → Render, Railway, Fly.io or similar:** set the root directory to `project2_shopsmart/backend`.
+  On Render, the repo's `render.yaml` Blueprint already defines this service (`shopsmart-api`).
+  * Python 3.11. `requirements.txt` pins the versions `artifacts/model.joblib` was trained with; retrain after upgrading scikit-learn or numpy.
   * Build: `pip install -r requirements.txt`
   * Start: `uvicorn api.main:app --host 0.0.0.0 --port $PORT`
-  * Set `CORS_ORIGINS` to the frontend URL, for example `https://your-app.vercel.app`. Separate several origins with commas.
+  * CORS: localhost on any port and any `https://*.vercel.app` URL are always allowed. Set `CORS_ORIGINS` only for a custom frontend domain, for example `https://shop.example.com`. Separate several origins with commas.
 * **Caveat:** feedback events, `new_interactions.csv` and retrained artifacts are written to local disk.
   On most hosts that disk is wiped on every redeploy or restart, so the demo resets to the committed model.
   The AWS path below replaces those local files with Kinesis/S3.

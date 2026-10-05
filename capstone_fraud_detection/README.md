@@ -212,8 +212,10 @@ The Lambdas and the SageMaker handler are tested locally in `backend/tests/test_
 ### Hosting the app elsewhere (e.g. a PaaS)
 
 * Backend: set the service's root directory to `capstone_fraud_detection/backend`, install with
-  `pip install -r requirements.txt`, and start with `uvicorn api.main:app --host 0.0.0.0 --port $PORT`.
-  Set `CORS_ORIGINS` to the dashboard's URL. The SQLite store (`data/decisions.sqlite3`) is local to
+  `pip install -r requirements.txt` on Python 3.11, and start with `uvicorn api.main:app --host 0.0.0.0 --port $PORT`.
+  On Render, the repo's `render.yaml` defines this service as `fraud-detection-api`.
+  `requirements.txt` pins the versions `artifacts/fraud_pipeline.joblib` was trained with; retrain
+  after upgrading scikit-learn or numpy. Localhost on any port and any `https://*.vercel.app` URL are always allowed; set `CORS_ORIGINS` (comma-separated) only for a custom dashboard domain. The SQLite store (`data/decisions.sqlite3`) is local to
   the instance, so it resets on redeploy unless you attach a disk.
 * Frontend: root directory `capstone_fraud_detection/frontend`, with `NEXT_PUBLIC_API_URL` pointing at the backend.
 

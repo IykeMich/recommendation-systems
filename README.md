@@ -42,14 +42,30 @@ All data is synthetic and intentionally patterned for learning and evaluation. I
 safe to publish with a portfolio. Do not present the synthetic fraud label as a
 real-world fraud model.
 
-## Deploying (e.g. Vercel)
+## Deploying
 
-* **Frontend:** set the project's root directory to `<project>/frontend`, and set
+* **Frontend (e.g. Vercel):** set the project's root directory to `<project>/frontend`, and set
   `NEXT_PUBLIC_API_URL` (`NEXT_PUBLIC_API_BASE_URL` for Project 1) to the deployed API.
-* **Backend:** set the root directory to `<project>/backend`. It holds `api/`, `src/`,
-  `data/` and `artifacts/`, so everything the API needs is included. Start command:
-  `uvicorn api.main:app --host 0.0.0.0 --port $PORT`. Serverless file systems are read-only
-  and reset between requests. Read-only endpoints work, but anything that writes files
-  won't persist there: feedback logs, new interactions, retraining, and the capstone's
-  SQLite decision store. Use a database or object storage (e.g. DynamoDB or S3, as in
-  each project's AWS design) for those.
+* **Backend (e.g. Render):** [`render.yaml`](render.yaml) is a Render Blueprint with one web
+  service per backend (in Render: **New → Blueprint**, pick this repo). To set one up by hand
+  instead, use:
+  * Root directory: `<project>/backend`. It holds `api/`, `src/`, `data/` and `artifacts/`, so
+    everything the API needs is included.
+  * Build: `pip install -r requirements.txt`
+  * Start: `uvicorn api.main:app --host 0.0.0.0 --port $PORT`
+  * Health check: `/health`
+  * Environment: `PYTHON_VERSION=3.11.9`. Every API always allows `http://localhost` /
+    `http://127.0.0.1` on any port and any `https://*.vercel.app` URL (production and preview
+    deployments), so no CORS setting is needed for local testing or Vercel. For a custom frontend
+    domain, also set `CORS_ORIGINS` (comma-separated). Locally the APIs still run on ports 8001–8005; on Render each service listens
+    on Render's `$PORT` and the frontend calls its `https://<service>.onrender.com` URL.
+
+  `requirements.txt` pins the library versions the committed `.joblib` models were trained
+  with (scikit-learn 1.6.1, numpy 2.0.2). Keep the pins, or retrain after upgrading, otherwise the
+  models may fail to load. numpy 2.0.2 has no Python 3.13 wheels, which is why Python is pinned to 3.11.
+* **Written data resets.** Render's disk is temporary, so feedback logs, new interactions,
+  retrained models and the capstone's SQLite decision store reset to the committed state on every
+  deploy or restart. That's fine for a demo. For persistence, use a Render disk, a database or object
+  storage (e.g. DynamoDB or S3, as in each project's AWS design).
+* **Don't host the backends on Vercel.** Serverless file systems are read-only, so endpoints
+  that write files fail (in ShopSmart that includes recommendations, which log an impression).

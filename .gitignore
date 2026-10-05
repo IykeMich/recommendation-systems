@@ -1,1 +1,3 @@
 *.txt
+# Keep dependency lists: Render/Vercel install from requirements.txt in each backend.
+!requirements*.txt

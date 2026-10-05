@@ -1,0 +1,68 @@
+# Render Blueprint: one web service per project backend (New > Blueprint, then pick this repo).
+# Each service builds only from its own backend/ folder. The APIs always allow localhost (any port)
+# and https://*.vercel.app, so no CORS setting is needed for local testing or Vercel. For a custom
+# frontend domain, add a CORS_ORIGINS env var (comma-separated) to that service in the dashboard.
+# Python is pinned to 3.11 because requirements.txt pins numpy 2.0.2, which has no 3.13 wheels.
+# Files the APIs write (feedback logs, new interactions, retrained models, the capstone's SQLite
+# store) are on Render's temporary disk and reset on every deploy or restart.
+
+services:
+  - type: web
+    name: reclab-movie-api
+    runtime: python
+    plan: free
+    rootDir: project1_movie_recommender/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: web
+    name: shopsmart-api
+    runtime: python
+    plan: free
+    rootDir: project2_shopsmart/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: web
+    name: context-offers-api
+    runtime: python
+    plan: free
+    rootDir: project3_context_offers/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: web
+    name: financial-recommender-api
+    runtime: python
+    plan: free
+    rootDir: project4_financial_recommender/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: web
+    name: fraud-detection-api
+    runtime: python
+    plan: free
+    rootDir: capstone_fraud_detection/backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9

@@ -204,7 +204,12 @@ aws s3 cp data/ s3://$BUCKET/project3-context-offers/data/ --recursive
 * **Frontend:** set `NEXT_PUBLIC_API_URL` to the API Gateway URL. No AWS credentials in the browser.
 * **Hosting the API elsewhere** (Render, Railway, Fly, etc.): set the service's root directory to
   `project3_context_offers/backend`, install with `pip install -r requirements.txt` and start with
-  `uvicorn api.main:app --host 0.0.0.0 --port $PORT`. The frontend's root directory is
+  `uvicorn api.main:app --host 0.0.0.0 --port $PORT` on Python 3.11 (on Render, the repo's
+  `render.yaml` defines it as `context-offers-api`). Localhost on any port and any `https://*.vercel.app` URL are always allowed;
+  set `CORS_ORIGINS` (comma-separated) only for a custom frontend domain. `requirements.txt` pins the
+  versions `artifacts/ranker.joblib` was trained with; retrain after upgrading scikit-learn or numpy.
+  Feedback, new interactions and retrained artifacts go to local disk, which most hosts wipe on
+  redeploy or restart, so the demo resets to the committed model. The frontend's root directory is
   `project3_context_offers/frontend`.
 
 Feedback event, which always carries the context that produced the recommendation:

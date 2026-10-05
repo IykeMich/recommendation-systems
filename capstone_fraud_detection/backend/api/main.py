@@ -28,10 +28,15 @@ from src.predict import FraudScorer
 from .store import DecisionStore, DuplicateTransaction, utc_now
 
 app = FastAPI(title="Fraud Detection API", version="1.0.0")
-# Allow the Next.js dashboard (a different origin/port) to call the API from the browser.
+# Let the Next.js frontend call this API from the browser. Always allowed: any localhost / 127.0.0.1
+# port (local testing) and any https://*.vercel.app URL (Vercel production and preview deployments).
+# Other deployed frontends (e.g. a custom domain) go in CORS_ORIGINS, comma-separated.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=os.environ.get("CORS_ORIGINS", "http://localhost:3005,http://127.0.0.1:3005").split(","),
+    allow_origins=[
+        origin.strip().rstrip("/") for origin in os.environ.get("CORS_ORIGINS", "").split(",") if origin.strip()
+    ],
+    allow_origin_regex=r"http://(localhost|127\.0\.0\.1)(:\d+)?|https://[a-z0-9-]+\.vercel\.app",
     allow_methods=["*"],
     allow_headers=["*"],
 )
