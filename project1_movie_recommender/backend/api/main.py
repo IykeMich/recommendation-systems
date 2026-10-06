@@ -6,6 +6,7 @@ Serves the Next.js playground UI with two toy recommenders built from the CSVs i
 - Project 2 (retail): an item-item collaborative baseline with a popularity cold-start fallback.
 Everything is loaded and precomputed in memory at import time; nothing is persisted.
 """
+
 import os
 from pathlib import Path
 import pandas as pd
